@@ -8,16 +8,17 @@ DefineDiets;
 %----------------------------------------------------
 Diet_AAmin=zeros(10,18);
 Diet_AAmax=zeros(10,18);
+label_baby_food = double(contains(FoodNames(CompletePos),'Babyfood'))';
 for i=1:10
     Diet=DietList{i};
     DietNames(i)
     prob_aa_diet.blx=zeros(2335,1);
     prob_aa_diet.bux=1000*ones(2335,1); 
     %No more than 1kg for one food
-    prob_aa_diet.blc=[Diet.ConstraintLBs;0]; 
-    prob_aa_diet.buc=[Diet.ConstraintUBs;3000];  
+    prob_aa_diet.blc=[Diet.ConstraintLBs;0;-Inf]; 
+    prob_aa_diet.buc=[Diet.ConstraintUBs;3000;0];  
     %No more than 3kg total food
-    prob_aa_diet.a=[Diet.ConstraintMatrix(:,CompletePos);ones(1,length(CompletePos))];
+    prob_aa_diet.a=[Diet.ConstraintMatrix(:,CompletePos);ones(1,length(CompletePos));label_baby_food];
     if i<9
         prob_aa_diet.blc=[prob_aa_diet.blc;1800];
         prob_aa_diet.buc=[prob_aa_diet.buc;2200];
@@ -40,20 +41,22 @@ Diet_AAVar(isinf(Diet_AAVar))=0;
 Diet_Var_Pos=find(max(Diet_AAVar')>0);
 Diet_AAVar=Diet_AAVar(max(Diet_AAVar')>0,:);
 
-map=brewermap(64,'RdBu');
-map=map(end:-1:1,:);
+%%
+cmap_now = brewermap(100,'RdYlGn');
 figure;
+colormap(cmap_now(75:-1:26,:));
 subplot(1,2,1);
 heatmap_cluster(Diet_AAmin_Norm',AANames,DietNames,[0 1]);
 title('Minimal daily intake');
 subplot(1,2,2);
 heatmap_cluster(Diet_AAmax_Norm',AANames,DietNames,[0 1]);
 title('Maximal daily intake');
-colormap(map);
 colorbar('Ticks',[0 1],'TickLabels',{'0','Row max'});
 
 figure;
-heatmap_cluster(Diet_AAVar',AANames,DietNames(Diet_Var_Pos),[0 4]);
+colormap(cmap_now(75:-1:26,:));
+heatmap_cluster(Diet_AAVar',AANames,DietNames(Diet_Var_Pos),[0 3]);
 title('Variability');
-colormap(map);
-colorbar('Ticks',[0 4]);
+colorbar('Ticks',[0 3]);
+
+clear cmap_now

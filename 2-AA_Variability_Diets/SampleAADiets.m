@@ -38,7 +38,7 @@ for i=1:10
     list_aa_samp{i}=ACHR_Sampler(prob_samp_diet,K_AA_all,K_AA_all*x0,nWarmup,nFinal);
 end
 
-%% Process the sampled values
+%% Process the sampled values and show violin plots
 F_ANOVA_AA_Diet=zeros(18,1);
 figure;
 for i=1:18
@@ -50,9 +50,11 @@ for i=1:18
     [~,tbl]=anova1(aa_ratio_samp,[],'off');
     F_ANOVA_AA_Diet(i)=tbl{2,5};
     subplot(6,3,i);
-    [~,idx]=sort(median(aa_ratio_samp));
-    violinplot(aa_ratio_samp(:,idx),DietNames(idx),'ShowData',false);
+    violinplot(aa_ratio_samp,DietNames,'ShowData',false);
     xtickangle(45);
+    if i < 16
+        xticklabels([]);
+    end
     title(AANames{i});
     xlim([0 11]);
     box on;
@@ -62,10 +64,36 @@ for i=1:10
     a=list_aa_samp{i};
     mean_aa_ratio(i,:)=mean(a./sum(a,2));
 end
-figure;
-plotFractions(mean_aa_ratio,DietNames,AANames);
 
-%% Generate t-SNE plot of sampled AA compositions of diets
+%%
+[~,idx] = sort(F_ANOVA_AA_Diet,'descend');
+figure;
+for i=1:4
+    aa_ratio_samp=zeros(nFinal,10);
+    for j=1:10
+        a=list_aa_samp{j};
+        aa_ratio_samp(:,j)=a(:,idx(i))./sum(a,2);
+    end
+    subplot(2,2,i);
+    violinplot(aa_ratio_samp,DietNames,'ShowData',false);
+    xtickangle(45);
+    title(AANames{idx(i)});
+    xlim([0 11]);
+    ylabel('Abundance [g/g total AA]');
+    box on;
+end
+
+%% Plot average fractions of AAs in dietary patterns
+data = (mean_aa_ratio-min(mean_aa_ratio))./(max(mean_aa_ratio)-min(mean_aa_ratio));
+figure;
+
+cmap_now = brewermap(100,'RdYlGn');
+heatmap_cluster(data',AANames,DietNames,[0 1],cmap_now(75:-1:26,:));
+colorbar('Ticks',[0 1],'TickLabels',{'Row min','Row max'});
+title('Relative abundance of amino acids in diets');
+clear data cmap_now
+
+%% PCA of amino acid compositions of diets
 diet_tag=reshape(repmat(DietNames,5000,1),50000,1);
 aa_ratio_downsample=zeros(50000,18);
 for i=1:10
@@ -73,10 +101,22 @@ for i=1:10
     a=list_aa_samp{i};
     aa_ratio_downsample((i-1)*5000+1:i*5000,:)=a(rp(1:5000),:)./sum(a(rp(1:5000),:),2);    
 end
-x=tsne(aa_ratio_downsample);
-color=brewermap(11,'Set3');
+
+[~,score,~,~,explained,~]=pca(aa_ratio_downsample);
 figure;
-gscatter(x(:,1),x(:,2),diet_tag,color,[],[]);
+color=brewermap(11,'Set3');
+for i=1:10
+    data=score((i-1)*5000+1:i*5000,:);
+    scatter3(data(:,1),data(:,2),data(:,3),5,color(i,:),'filled');
+    hold(gca,'on');
+end
+box on;
+grid on;
+xlabel(sprintf('PC1 (%.1f%%)',explained(1)));
+ylabel(sprintf('PC2 (%.1f%%)',explained(2)));
+zlabel(sprintf('PC3 (%.1f%%)',explained(3)));
+legend(DietNames);
+title('PCA of relative amino acid compositions of diets');
 
 %% Plot AA composition of example diets under each dietary scheme
 n_exp=3; %Number of exemplar diets in each diet type

@@ -107,12 +107,14 @@ Japanese.ConstraintMatrix=ConstraintMatrix;
 
 %-------------------------------------------------------------------------
 %Diet 3: Vegetarian diet
-%Vegetarian diet is defined by zero consumption of animal products
+%Vegetarian diet is defined by zero consumption of meat
 %-------------------------------------------------------------------------
 ConstraintNames={'Animal products'};
 ConstraintLBs=0;
 ConstraintUBs=0;
-ConstraintMatrix=double(ismember(FoodTypeIDs',[1 2 4 10 13 15 17 18 19 20 21 22]));
+ConstraintMatrix=double(ismember(FoodTypeIDs',[1 2 4 10 13 15 17 18 19 20 21 22 23]));
+animal_fats = readtable('list_animal_fat.csv'); % Read the list of animal products in the food category "fat"
+ConstraintMatrix = ConstraintMatrix + double(ismember(FoodNames,animal_fats.Name))';
 %-------------------------------------------------------------------------
 %Construct the data structure
 %-------------------------------------------------------------------------
@@ -135,8 +137,9 @@ ConstraintNames={'Modern products'};
 ConstraintLBs=0;
 ConstraintUBs=0;
 ConstraintMatrix=double(1-(contains(FoodNames','Game meat') ...
-    | ismember(FoodTypeIDs',[12 16 21 26]) | contains(FoodNames','19296, Honey'))) ...
-    | contains(FoodNames','juice') | contains(FoodNames','Potatoes');
+    | ismember(FoodTypeIDs',[12 16 21 26]) | contains(FoodNames','19296, Honey')) ...
+    | contains(FoodNames','juice') | contains(FoodNames','Potatoes') | ...
+    (~contains(FoodNames','raw')));
 %-------------------------------------------------------------------------
 %Construct the data structure
 %-------------------------------------------------------------------------
@@ -322,7 +325,9 @@ DASH.ConstraintMatrix=ConstraintMatrix;
 ConstraintNames={'Meat, dairy and eggs'};
 ConstraintLBs=0;
 ConstraintUBs=0;
-ConstraintMatrix=double(ismember(FoodTypeIDs',[1 2 3 4 8 9 10 13 15 17 18 19 20 21 22]));
+ConstraintMatrix=double(ismember(FoodTypeIDs',[1 2 3 4 8 9 10 13 15 17 18 19 20 21 22 23]));
+animal_fats = readtable('list_animal_dairy_fat.csv'); % Read the list of animal and dairy products in the category "fat"
+ConstraintMatrix = ConstraintMatrix + double(ismember(FoodNames,animal_fats.Name))';
 %-------------------------------------------------------------------------
 %Construct the data structure
 %-------------------------------------------------------------------------
