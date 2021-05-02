@@ -1,5 +1,5 @@
 %% Load food nutrient composition data from the USDA SR database
-x=readtable('FoodMatrix.csv');
+x=readtable('FoodMatrix.csv','PreserveVariableNames',true);
 FoodNames=table2array(x(:,1)); %Name of foods
 FoodTypes=table2array(x(:,2)); %Type of foods
 FoodMatrix=table2array(x(:,3:end)); %Nutrient values of foods
@@ -94,12 +94,78 @@ title('Amino acid composition of foods');
 figure;heatmap_cluster(CVAA_CAT,CATs_keep,AANames,[0 0.8]);
 title('CV of amino acid composition in food categories');
 
-%% Generate heatmap as output
+% Plot heatmap to compare average AA abundance in food groups
 data = (MeanAA_CAT-min(MeanAA_CAT))./(max(MeanAA_CAT)-min(MeanAA_CAT));
 figure;
-heatmap_cluster(data',AANames,CATs_keep,[0 1]);
-cmap_now = brewermap(100,'PiYG');
+cmap_now = brewermap(100,'RdYlGn');
 colormap(cmap_now(75:-1:26,:));
+heatmap_cluster(data',AANames,CATs_keep,[0 1]);
 clear cmap_now data
 colorbar('Ticks',[0 1],'TickLabels',{'0','Row max'});
 title('Amino acid abundances in food groups');
+
+%% Compare variability in AA composition with variability of fats and carbs
+
+% Extract carbohydrate/fat content information in foods
+CarbNames={'Carbohydrate, by difference,g','Fiber, total dietary,g',...
+    'Sugars, total,g'};
+[~,pos]=ismember(CarbNames,Nutrients);
+CarbNames={'Dietary fiber','Sugar','Other'};
+x=FoodMatrix(:,pos);x(x==-1)=NaN;
+CarbRatio=[x(:,2:3) x(:,1)-x(:,2)-x(:,3)];
+CarbRatio(CarbRatio<0)=0;
+CarbRatio=CarbRatio./sum(CarbRatio,2);
+
+LipidNames={'Total lipid (fat),g','Fatty acids, total saturated,g',...
+'Fatty acids, total polyunsaturated,g','Fatty acids, total monounsaturated,g',...
+'18:1 undifferentiated,g','18:2 undifferentiated,g',...
+'18:3 undifferentiated,g','16:0,g','18:0,g'};
+[~,pos]=ismember(LipidNames,Nutrients);
+LipidNames_1={'Saturated','Polyunsaturated','Monounsaturated'};
+LipidNames_2={'18:1','18:2','18:3','16:0','18:0','Other'};
+LipidNames_Combine = [LipidNames_1 LipidNames_2];
+x=FoodMatrix(:,pos);x(x==-1)=NaN;
+LipidRatio_1=x(:,2:4);LipidRatio_1=LipidRatio_1./x(:,1);
+LipidRatio_2=[x(:,5:9) x(:,1)-sum(x(:,5:9),2)];
+LipidRatio_2(LipidRatio_2<0)=0;LipidRatio_2=LipidRatio_2./x(:,1);
+LipidRatio_Combine = [LipidRatio_1 LipidRatio_2];
+
+% One-way ANOVA comparing AA/carb/fat composition across foods
+FoodTypes_Reduced=FoodTypes(CompletePos);
+idx_keep = find(ismember(FoodTypes_Reduced,CATs_keep));
+
+F_ANOVA_AA=zeros(18,1);
+F_ANOVA_Carb=zeros(3,1);
+F_ANOVA_Fat=zeros(9,1);
+for i=1:18
+    [~,tbl]=anova1(gAA_gProt(idx_keep,i),FoodTypes_Reduced(idx_keep),'off');
+    F_ANOVA_AA(i)=tbl{2,5};
+end
+for i=1:3
+    [~,tbl]=anova1(CarbRatio(CompletePos(idx_keep),i),FoodTypes_Reduced(idx_keep),'off');
+    F_ANOVA_Carb(i)=tbl{2,5};
+end
+for i=1:9
+    [~,tbl]=anova1(LipidRatio_Combine(CompletePos(idx_keep),i),FoodTypes_Reduced(idx_keep),'off');
+    F_ANOVA_Fat(i)=tbl{2,5};
+end
+
+% Show violin plots comparing 18:0, polyunsaturated, dietary fiber, lysine,
+% methionine, histidine across food groups
+data_violin = [LipidRatio_Combine(CompletePos(idx_keep),[2 8 1]) CarbRatio(CompletePos(idx_keep),1) gAA_gProt(idx_keep,[14 15 7 5])]; 
+title_violin = {'Polyunsaturated fat','Saturated fat 18:0','Saturated fat',...
+    'Dietary fiber','Methionine','Histidine','Lysine','Proline'};
+ylabel_violin = {'g/g total fat','g/g total fat','g/g total fat','g/g total carbohydrate',...
+    'g/g total amino acids','g/g total amino acids','g/g total amino acids','g/g total amino acids'};
+data_violin(isnan(data_violin)) = 0;
+figure;
+for i=1:8
+    subplot(2,4,i);
+    violinplot(data_violin(:,i),FoodTypes_Reduced(idx_keep),'ViolinColor',[112 173 71]/255);
+    title(title_violin(i));
+    xtickangle(45);
+    ylabel(ylabel_violin(i));
+    box on;
+end
+
+clear data_violin title_violin ylabel_violin

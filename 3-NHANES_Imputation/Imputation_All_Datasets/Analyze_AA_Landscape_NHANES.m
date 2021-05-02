@@ -80,15 +80,18 @@ for i=1:7
     title(sprintf('%s\nSpearman correlation=%0.2f,p=%0.2f',...
         replace(MediumNames{i},'_','-'),c,p));
 end
+
 clear AA_HMDB AA_Medium AA_Medium_NHANES AA_NCI60 c p count i j mapAA_HMDB_to_NHANES ...
 mapAA_Medium_to_NHANES mapAA_NCI60_to_NHANES mean_HMDB mean_NCI60 mean_NHANES ...
 MeanList MediumNames std_HMDB std_NCI60 std_NHANES StdList TitleList xmean xstd ...
 ymean ystd
 
+
 %% Plot distributions of dietary AA compositions
 figure;
 [~,idx]=sort(median(AA_Prot_Ratio_Rec));
-violinplot(AA_Prot_Ratio_Rec(:,idx),AANames_NHANES(idx),'ShowData',false);
+violinplot(AA_Prot_Ratio_Rec(:,idx),AANames_NHANES(idx),'ShowData',false,...
+    'ViolinColor',[112 173 71]/255);
 ylabel('Dietary intake [g/g total AA]');
 xtickangle(45);xlim([0 19]);box on;
 title('Distributions of dietary AA composition in NHANES');
@@ -187,11 +190,11 @@ clear i x xt yt map color colors explained acc_explained rp
 figure;
 for i=1:18
     y=AA_Prot_Ratio_Rec(:,i);    
-    f=fit(Age,y,'poly3');
+    f=polyfit(Age,y,3);
     subplot(3,6,i);
     scatter(Age,y,'.','MarkerEdgeColor',[0.8 0.8 0.8]);
     hold on;
-    plot(0:80,f(0:80),'Color',[0 0 0],'LineWidth',2);
+    plot(0:80,polyval(f,0:80),'Color',[0 0 0],'LineWidth',2);
     title(AANames_NHANES(i));xlim([0 80]);box on;
     xlabel('Age [year]');ylabel('AA/Total AA');
 end
