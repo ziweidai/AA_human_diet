@@ -1,0 +1,46 @@
+Data File Name	Doc File	Data File	Date Published
+Acculturation	ACQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/ACQ_E.htm)	ACQ_E Data [XPT - 281.6 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/ACQ_E.XPT)	September 2009
+Air Quality	AQQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/AQQ_E.htm)	AQQ_E Data [XPT - 718.7 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/AQQ_E.XPT)	November 2010
+Alcohol Use	ALQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/ALQ_E.htm)	ALQ_E Data [XPT - 403.3 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/ALQ_E.XPT)	September 2009
+Audiometry	AUQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/AUQ_E.htm)	AUQ_E Data [XPT - 1.3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/AUQ_E.XPT)	January 2010
+Blood Pressure & Cholesterol	BPQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/BPQ_E.htm)	BPQ_E Data [XPT - 975.1 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/BPQ_E.XPT)	September 2009
+Bowel Health	BHQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/BHQ_E.htm)	BHQ_E Data [XPT - 313.8 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/BHQ_E.XPT)	September 2009
+Cardiovascular Health	CDQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/CDQ_E.htm)	CDQ_E Data [XPT - 537.7 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/CDQ_E.XPT)	September 2009
+Consumer Behavior	CBQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/CBQ_E.htm)	CBQ_E Data [XPT - 1.4 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/CBQ_E.XPT)	May 2010
+Consumer Behavior Phone Follow-up Module - Adult	CBQPFA_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/CBQPFA_E.htm)	CBQPFA_E Data [XPT - 2.7 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/CBQPFA_E.XPT)	April 2012
+Consumer Behavior Phone Follow-up Module - Child	CBQPFC_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/CBQPFC_E.htm)	CBQPFC_E Data [XPT - 1.3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/CBQPFC_E.XPT)	April 2012
+Current Health Status	HSQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/HSQ_E.htm)	HSQ_E Data [XPT - 1020.6 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/HSQ_E.XPT)	September 2009
+Diabetes	DIQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DIQ_E.htm)	DIQ_E Data [XPT - 2.7 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DIQ_E.XPT)	Updated April 2011
+Diet Behavior & Nutrition	DBQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DBQ_E.htm)	DBQ_E Data [XPT - 4.2 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DBQ_E.XPT)	May 2010
+Drug Use	DUQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DUQ_E.htm)	DUQ_E Data [XPT - 1.3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DUQ_E.XPT)	January 2010
+Early Childhood	ECQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/ECQ_E.htm)	ECQ_E Data [XPT - 396.8 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/ECQ_E.XPT)	September 2009
+Food Security	FSQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/FSQ_E.htm)	FSQ_E Data [XPT - 3.4 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/FSQ_E.XPT)	July 2010
+Health Insurance	HIQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/HIQ_E.htm)	HIQ_E Data [XPT - 1.3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/HIQ_E.XPT)	September 2009
+Hepatitis C Follow Up	HCQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/HCQ_E.htm)	HCQ_E Data [XPT - 40.4 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/HCQ_E.XPT)	July 2010
+Hospital Utilization & Access to Care	HUQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/HUQ_E.htm)	HUQ_E Data [XPT - 795 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/HUQ_E.XPT)	September 2009
+Housing Characteristics	HOQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/HOQ_E.htm)	HOQ_E Data [XPT - 556.8 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/HOQ_E.XPT)	September 2009
+Immunization	IMQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/IMQ_E.htm)	IMQ_E Data [XPT - 397.9 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/IMQ_E.XPT)	September 2009
+Income	INQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/INQ_E.htm)	INQ_E Data [XPT - 1.2 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/INQ_E.XPT)	June 2010
+Kidney Conditions - Urology	KIQ_U_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/KIQ_U_E.htm)	KIQ_U_E Data [XPT - 744.8 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/KIQ_U_E.XPT)	September 2009
+Medical Conditions	MCQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/MCQ_E.htm)	MCQ_E Data [XPT - 6.8 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/MCQ_E.XPT)	September 2009
+Mental Health - Depression Screener	DPQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DPQ_E.htm)	DPQ_E Data [XPT - 517.5 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DPQ_E.XPT)	October 2009
+Occupation	OCQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OCQ_E.htm)	OCQ_E Data [XPT - 1.2 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OCQ_E.XPT)	Updated August 2013
+Oral Health	OHQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OHQ_E.htm)	OHQ_E Data [XPT - 439.9 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OHQ_E.XPT)	September 2009
+Osteoporosis	OSQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OSQ_E.htm)	OSQ_E Data [XPT - 4.8 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OSQ_E.XPT)	October 2009
+Pesticide Use	PUQMEC_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/PUQMEC_E.htm)	PUQMEC_E Data [XPT - 191.8 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/PUQMEC_E.XPT)	September 2009
+Physical Activity	PAQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/PAQ_E.htm)	PAQ_E Data [XPT - 1.5 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/PAQ_E.XPT)	Updated March 2017
+Physical Functioning	PFQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/PFQ_E.htm)	PFQ_E Data [XPT - 4.1 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/PFQ_E.XPT)	September 2009
+Prescription Medications	RXQ_RX_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/RXQ_RX_E.htm)	RXQ_RX_E Data [XPT - 3.1 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/RXQ_RX_E.XPT)	April 2010
+Prescription Medications - Drug Information	RXQ_DRUG Doc(https://wwwn.cdc.gov/Nchs/Nhanes/1999-2000/RXQ_DRUG.htm)	RXQ_DRUG Data [XPT - 2.6 KB](https://wwwn.cdc.gov/Nchs/Nhanes/1999-2000/RXQ_DRUG.xpt)	Updated December 2016
+Prostate Conditions	KIQ_P_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/KIQ_P_E.htm)	KIQ_P_E Data [XPT - 403.3 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/KIQ_P_E.XPT)	September 2009
+Reproductive Health	RHQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/RHQ_E.htm)	RHQ_E Data [XPT - 1.6 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/RHQ_E.XPT)	Updated December 2017
+Respiratory Health	RDQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/RDQ_E.htm)	RDQ_E Data [XPT - 1.1 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/RDQ_E.XPT)	January 2010
+Sexual Behavior	SXQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SXQ_E.htm)	SXQ_E Data [XPT - 1 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SXQ_E.XPT)	September 2009
+Sleep Disorders	SLQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SLQ_E.htm)	SLQ_E Data [XPT - 1.4 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SLQ_E.XPT)	October 2009
+Smoking - Cigarette Use	SMQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SMQ_E.htm)	SMQ_E Data [XPT - 2.3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SMQ_E.XPT)	Updated May 2015
+Smoking - Household Smokers	SMQFAM_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SMQFAM_E.htm)	SMQFAM_E Data [XPT - 397.9 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SMQFAM_E.XPT)	September 2009
+Smoking - Recent Tobacco Use	SMQRTU_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SMQRTU_E.htm)	SMQRTU_E Data [XPT - 1.3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SMQRTU_E.XPT)	September 2009
+Social Support	SSQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SSQ_E.htm)	SSQ_E Data [XPT - 664 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SSQ_E.XPT)	September 2009
+Vision	VIQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/VIQ_E.htm)	VIQ_E Data [XPT - 1012 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/VIQ_E.XPT)	September 2009
+Weight History	WHQ_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/WHQ_E.htm)	WHQ_E Data [XPT - 2.9 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/WHQ_E.XPT)	September 2009
+Weight History - Youth	WHQMEC_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/WHQMEC_E.htm)	WHQMEC_E Data [XPT - 282.9 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/WHQMEC_E.XPT)	September 2009

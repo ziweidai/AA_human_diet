@@ -1,0 +1,45 @@
+Data File Name	Doc File	Data File	Date Published
+Acculturation	ACQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/ACQ_H.htm)	ACQ_H Data [XPT - 434.2 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/ACQ_H.XPT)	March 2016
+Alcohol Use	ALQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/ALQ_H.htm)	ALQ_H Data [XPT - 464.9 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/ALQ_H.XPT)	March 2016
+Blood Pressure & Cholesterol	BPQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BPQ_H.htm)	BPQ_H Data [XPT - 709.7 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BPQ_H.XPT)	October 2015
+Cardiovascular Health	CDQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CDQ_H.htm)	CDQ_H Data [XPT - 509.8 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CDQ_H.XPT)	October 2015
+Cognitive Functioning	CFQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CFQ_H.htm)	CFQ_H Data [XPT - 268.4 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CFQ_H.XPT)	March 2017
+Consumer Behavior	CBQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBQ_H.htm)	CBQ_H Data [XPT - 478.5 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBQ_H.XPT)	November 2015
+Creatine Kinase	CKQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CKQ_H.htm)	CKQ_H Data [XPT - 438 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CKQ_H.XPT)	February 2017
+Current Health Status	HSQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HSQ_H.htm)	HSQ_H Data [XPT - 664.5 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HSQ_H.XPT)	December 2015
+Dermatology	DEQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEQ_H.htm)	DEQ_H Data [XPT - 278.2 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEQ_H.XPT)	Updated August 2017
+Diabetes	DIQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DIQ_H.htm)	DIQ_H Data [XPT - 4 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DIQ_H.XPT)	October 2015
+Diet Behavior & Nutrition	DBQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DBQ_H.htm)	DBQ_H Data [XPT - 4 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DBQ_H.XPT)	November 2015
+Disability	DLQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DLQ_H.htm)	DLQ_H Data [XPT - 536 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DLQ_H.XPT)	October 2015
+Drug Use	DUQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DUQ_H.htm)	DUQ_H Data [XPT - 1.6 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DUQ_H.XPT)	March 2016
+Early Childhood	ECQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/ECQ_H.htm)	ECQ_H Data [XPT - 292 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/ECQ_H.XPT)	October 2015
+Food Security	FSQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/FSQ_H.htm)	FSQ_H Data [XPT - 3.1 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/FSQ_H.XPT)	May 2016
+Health Insurance	HIQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HIQ_H.htm)	HIQ_H Data [XPT - 1.3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HIQ_H.XPT)	October 2015
+Hepatitis	HEQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HEQ_H.htm)	HEQ_H Data [XPT - 336.2 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HEQ_H.XPT)	October 2015
+Hospital Utilization & Access to Care	HUQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm)	HUQ_H Data [XPT - 797 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.XPT)	October 2015
+Housing Characteristics	HOQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HOQ_H.htm)	HOQ_H Data [XPT - 239.7 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HOQ_H.XPT)	October 2015
+Immunization	IMQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/IMQ_H.htm)	IMQ_H Data [XPT - 637.7 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/IMQ_H.XPT)	October 2015
+Income	INQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/INQ_H.htm)	INQ_H Data [XPT - 1.2 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/INQ_H.XPT)	October 2015
+Kidney Conditions - Urology	KIQ_U_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/KIQ_U_H.htm)	KIQ_U_H Data [XPT - 724.1 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/KIQ_U_H.XPT)	February 2017
+Medical Conditions	MCQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/MCQ_H.htm)	MCQ_H Data [XPT - 7.1 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/MCQ_H.XPT)	October 2015
+Mental Health - Depression Screener	DPQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DPQ_H.htm)	DPQ_H Data [XPT - 511.4 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DPQ_H.XPT)	March 2016
+Occupation	OCQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/OCQ_H.htm)	OCQ_H Data [XPT - 456.5 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/OCQ_H.XPT)	July 2016
+Oral Health	OHQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/OHQ_H.htm)	OHQ_H Data [XPT - 4 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/OHQ_H.XPT)	August 2016
+Osteoporosis	OSQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/OSQ_H.htm)	OSQ_H Data [XPT - 2.7 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/OSQ_H.XPT)	October 2015
+Pesticide Use	PUQMEC_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/PUQMEC_H.htm)	PUQMEC_H Data [XPT - 195.5 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/PUQMEC_H.XPT)	October 2015
+Physical Activity	PAQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/PAQ_H.htm)	PAQ_H Data [XPT - 7 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/PAQ_H.XPT)	Updated March 2017
+Physical Functioning	PFQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/PFQ_H.htm)	PFQ_H Data [XPT - 2.5 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/PFQ_H.XPT)	Updated November 2016
+Prescription Medications	RXQ_RX_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/RXQ_RX_H.htm)	RXQ_RX_H Data [XPT - 9.4 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/RXQ_RX_H.XPT)	December 2016
+Prescription Medications - Drug Information	RXQ_DRUG Doc(https://wwwn.cdc.gov/Nchs/Nhanes/1999-2000/RXQ_DRUG.htm)	RXQ_DRUG Data [XPT - 2.6 KB](https://wwwn.cdc.gov/Nchs/Nhanes/1999-2000/RXQ_DRUG.xpt)	Updated December 2016
+Preventive Aspirin Use	RXQASA_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/RXQASA_H.htm)	RXQASA_H Data [XPT - 240.2 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/RXQASA_H.XPT)	December 2016
+Reproductive Health	RHQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/RHQ_H.htm)	RHQ_H Data [XPT - 1.3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/RHQ_H.XPT)	Updated December 2017
+Sexual Behavior	SXQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SXQ_H.htm)	SXQ_H Data [XPT - 1.9 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SXQ_H.XPT)	October 2015
+Sleep Disorders	SLQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SLQ_H.htm)	SLQ_H Data [XPT - 203.3 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SLQ_H.XPT)	February 2016
+Smoking - Cigarette Use	SMQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SMQ_H.htm)	SMQ_H Data [XPT - 2.1 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SMQ_H.XPT)	Updated September 2016
+Smoking - Household Smokers	SMQFAM_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SMQFAM_H.htm)	SMQFAM_H Data [XPT - 319.2 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SMQFAM_H.XPT)	October 2015
+Smoking - Recent Tobacco Use	SMQRTU_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SMQRTU_H.htm)	SMQRTU_H Data [XPT - 1.5 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SMQRTU_H.XPT)	Updated February 2018
+Smoking - Secondhand Smoke Exposure	SMQSHS_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SMQSHS_H.htm)	SMQSHS_H Data [XPT - 1.1 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/SMQSHS_H.XPT)	October 2015
+Taste & Smell	CSQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CSQ_H.htm)	CSQ_H Data [XPT - 1.1 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CSQ_H.XPT)	Updated March 2016
+Volatile Toxicant (Subsample)	VTQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/VTQ_H.htm)	VTQ_H Data [XPT - 658.2 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/VTQ_H.XPT)	February 2017
+Weight History	WHQ_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/WHQ_H.htm)	WHQ_H Data [XPT - 1.7 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/WHQ_H.XPT)	March 2016
+Weight History - Youth	WHQMEC_H Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/WHQMEC_H.htm)	WHQMEC_H Data [XPT - 49.8 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/WHQMEC_H.XPT)	March 2016

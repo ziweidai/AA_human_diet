@@ -1,0 +1,91 @@
+Nutr_no,Units,Tagname,NutrDesc,NHANES_ID
+203,g,PROCNT,Protein,prot
+204,g,FAT,Total lipid (fat),tfat
+205,g,CHOCDF,"Carbohydrate, by difference",carb
+207,g,ASH,Ash,
+208,kcal,ENERC_KCAL,Energy,kcal
+221,g,ALC,"Alcohol, ethyl",alco
+255,g,WATER,Water,mois
+262,mg,CAFFN,Caffeine,caff
+263,mg,THEBRN,Theobromine,theo
+268,kJ,ENERC_KJ,Energy,
+269,g,SUGAR,"Sugars, total",sugr
+291,g,FIBTG,"Fiber, total dietary",fibe
+301,mg,CA,"Calcium, Ca",calc
+303,mg,FE,"Iron, Fe",iron
+304,mg,MG,"Magnesium, Mg",magn
+305,mg,P,"Phosphorus, P",phos
+306,mg,K,"Potassium, K",pota
+307,mg,NA,"Sodium, Na",sodi
+309,mg,ZN,"Zinc, Zn",zinc
+312,mg,CU,"Copper, Cu",copp
+315,mg,MN,"Manganese, Mn",
+317,µg,SE,"Selenium, Se",sele
+318,IU,VITA_IU,"Vitamin A, IU",
+319,µg,RETOL,Retinol,ret
+320,µg,VITA_RAE,"Vitamin A, RAE",vara
+321,µg,CARTB,"Carotene, beta",bcar
+322,µg,CARTA,"Carotene, alpha",acar
+323,mg,TOCPHA,Vitamin E (alpha-tocopherol),atoc
+324,IU,VITD,Vitamin D,
+328,µg,VITD,Vitamin D (D2 + D3),vd
+334,µg,CRYPX,"Cryptoxanthin, beta",cryp
+337,µg,LYCPN,Lycopene,lyco
+338,µg,LUT+ZEA,Lutein + zeaxanthin,lz
+401,mg,VITC,"Vitamin C, total ascorbic acid",vc
+404,mg,THIA,Thiamin,vb1
+405,mg,RIBF,Riboflavin,vb2
+406,mg,NIA,Niacin,niac
+410,mg,PANTAC,Pantothenic acid,
+415,mg,VITB6A,Vitamin B-6,vb6
+417,µg,FOL,"Folate, total",fola
+418,µg,VITB12,Vitamin B-12,vb12
+421,mg,CHOLN,"Choline, total",chl
+430,µg,VITK1,Vitamin K (phylloquinone),vk
+431,µg,FOLAC,Folic acid,fa
+432,µg,FOLFD,"Folate, food",ff
+435,µg,FOLDFE,"Folate, DFE",fdfe
+501,g,TRP_G,Tryptophan,
+502,g,THR_G,Threonine,
+503,g,ILE_G,Isoleucine,
+504,g,LEU_G,Leucine,
+505,g,LYS_G,Lysine,
+506,g,MET_G,Methionine,
+507,g,CYS_G,Cystine,
+508,g,PHE_G,Phenylalanine,
+509,g,TYR_G,Tyrosine,
+510,g,VAL_G,Valine,
+511,g,ARG_G,Arginine,
+512,g,HISTN_G,Histidine,
+513,g,ALA_G,Alanine,
+514,g,ASP_G,Aspartic acid,
+515,g,GLU_G,Glutamic acid,
+516,g,GLY_G,Glycine,
+517,g,PRO_G,Proline,
+518,g,SER_G,Serine,
+573,mg,,"Vitamin E, added",atoa
+578,µg,,"Vitamin B-12, added",b12a
+601,mg,CHOLE,Cholesterol,chol
+605,g,FATRN,"Fatty acids, total trans",
+606,g,FASAT,"Fatty acids, total saturated",sfat
+607,g,F4D0,4:00,s040
+608,g,F6D0,6:00,s060
+609,g,F8D0,8:00,s080
+610,g,F10D0,10:00,s100
+611,g,F12D0,12:00,s120
+612,g,F14D0,14:00,s140
+613,g,F16D0,16:00,s160
+614,g,F18D0,18:00,s180
+617,g,F18D1,18:1 undifferentiated,m181
+618,g,F18D2,18:2 undifferentiated,p182
+619,g,F18D3,18:3 undifferentiated,p183
+620,g,F20D4,20:4 undifferentiated,p204
+621,g,F22D6,22:6 n-3 (DHA),p226
+626,g,F16D1,16:1 undifferentiated,m161
+627,g,F18D4,18:04,p184
+628,g,F20D1,20:01,m201
+629,g,F20D5,20:5 n-3 (EPA),p205
+630,g,F22D1,22:1 undifferentiated,m221
+631,g,F22D5,22:5 n-3 (DPA),p225
+645,g,FAMS,"Fatty acids, total monounsaturated",mfat
+646,g,FAPU,"Fatty acids, total polyunsaturated",pfat

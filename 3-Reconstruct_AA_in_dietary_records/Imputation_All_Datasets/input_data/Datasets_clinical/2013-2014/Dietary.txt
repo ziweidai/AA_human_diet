@@ -1,0 +1,857 @@
+Variable Name	Variable Description	Data File Name	Data File Description	Begin Year	EndYear	Component	Use Constraints
+DBD100	How often {do you/does SP} add ordinary salt to {your/his/her/SP's} food at the table?  Would you say . . .	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DBQ095Z	What type of salt {do you/does SP} usually add to {your/his/her/SP's} food at the table?  Would you say . . .	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1_300	"Was the amount of food that {you/NAME} ate yesterday much more than usual, usual, or much less than usual?"	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1_320Z	"Total plain water drank yesterday - including plain tap water, water from a drinking fountain, water from a water cooler, bottled water, and spring water."	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1_330Z	Total tap water drank yesterday - including filtered tap water and water from a drinking fountain.	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1BWATZ	Total bottled water drank yesterday (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1DAY	Intake day of the week	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1DBIH	Number of days between intake day and the day of family questionnaire administered in the household.	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1DRSTZ	Dietary recall status	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1EXMER	Interviewer ID code	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1HELPD	Who helped in responding for this interview	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1LANG	The respondent spoke mostly:	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1MNRSP	Who was the main respondent for this interview?	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1SKY	"What type of salt was it? (Was it ordinary or seasoned salt, lite salt, or a salt substitute?)"	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1STY	"Did {you/SP} add any salt to {your/her/his} food at the table yesterday? Salt includes ordinary or seasoned salt, lite salt, or a salt substitute."	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TACAR	Alpha-carotene (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TALCO	Alcohol (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TATOA	Added alpha-tocopherol (Vitamin E) (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TATOC	Vitamin E as alpha-tocopherol (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TB12A	Added vitamin B12 (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TBCAR	Beta-carotene (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TCAFF	Caffeine (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TCALC	Calcium (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TCARB	Carbohydrate (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TCHL	Total choline (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TCHOL	Cholesterol (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TCOPP	Copper (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TCRYP	Beta-cryptoxanthin (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TFA	Folic acid (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TFDFE	Folate as dietary folate equivalents (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TFF	Food folate (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TFIBE	Dietary fiber (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TFOLA	Total folate (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TIRON	Iron (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TKCAL	Energy (kcal)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TLYCO	Lycopene (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TLZ	Lutein + zeaxanthin (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TM161	MFA 16:1 (Hexadecenoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TM181	MFA 18:1 (Octadecenoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TM201	MFA 20:1 (Eicosenoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TM221	MFA 22:1 (Docosenoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TMAGN	Magnesium (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TMFAT	Total monounsaturated fatty acids (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TMOIS	Moisture (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TNIAC	Niacin (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TNUMF	Total number of foods/beverages reported in the individual foods file	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TP182	PFA 18:2 (Octadecadienoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TP183	PFA 18:3 (Octadecatrienoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TP184	PFA 18:4 (Octadecatetraenoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TP204	PFA 20:4 (Eicosatetraenoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TP205	PFA 20:5 (Eicosapentaenoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TP225	PFA 22:5 (Docosapentaenoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TP226	PFA 22:6 (Docosahexaenoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TPFAT	Total polyunsaturated fatty acids (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TPHOS	Phosphorus (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TPOTA	Potassium (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TPROT	Protein (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TRET	Retinol (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TS040	SFA 4:0 (Butanoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TS060	SFA 6:0 (Hexanoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TS080	SFA 8:0 (Octanoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TS100	SFA 10:0 (Decanoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TS120	SFA 12:0 (Dodecanoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TS140	SFA 14:0 (Tetradecanoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TS160	SFA 16:0 (Hexadecanoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TS180	SFA 18:0 (Octadecanoic) (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TSELE	Selenium (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TSFAT	Total saturated fatty acids (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TSODI	Sodium (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TSUGR	Total sugars (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TTFAT	Total fat (gm)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TTHEO	Theobromine (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TVARA	Vitamin A as retinol activity equivalents (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TVB1	Thiamin (Vitamin B1) (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TVB12	Vitamin B12 (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TVB2	Riboflavin (Vitamin B2) (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TVB6	Vitamin B6 (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TVC	Vitamin C (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TVD	Vitamin D (D2 + D3) (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TVK	Vitamin K (mcg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TWS	"When you drink tap water, what is the main source of the tap water? Is the city water supply (community water supply); a well or rain cistern; a spring; or something else?"	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR1TZINC	Zinc (mg)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRABF	Indicates whether the sample person was an infant who was breast-fed on either of the two recall days.	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD340	"Please look at this list of shellfish. During the past 30 days did you eat any types of shellfish listed on this card? Include any foods that had shellfish in them such as sandwiches, soups, or salads."	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350A	Clams eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350AQ	Number of times clams were eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350B	Crabs eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350BQ	Number of times crab was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350C	Crayfish eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350CQ	Number of times crayfish was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350D	Lobsters eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350DQ	Number of times lobster was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350E	Mussels eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350EQ	Number of times mussels were eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350F	Oysters eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350FQ	Number of times oysters were eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350G	Scallops eaten during the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350GQ	Number of times scallops were eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350H	Shrimp eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350HQ	Number of times shrimp was eaten in the last 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350I	"Other shellfish ( ex. octopus, squid) eaten during past 30 days"	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350IQ	"Number of times other shellfish (ex. octopus, squid) was eaten in the past 30 days"	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350J	Other unknown shellfish eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350JQ	Number of times other unknown shellfish was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD350K	Refused to give detailed information on shellfish eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD360	"Please look at this list of fish. During the past 30 days did you eat any types of fish listed on this card? Include any foods that had fish in them such as sandwiches, soups, or salads."	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370A	Breaded fish products eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370AQ	Number of times breaded fish products were eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370B	Tuna eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370BQ	Number of times tuna was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370C	Bass eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370CQ	Number of times bass was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370D	Catfish eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370DQ	Number of times catfish was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370E	Cod eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370EQ	Number of times cod was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370F	Flatfish eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370FQ	Number of times flatfish was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370G	Haddock eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370GQ	Number of times haddock was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370H	Mackerel eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370HQ	Number of times mackerel was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370I	Perch eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370IQ	Number of times perch was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370J	Pike eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370JQ	Number of times pike was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370K	Pollock eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370KQ	Number of times pollock was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370L	Porgy eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370LQ	Number of times porgy was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370M	Salmon eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370MQ	Number of times salmon was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370N	Sardines eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370NQ	Number of times sardines were eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370O	Sea bass eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370OQ	Number of times sea bass was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370P	Shark eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370PQ	Number of times shark was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370Q	Swordfish eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370QQ	Number of times swordfish was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370R	Trout eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370RQ	Number of times trout was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370S	Walleye eaten during the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370SQ	Number of times walleye was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370T	Other type of fish eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370TQ	Number of times other type of fish was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370U	Other unknown type eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370UQ	Number of times other unknown type of fish was eaten in the past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRD370V	Refused to give detailed information on fish eaten during past 30 days	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRDINT	Indicates whether the sample person has intake data for one or two days.	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDIET	"Are you currently on any kind of diet, either to lose weight or for some other health-related reason?"	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT1	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT10	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT11	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT12	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT2	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT3	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT4	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT5	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT6	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT7	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT8	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT9	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSDT91	What kind of diet are you on? (Is it a weight loss or low calorie diet: low fat or cholesterol diet; low salt or sodium diet; sugar free or low sugar diet; low fiber diet; high fiber diet; diabetic diet; or another type of diet?)	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DRQSPREP	"How often is ordinary salt or seasoned salt added in cooking or preparing foods in your household?  Is it never, rarely, occasionally, or very often?"	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+SEQN	Respondent sequence number.	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+WTDR2D	Dietary two-day sample weight	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+WTDRD1	Dietary day one sample weight	DR1TOT_H	"Dietary Interview - Total Nutrient Intakes, First Day"	2013	2014	Dietary	None
+DR2_300	"Was the amount of food that {you/NAME} ate yesterday much more than usual, usual, or much less than usual?"	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2_320Z	"Total plain water drank yesterday - including plain tap water, water from a drinking fountain, water from a water cooler, bottled water, and spring water."	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2_330Z	Total tap water drank yesterday - including filtered tap water and water from a drinking fountain.	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2BWATZ	Total bottled water drank yesterday. (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2DAY	Intake day of the week	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2DBIH	Number of days between intake day and the day of family questionnaire administered in the household.	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2DRSTZ	Dietary recall status	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2EXMER	Interviewer ID code	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2HELPD	Who helped in responding for this interview	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2LANG	The respondent spoke mostly:	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2MNRSP	Who was the main respondent for this interview?	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2SKY	"What type of salt was it? (Was it ordinary or seasoned salt, lite salt, or a salt substitute?)"	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2STY	"Did {you/SP} add any salt to {your/her/his} food at the table yesterday? Salt includes ordinary or seasoned salt, lite salt, or a salt substitute."	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TACAR	Alpha-carotene (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TALCO	Alcohol (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TATOA	Added alpha-tocopherol (Vitamin E) (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TATOC	Vitamin E as alpha-tocopherol (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TB12A	Added vitamin B12 (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TBCAR	Beta-carotene (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TCAFF	Caffeine (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TCALC	Calcium (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TCARB	Carbohydrate (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TCHL	Total choline (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TCHOL	Cholesterol (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TCOPP	Copper (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TCRYP	Beta-cryptoxanthin (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TFA	Folic acid (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TFDFE	Folate as dietary folate equivalents (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TFF	Food folate (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TFIBE	Dietary fiber (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TFOLA	Total folate (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TIRON	Iron (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TKCAL	Energy (kcal)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TLYCO	Lycopene (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TLZ	Lutein + zeaxanthin (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TM161	MFA 16:1 (Hexadecenoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TM181	MFA 18:1 (Octadecenoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TM201	MFA 20:1 (Eicosenoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TM221	MFA 22:1 (Docosenoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TMAGN	Magnesium (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TMFAT	Total monounsaturated fatty acids (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TMOIS	Moisture (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TNIAC	Niacin (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TNUMF	Total number of foods/beverages reported in the individual foods file	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TP182	PFA 18:2 (Octadecadienoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TP183	PFA 18:3 (Octadecatrienoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TP184	PFA 18:4 (Octadecatetraenoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TP204	PFA 20:4 (Eicosatetraenoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TP205	PFA 20:5 (Eicosapentaenoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TP225	PFA 22:5 (Docosapentaenoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TP226	PFA 22:6 (Docosahexaenoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TPFAT	Total polyunsaturated fatty acids (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TPHOS	Phosphorus (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TPOTA	Potassium (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TPROT	Protein (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TRET	Retinol (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TS040	SFA 4:0 (Butanoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TS060	SFA 6:0 (Hexanoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TS080	SFA 8:0 (Octanoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TS100	SFA 10:0 (Decanoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TS120	SFA 12:0 (Dodecanoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TS140	SFA 14:0 (Tetradecanoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TS160	SFA 16:0 (Hexadecanoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TS180	SFA 18:0 (Octadecanoic) (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TSELE	Selenium (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TSFAT	Total saturated fatty acids (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TSODI	Sodium (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TSUGR	Total sugars (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TTFAT	Total fat (gm)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TTHEO	Theobromine (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TVARA	Vitamin A as retinol activity equivalents (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TVB1	Thiamin (Vitamin B1) (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TVB12	Vitamin B12 (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TVB2	Riboflavin (Vitamin B2) (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TVB6	Vitamin B6 (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TVC	Vitamin C (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TVD	Vitamin D (D2 + D3) (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TVK	Vitamin K (mcg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TWS	"When you drink tap water, what is the main source of the tap water? Is the city water supply (community water supply); a well or rain cistern; a spring; or something else?"	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR2TZINC	Zinc (mg)	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DRABF	"Indicates whether the sample person was an infant who was breast-fed on either of the two recall 
+
+days."	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DRDINT	Indicates whether the sample person has intake data for one or two days.	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+SEQN	Respondent sequence number.	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+WTDR2D	Dietary two-day sample weight	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+WTDRD1	Dietary day one sample weight	DR2TOT_H	"Dietary Interview - Total Nutrient Intakes, Second Day"	2013	2014	Dietary	None
+DR1_020	What time did you begin to eat/drink the meal/food?	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1_030Z	Name of eating occasion	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1_040Z	Did you eat this meal at home?	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1CCMNM	Combination food number (sequential number)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1CCMTX	Combination food type	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1DAY	Intake day of the week	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1DBIH	Number of days between intake day and the day of family questionnaire administered in the household.	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1DRSTZ	Dietary recall status	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1EXMER	Interviewer ID code	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1FS	Where did you get (this/most of the ingredients for this) {FOODNAME}?	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IACAR	Alpha-carotene (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IALCO	Alcohol (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IATOA	Added alpha-tocopherol (Vitamin E) (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IATOC	Vitamin E as alpha-tocopherol (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IB12A	Added vitamin B12 (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IBCAR	Beta-carotene (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ICAFF	Caffeine (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ICALC	Calcium (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ICARB	Carbohydrate (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ICHL	Total choline (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ICHOL	Cholesterol (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ICOPP	Copper (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ICRYP	Beta-cryptoxanthin (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IFA	Folic acid (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IFDCD	USDA food code	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IFDFE	Folate as dietary folate equivalents (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IFF	Food folate (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IFIBE	Dietary fiber (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IFOLA	Total folate (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IGRMS	Gram weight of the food/individual component	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IIRON	Iron (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IKCAL	Energy (kcal)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ILINE	Food/Individual component number	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ILYCO	Lycopene (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ILZ	Lutein + zeaxanthin (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IM161	MFA 16:1 (Hexadecenoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IM181	MFA 18:1 (Octadecenoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IM201	MFA 20:1 (Eicosenoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IM221	MFA 22:1 (Docosenoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IMAGN	Magnesium (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IMFAT	Total monounsaturated fatty acids (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IMOIS	Moisture (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1INIAC	Niacin (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IP182	PFA 18:2 (Octadecadienoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IP183	PFA 18:3 (Octadecatrienoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IP184	PFA 18:4 (Octadecatetraenoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IP204	PFA 20:4 (Eicosatetraenoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IP205	PFA 20:5 (Eicosapentaenoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IP225	PFA 22:5 (Docosapentaenoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IP226	PFA 22:6 (Docosahexaenoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IPFAT	Total polyunsaturated fatty acids (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IPHOS	Phosphorus (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IPOTA	Potassium (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IPROT	Protein (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IRET	Retinol (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IS040	SFA 4:0 (Butanoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IS060	SFA 6:0 (Hexanoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IS080	SFA 8:0 (Octanoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IS100	SFA 10:0 (Decanoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IS120	SFA 12:0 (Dodecanoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IS140	SFA 14:0 (Tetradecanoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IS160	SFA 16:0 (Hexadecanoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IS180	SFA 18:0 (Octadecanoic) (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ISELE	Selenium (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ISFAT	Total saturated fatty acids (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ISODI	Sodium (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ISUGR	Total sugars (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ITFAT	Total fat (gm)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1ITHEO	Theobromine (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IVARA	Vitamin A as retinol activity equivalents (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IVB1	Thiamin (Vitamin B1) (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IVB12	Vitamin B12 (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IVB2	Riboflavin (Vitamin B2) (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IVB6	Vitamin B6 (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IVC	Vitamin C (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IVD	Vitamin D (D2 + D3) (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IVK	Vitamin K (mcg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1IZINC	Zinc (mg)	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR1LANG	The respondent spoke mostly:	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DRABF	"Indicates whether the sample person was an infant who was breast-fed on either of the two recall 
+
+days."	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DRDINT	Indicates whether the sample person has intake data for one or two days.	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+SEQN	Respondent sequence number.	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+WTDR2D	Dietary two-day sample weight	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+WTDRD1	Dietary day one sample weight	DR1IFF_H	"Dietary Interview - Individual Foods, First Day"	2013	2014	Dietary	None
+DR2_020	What time did you begin to eat/drink the meal/food?	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2_030Z	Name of eating occasion	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2_040Z	Did you eat this meal at home?	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2CCMNM	Combination food number (sequential number)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2CCMTX	Combination food type	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2DAY	Intake day of the week	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2DBIH	Number of days between intake day and the day of family questionnaire administered in the household.	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2DRSTZ	Dietary recall status	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2EXMER	Interviewer ID code	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2FS	Where did you get (this/most of the ingredients for this) {FOODNAME}?	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IACAR	Alpha-carotene (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IALCO	Alcohol (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IATOA	Added alpha-tocopherol (Vitamin E) (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IATOC	Vitamin E as alpha-tocopherol (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IB12A	Added vitamin B12 (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IBCAR	Beta-carotene (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ICAFF	Caffeine (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ICALC	Calcium (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ICARB	Carbohydrate (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ICHL	Total choline (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ICHOL	Cholesterol (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ICOPP	Copper (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ICRYP	Beta-cryptoxanthin (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IFA	Folic acid (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IFDCD	USDA food code	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IFDFE	Folate as dietary folate equivalents (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IFF	Food folate (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IFIBE	Dietary fiber (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IFOLA	Total folate (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IGRMS	Gram weight of the food/individual component	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IIRON	Iron (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IKCAL	Energy (kcal)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ILINE	Food/Individual component number	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ILYCO	Lycopene (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ILZ	Lutein + zeaxanthin (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IM161	MFA 16:1 (Hexadecenoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IM181	MFA 18:1 (Octadecenoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IM201	MFA 20:1 (Eicosenoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IM221	MFA 22:1 (Docosenoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IMAGN	Magnesium (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IMFAT	Total monounsaturated fatty acids (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IMOIS	Moisture (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2INIAC	Niacin (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IP182	PFA 18:2 (Octadecadienoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IP183	PFA 18:3 (Octadecatrienoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IP184	PFA 18:4 (Octadecatetraenoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IP204	PFA 20:4 (Eicosatetraenoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IP205	PFA 20:5 (Eicosapentaenoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IP225	PFA 22:5 (Docosapentaenoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IP226	PFA 22:6 (Docosahexaenoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IPFAT	Total polyunsaturated fatty acids (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IPHOS	Phosphorus (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IPOTA	Potassium (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IPROT	Protein (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IRET	Retinol (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IS040	SFA 4:0 (Butanoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IS060	SFA 6:0 (Hexanoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IS080	SFA 8:0 (Octanoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IS100	SFA 10:0 (Decanoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IS120	SFA 12:0 (Dodecanoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IS140	SFA 14:0 (Tetradecanoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IS160	SFA 16:0 (Hexadecanoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IS180	SFA 18:0 (Octadecanoic) (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ISELE	Selenium (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ISFAT	Total saturated fatty acids (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ISODI	Sodium (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ISUGR	Total sugars (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ITFAT	Total fat (gm)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2ITHEO	Theobromine (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IVARA	Vitamin A as retinol activity equivalents (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IVB1	Thiamin (Vitamin B1) (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IVB12	Vitamin B12 (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IVB2	Riboflavin (Vitamin B2) (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IVB6	Vitamin B6 (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IVC	Vitamin C (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IVD	Vitamin D (D2 + D3) (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IVK	Vitamin K (mcg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2IZINC	Zinc (mg)	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DR2LANG	The respondent spoke mostly:	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DRABF	Indicates whether the sample person was an infant who was breast fed on either of the two recall days.	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DRDINT	Indicates whether the sample person has intake data for one or two days.	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+SEQN	Respondent sequence number.	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+WTDR2D	Dietary two-day sample weight	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+WTDRD1	Dietary day one sample weight	DR2IFF_H	"Dietary Interview - Individual Foods, Second Day"	2013	2014	Dietary	None
+DRXFCLD	Long Food Code Description	DRXFCD_H	Dietary Interview Technical Support File - Food Codes	2013	2014	Dietary	None
+DRXFCSD	Short Food Code Description	DRXFCD_H	Dietary Interview Technical Support File - Food Codes	2013	2014	Dietary	None
+DRXFDCD	Food Code	DRXFCD_H	Dietary Interview Technical Support File - Food Codes	2013	2014	Dietary	None
+SEQN	Respondent sequence number.	DRXFCD_H	Dietary Interview Technical Support File - Food Codes	2013	2014	Dietary	None
+DSDCNTA	"Count of amino acids in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTA	"Count of amino acids in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTA	"Count of amino acids in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTA	"Count of amino acids in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTB	"Count of botanicals in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTB	"Count of botanicals in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTB	"Count of botanicals in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTB	"Count of botanicals in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTM	"Count of minerals in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTM	"Count of minerals in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTM	"Count of minerals in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTM	"Count of minerals in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTO	"Count of other ingredients in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTO	"Count of other ingredients in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTO	"Count of other ingredients in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTO	"Count of other ingredients in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTV	"Count of vitamins in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTV	"Count of vitamins in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTV	"Count of vitamins in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDCNTV	"Count of vitamins in the supplement, including those in blends"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSERVQ	Serving size quantity	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSERVQ	Serving size quantity	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSERVQ	Serving size quantity	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSERVQ	Serving size quantity	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSERVU	Serving size unit	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSERVU	Serving size unit	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSERVU	Serving size unit	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSERVU	Serving size unit	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSRCE	Supplement Information Source	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSRCE	Supplement Information Source	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSRCE	Supplement Information Source	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSRCE	Supplement Information Source	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSUPID	Supplement ID Number	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSUPID	Supplement ID Number	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSUPID	Supplement ID Number	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSUPID	Supplement ID Number	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSUPP	Supplement Name	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSUPP	Supplement Name	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSUPP	Supplement Name	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDSUPP	Supplement Name	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDTYPE	"Formulation Type (prenatal, infant\pediatric, standard, or mature)"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDTYPE	"Formulation Type (prenatal, infant\pediatric, standard, or mature)"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDTYPE	"Formulation Type (prenatal, infant\pediatric, standard, or mature)"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DSDTYPE	"Formulation Type (prenatal, infant\pediatric, standard, or mature)"	DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+SEQN		DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+SEQN		DSPI	Dietary Supplement Database - Product Information	1999	2014	Dietary	None
+DR1DAY	Intake day of the week	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DR1DBIH	# of days b/w intake and HH interview	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DR1DRSTZ	Dietary recall status	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DR1EXMER	Interviewer ID code	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DR1LANG	The respondent spoke mostly:	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DRDINT	Indicates whether the sample person has intake data for one or two days.	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ACTSS	Reported serving size/label serving size	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ANTA	Antacid containing calcium/magnesium	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ICAFF	Caffeine (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ICALC	Calcium (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ICARB	Carbohydrate (gm)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ICHL	Total choline (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ICHOL	Cholesterol (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ICOPP	Copper (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IFA	Folic acid (mcg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IFDFE	"Folate, DFE (mcg)"	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IFIBE	Dietary fiber (gm)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IIODI	Iodine (mcg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IIRON	Iron (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IKCAL	Energy (kcal)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ILYCO	Lycopene (mcg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ILZ	Lutein + zeaxanthin (mcg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IMAGN	Magnesium (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IMFAT	Total monounsaturated fatty acids (gm)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1INIAC	Niacin (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IPFAT	Total polyunsaturated fatty acids (gm)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IPHOS	Phosphorus (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IPOTA	Potassium (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IPROT	Protein (gm)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ISELE	Selenium (mcg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ISFAT	Total saturated fatty acids (gm)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ISODI	Sodium (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ISUGR	Total sugars (gm)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ITFAT	Total fat (gm)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IVB1	Thiamin (Vitamin B1) (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IVB12	Vitamin B12 (mcg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IVB2	Riboflavin (Vitamin B2) (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IVB6	Vitamin B6 (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IVC	Vitamin C (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IVD	Vitamin D (D2 + D3) (mcg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IVK	Vitamin K (mcg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1IZINC	Zinc (mg)	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1LOC	Location supplement originally recorded	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1MTCH	DSDMTCH	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DSDSUPID	NCHS Supplement ID	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DSDSUPP	Supplement Name	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+SEQN	Respondent sequence number.	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+WTDR2D	Dietary two-day sample weight	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+WTDRD1	Dietary day one sample weight	DS1IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"	2013	2014	Dietary	None
+DSD070	Was container seen?	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD090	For how long have you been taking {PRODUCT NAME} or a similar type of product?	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD103	"In the past 30 days, on how many days did you take {PRODUCT NAME}?"	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD122Q	"On the days that (you/SP) took (PRODUCT NAME), how much did (you/SP), usually take on a single day?"	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD122U	"On the days that {you/SP} took {PRODUCT NAME}, how much did {you/SP} usually take on a single day?"	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128AA	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128BB	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128DD	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128EE	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128FF	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128GG	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128HH	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128II	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128JJ	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128KK	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128LL	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128MM	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128T	What is the reason you take {PRODUCT NAME}? (Did you decide to take it for reasons of your own or did a doctor or other health provider tell you to take it?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128V	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128W	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128X	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSD128Z	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSDACTSS	Reported serving size/label serving size	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSDANTA	Antacid reported as a dietary supplement	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSDDAY1	"Was Supplement taken during the 24 Hour Recall, Day 1?"	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSDDAY2	"Was Supplement taken during the 24 Hour Recall, Day 2?"	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSDMTCH	Matching code	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSDSUPID	Supplement ID Number	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSDSUPP		DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ124	What is the reason you take {PRODUCT NAME}? (Did you decide to take it for reasons of your own or did a doctor or other health provider tell you to take it?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128A	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128B	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128C	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128D	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128E	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128F	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128G	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128H	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128I	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128J	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128K	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128L	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128M	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128N	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128NN	For what reason or reasons do you take {PRODUCT NAME}?} (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128O	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128P	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128Q	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128R	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQ128S	For what reason or reasons do you take {PRODUCT NAME}? (For what reason or reasons did the doctor or other health professional tell you to take {PRODUCT}?)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQICAFF	Caffeine (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQICALC	Calcium (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQICARB	Carbohydrate (gm)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQICHL	Total choline (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQICHOL	Cholesterol (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQICOPP	Copper (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIFA	Folic acid (mcg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIFDFE	"Folate, DFE (mcg)"	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIFIBE	Dietary fiber (gm)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIIODI		DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIIRON	Iron (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIKCAL	Energy (kcal)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQILYCO	Lycopene (mcg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQILZ	Lutein + zeaxanthin (mcg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIMAGN	Magnesium (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIMFAT	Total monounsaturated fatty acids (gm)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQINIAC	Niacin (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIPFAT	Total polyunsaturated fatty acids (gm)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIPHOS	Phosphorus (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIPOTA	Potassium (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIPROT	Protein (gm)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQISELE	Selenium (mcg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQISFAT	Total saturated fatty acids (gm)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQISODI	Sodium (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQISUGR	Total sugars (gm)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQITFAT	Total fat (gm)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIVB1	Thiamin (Vitamin B1) (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIVB12	Vitamin B12 (mcg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIVB2	Riboflavin (Vitamin B2) (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIVB6	Vitamin B6 (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIVC	Vitamin C (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIVD	Vitamin D (D2 + D3) (mcg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIVK	Vitamin K (mcg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSQIZINC	Zinc (mg)	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+RXQ215A	"Did you take {PRODUCT NAME} as an antacid, as a calcium supplement, or both?"	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+SEQN	Respondent sequence number.	DSQIDS_H	Dietary Supplement Use 30-Day - Individual Dietary Supplements	2013	2014	Dietary	None
+DSDBCCAT	Blend component category	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBCCAT	Blend component category	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBCCAT	Blend component category	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBCCAT	Blend component category	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBCID	Blend component ID	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBCID	Blend component ID	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBCID	Blend component ID	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBCID	Blend component ID	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBCNAM	Blend component name	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBCNAM	Blend component name	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBCNAM	Blend component name	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBCNAM	Blend component name	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDINGID	Ingredient ID	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDINGID	Ingredient ID	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDINGID	Ingredient ID	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDINGID	Ingredient ID	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDINGR	Ingredient Name	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDINGR	Ingredient Name	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDINGR	Ingredient Name	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDINGR	Ingredient Name	DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+SEQN		DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+SEQN		DSBI	Dietary Supplement Database - Blend Information	1999	2014	Dietary	None
+DSDBLFLG	Blend flag	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDBLFLG	Blend flag	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDBLFLG	Blend flag	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDBLFLG	Blend flag	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDCAT	Ingredient category	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDCAT	Ingredient category	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDCAT	Ingredient category	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDCAT	Ingredient category	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDINGID	Ingredient ID	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDINGID	Ingredient ID	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDINGID	Ingredient ID	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDINGID	Ingredient ID	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDINGR	Ingredient Name	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDINGR	Ingredient Name	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDINGR	Ingredient Name	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDINGR	Ingredient Name	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDOPER	Ingredient operator	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDOPER	Ingredient operator	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDOPER	Ingredient operator	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDOPER	Ingredient operator	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDQTY	Ingredient quantity	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDQTY	Ingredient quantity	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDQTY	Ingredient quantity	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDQTY	Ingredient quantity	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDSUPID	Supplement ID number	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDSUPID	Supplement ID number	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDSUPID	Supplement ID number	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDSUPID	Supplement ID number	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDSUPP	Supplement name	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDSUPP	Supplement name	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDSUPP	Supplement name	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDSUPP	Supplement name	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDUNIT	Ingredient unit	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDUNIT	Ingredient unit	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDUNIT	Ingredient unit	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DSDUNIT	Ingredient unit	DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+SEQN		DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+SEQN		DSII	Dietary Supplement Database - Ingredient Information	1999	2014	Dietary	None
+DR2DAY	Intake day of the week	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DR2DBIH	# of days b/w intake and HH interview	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DR2DRSTZ	Dietary recall status	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DR2EXMER	Interviewer ID code	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DR2LANG	The respondent spoke mostly:	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DRDINT	Indicates whether the sample person has intake data for one or two days.	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ACTSS	Reported serving size/label serving size	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ANTA	Antacid containing calcium/magnesium	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ICAFF	Caffeine (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ICALC	Calcium (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ICARB	Carbohydrate (gm)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ICHL	Total choline (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ICHOL	Cholesterol (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ICOPP	Copper (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IFA	Folic acid (mcg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IFDFE	"Folate, DFE (mcg)"	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IFIBE	Dietary fiber (gm)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IIODI	Iodine (mcg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IIRON	Iron (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IKCAL	Energy (kcal)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ILYCO	Lycopene (mcg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ILZ	Lutein + zeaxanthin (mcg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IMAGN	Magnesium (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IMFAT	Total monounsaturated fatty acids (gm)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2INIAC	Niacin (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IPFAT	Total polyunsaturated fatty acids (gm)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IPHOS	Phosphorus (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IPOTA	Potassium (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IPROT	Protein (gm)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ISELE	Selenium (mcg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ISFAT	Total saturated fatty acids (gm)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ISODI	Sodium (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ISUGR	Total sugars (gm)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ITFAT	Total fat (gm)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IVB1	Thiamin (Vitamin B1) (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IVB12	Vitamin B12 (mcg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IVB2	Riboflavin (Vitamin B2) (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IVB6	Vitamin B6 (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IVC	Vitamin C (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IVD	Vitamin D (D2 + D3) (mcg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IVK	Vitamin K (mcg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2IZINC	Zinc (mg)	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2LOC	Location supplement originally recorded	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2MTCH	Matching code	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DSDSUPID	NCHS Supplement ID	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DSDSUPP	Supplement Name	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+SEQN	Respondent sequence number.	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+WTDR2D	Dietary two-day sample weight	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+WTDRD1	Dietary day one sample weight	DS2IDS_H	"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DR1DAY	Intake day of the week	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DR1DBIH	# of days b/w intake and HH interview	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DR1DRSTZ	Dietary recall status	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DR1EXMER	Interviewer ID code	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DR1HELPD	Who helped in responding for this interview	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DR1LANG	The respondent spoke mostly:	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DR1MNRSP	Who was the main respondent for this interview?	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DRDINT	Indicates whether the sample person has intake data for one or two days.	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1AN	Any Antacids Taken?	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1ANCNT	Total # of Antacids Taken	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1DS	Any Dietary Supplements taken in the past 24 hour?	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1DSCNT	Total # of Dietary Supplements Taken	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TCAFF	Caffeine (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TCALC	Calcium (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TCARB	Carbohydrate (gm)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TCHL	Total choline (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TCHOL	Cholesterol (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TCOPP	Copper (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TFA	Folic acid (mcg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TFDFE	"Folate, DFE (mcg)"	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TFIBE	Dietary fiber (gm)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TIODI	Iodine (mcg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TIRON	Iron (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TKCAL	Energy (kcal)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TLYCO	Lycopene (mcg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TLZ	Lutein + zeaxanthin (mcg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TMAGN	Magnesium (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TMFAT	Total monounsaturated fatty acids (gm)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TNIAC	Niacin (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TPFAT	Total polyunsaturated fatty acids (gm)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TPHOS	Phosphorus (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TPOTA	Potassium (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TPROT	Protein (gm)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TSELE	Selenium (mcg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TSFAT	Total saturated fatty acids (gm)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TSODI	Sodium (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TSUGR	Total sugars (gm)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TTFAT	Total fat (gm)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TVB1	Thiamin (Vitamin B1) (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TVB12	Vitamin B12 (mcg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TVB2	Riboflavin (Vitamin B2) (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TVB6	Vitamin B6 (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TVC	Vitamin C (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TVD	Vitamin D (D2 + D3) (mcg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TVK	Vitamin K (mcg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DS1TZINC	Zinc (mg)	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+SEQN	Respondent sequence number.	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+WTDR2D	Dietary two-day sample weight	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+WTDRD1	Dietary day one sample weight	DS1TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"	2013	2014	Dietary	None
+DR2DAY	Intake day of the week	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DR2DBIH	# of days b/w intake and HH interview	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DR2DRSTZ	Dietary recall status	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DR2EXMER	Interviewer ID code	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DR2HELPD	Who helped in responding for this interview	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DR2LANG	The respondent spoke mostly:	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DR2MNRSP	Who was the main respondent for this interview?	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DRDINT	Indicates whether the sample person has intake data for one or two days.	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2AN	Any Antacids Taken?	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2ANCNT	Total # of Antacids Taken	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2DS	Any Dietary Supplements taken in the past 24 hour?	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2DSCNT	Total # of Dietary Supplements Taken	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TCAFF	Caffeine (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TCALC	Calcium (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TCARB	Carbohydrate (gm)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TCHL	Total choline (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TCHOL	Cholesterol (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TCOPP	Copper (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TFA	Folic acid (mcg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TFDFE	"Folate, DFE (mcg)"	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TFIBE	Dietary fiber (gm)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TIODI	Iodine (mcg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TIRON	Iron (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TKCAL	Energy (kcal)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TLYCO	Lycopene (mcg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TLZ	Lutein + zeaxanthin (mcg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TMAGN	Magnesium (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TMFAT	Total monounsaturated fatty acids (gm)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TNIAC	Niacin (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TPFAT	Total polyunsaturated fatty acids (gm)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TPHOS	Phosphorus (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TPOTA	Potassium (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TPROT	Protein (gm)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TSELE	Selenium (mcg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TSFAT	Total saturated fatty acids (gm)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TSODI	Sodium (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TSUGR	Total sugars (gm)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TTFAT	Total fat (gm)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TVB1	Thiamin (Vitamin B1) (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TVB12	Vitamin B12 (mcg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TVB2	Riboflavin (Vitamin B2) (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TVB6	Vitamin B6 (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TVC	Vitamin C (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TVD	Vitamin D (D2 + D3) (mcg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TVK	Vitamin K (mcg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DS2TZINC	Zinc (mg)	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+SEQN	Respondent sequence number.	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+WTDR2D	Dietary two-day sample weight	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+WTDRD1	Dietary day one sample weight	DS2TOT_H	"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"	2013	2014	Dietary	None
+DSD010	"The next questions are about {your/SP's} use of dietary supplements and medications during the past month. {Have you/Has SP} used or taken any vitamins, minerals or other dietary supplements in the past month? Include those products prescribed by a health professional such as a doctor or dentist, and those that do not require a prescription. This card lists some examples of different types of dietary supplements."	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSD010AN		DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSDANCNT	Includes all antacids reported with medications.	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSDCOUNT	"Includes all supplements and the antacids reported with supplements, but not antacids reported with medications."	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTCAFF	Caffeine (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTCALC	Calcium (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTCARB	Carbohydrate (gm)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTCHL	Total choline (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTCHOL	Cholesterol (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTCOPP	Copper (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTFA	Folic acid (mcg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTFDFE	"Folate, DFE (mcg)"	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTFIBE	Dietary fiber (gm)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTIODI	Iodine (mcg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTIRON	Iron (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTKCAL	Energy (kcal)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTLYCO	Lycopene (mcg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTLZ	Lutein + zeaxanthin (mcg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTMAGN	Magnesium (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTMFAT	Total monosaturated fatty acids (gm)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTNIAC	Niacin (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTPFAT	Total polyunsaturated fatty acids (gm)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTPHOS	Phosphorus (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTPOTA	Potassium (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTPROT	Protein (gm)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTSELE	Selenium (mcg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTSFAT	Total saturated fatty acids (gm)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTSODI	Sodium (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTSUGR	Total sugars (gm)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTTFAT	Total fat (gm)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTVB1	Thiamin (Vitamin B1) (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTVB12	Vitamin B12 (mcg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTVB2	Riboflavin (Vitamin B2) (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTVB6	Vitamin B6 (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTVC	Vitamin C (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTVD	Vitamin D (D2 + D3) (mcg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTVK	Vitamin K (mcg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+DSQTZINC	Zinc (mg)	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None
+SEQN	Respondent sequence number.	DSQTOT_H	Dietary Supplement Use 30-Day - Total Dietary Supplements	2013	2014	Dietary	None

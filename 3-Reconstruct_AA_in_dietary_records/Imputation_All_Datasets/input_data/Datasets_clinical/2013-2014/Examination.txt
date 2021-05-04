@@ -1,0 +1,936 @@
+Variable Name	Variable Description	Data File Name	Data File Description	Begin Year	EndYear	Component	Use Constraints
+BPAARM	Arm selected:	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPACSZ	Cuff size (cm) (width X length)	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPAEN1	Enhancement used first reading	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPAEN2	Enhancement used second reading	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPAEN3	Enhancement used third reading	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPAEN4	Enhancement used fourth reading	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXCHR	60 sec HR (30 sec HR * 2)	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXDI1	Diastolic:  Blood pressure (first reading) mm Hg	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXDI2	Diastolic: Blood pressure (second reading) mm Hg	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXDI3	Diastolic: Blood pressure (third reading) mm Hg	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXDI4	Diastolic: Blood pressure (fourth reading if necessary) mm Hg	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXML1	MIL: maximum inflation levels (mm Hg)	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXPLS	60 sec. pulse (30 sec. pulse * 2)	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXPTY	Pulse type	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXPULS	Pulse regular or irregular?	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXSY1	Systolic:  Blood pressure (first reading) mm Hg	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXSY2	Systolic:  Blood pressure (second reading) mm Hg	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXSY3	Systolic:  Blood pressure (third reading) mm Hg	BPX_H	Blood Pressure	2013	2014	Examination	None
+BPXSY4	Systolic:  Blood pressure (fourth reading if necessary) mm Hg	BPX_H	Blood Pressure	2013	2014	Examination	None
+PEASCCT1	Blood Pressure Comment	BPX_H	Blood Pressure	2013	2014	Examination	None
+PEASCST1	Blood Pressure Status	BPX_H	Blood Pressure	2013	2014	Examination	None
+PEASCTM1	Blood Pressure Time in Seconds	BPX_H	Blood Pressure	2013	2014	Examination	None
+SEQN	Respondent sequence number.	BPX_H	Blood Pressure	2013	2014	Examination	None
+DXASPND0	Calculated DO for spine	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXASPNK	Calculated K for spine	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXASPNST	Spine scan status	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL1A	L1 area	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL1BCC	L1 BMD invalidity code	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL1BMC	L1 BMC	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL1BMD	L1 BMD	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL2A	L2 area	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL2BCC	L2 BMD invalidity code	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL2BMC	L2 BMC	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL2BMD	L2 BMD	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL3A	L3 area	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL3BCC	L3 BMD invalidity code	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL3BMC	L3 BMC	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL3BMD	L3 BMD	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL4A	L4 area	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL4BCC	L4 BMD invalidity code	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL4BMC	L4 BMC	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXL4BMD	L4 BMD	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXOSA	Total spine area	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXOSBCC	Total spine BMD invalidity code	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXOSBMC	Total spine BMC	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXXOSBMD	Total spine BMD	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+SEQN	Respondent sequence number.	DXXSPN_H	Dual-Energy X-ray Absorptiometry - Spine	2013	2014	Examination	None
+DXAFMRD0	Calculated DO for femur	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXAFMRK	Calculated K for femur	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXAFMRST	Femur scan status	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXFMBCC	Total femur BMD invalidity code	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXINA	Intertrochanter area	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXINBMC	Intertrochanter BMC	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXINBMD	Intertrochanter BMD	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXNKA	Femoral neck area	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXNKBMC	Femoral neck BMC	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXNKBMD	Femoral neck BMD	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXOFA	Total femur area	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXOFBMC	Total femur BMC	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXOFBMD	Total femur BMD	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXTRA	Trochanter area	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXTRBMC	Trochanter BMC	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXTRBMD	Trochanter BMD	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXWDA	Wards triangle area	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXWDBMC	Wards triangle BMC	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXXWDBMD	Wards triangle BMD	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+SEQN	Respondent sequence number.	DXXFEM_H	Dual-Energy X-ray Absorptiometry - Femur	2013	2014	Examination	None
+DXDLSPST	Instant Vertebral Assessment (IVA) Lateral Spine scan status	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXL1CC	L1 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXL1FX	L1 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXL2CC	L2 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXL2FX	L2 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXL3CC	L3 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXL3FX	L3 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXL4CC	L4 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXL4FX	L4 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT10CC	T10 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT10FX	T10 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT11CC	T11 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT11FX	T11 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT12CC	T12 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT12FX	T12 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT4CC	T4 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT4FX	T4 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT5CC	T5 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT5FX	T5 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT6CC	T6 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT6FX	T6 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT7CC	T7 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT7FX	T7 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT8CC	T8 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT8FX	T8 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT9CC	T9 fracture invalidity code	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXT9FX	T9 fracture score	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+DXXVFAST	Vertebral fracture status summary	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+SEQN	Respondent sequence number.	DXXVFA_H	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment	2013	2014	Examination	None
+BMDAVSAD	Average Sagittal Abdominal Diameter (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMDBMIC	BMI Category - Children/Youth	BMX_H	Body Measures	2013	2014	Examination	None
+BMDSADCM	Sagittal Abdominal Diameter Comment	BMX_H	Body Measures	2013	2014	Examination	None
+BMDSTATS	Body Measures Component status Code	BMX_H	Body Measures	2013	2014	Examination	None
+BMIARMC	Arm Circumference Comment	BMX_H	Body Measures	2013	2014	Examination	None
+BMIARML	Upper Arm Length Comment	BMX_H	Body Measures	2013	2014	Examination	None
+BMIHEAD	Head Circumference Comment	BMX_H	Body Measures	2013	2014	Examination	None
+BMIHT	Standing Height Comment	BMX_H	Body Measures	2013	2014	Examination	None
+BMILEG	Upper Leg Length Comment	BMX_H	Body Measures	2013	2014	Examination	None
+BMIRECUM	Recumbent Length Comment	BMX_H	Body Measures	2013	2014	Examination	None
+BMIWAIST	Waist Circumference Comment	BMX_H	Body Measures	2013	2014	Examination	None
+BMIWT	Weight Comment	BMX_H	Body Measures	2013	2014	Examination	None
+BMXARMC	Arm Circumference (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXARML	Upper Arm Length (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXBMI	Body Mass Index (kg/m**2)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXHEAD	Head Circumference (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXHT	Standing Height (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXLEG	Upper Leg Length (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXRECUM	Recumbent Length (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXSAD1	Sagittal Abdominal Diameter 1st (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXSAD2	Sagittal Abdominal Diameter 2nd (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXSAD3	Sagittal Abdominal Diameter 3rd (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXSAD4	Sagittal Abdominal Diameter 4th (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXWAIST	Waist Circumference (cm)	BMX_H	Body Measures	2013	2014	Examination	None
+BMXWT	Weight (kg)	BMX_H	Body Measures	2013	2014	Examination	None
+SEQN	Respondent sequence number.	BMX_H	Body Measures	2013	2014	Examination	None
+DXXFRAX1	10-year hip fracture risk score assuming previous fracture	DXXFRX_H	Dual-Energy X-ray Absorptiometry - FRAX Score	2013	2014	Examination	None
+DXXFRAX2	10-year major osteoporotic  fracture risk score assuming previous fracture	DXXFRX_H	Dual-Energy X-ray Absorptiometry - FRAX Score	2013	2014	Examination	None
+DXXFRAX3	10-year hip fracture risk score assuming no previous fracture	DXXFRX_H	Dual-Energy X-ray Absorptiometry - FRAX Score	2013	2014	Examination	None
+DXXFRAX4	10-year major osteoporotic  fracture risk score assuming no previous fracture	DXXFRX_H	Dual-Energy X-ray Absorptiometry - FRAX Score	2013	2014	Examination	None
+DXXPRVFX	Previous self-reported fracture after age 20	DXXFRX_H	Dual-Energy X-ray Absorptiometry - FRAX Score	2013	2014	Examination	None
+SEQN	Respondent sequence number.	DXXFRX_H	Dual-Energy X-ray Absorptiometry - FRAX Score	2013	2014	Examination	None
+CSAEFFRT	MEC Technician's overall rating for participant's understanding of and cooperation with exam procedures.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ241	Are you currently pregnant or breast feeding a baby?	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ245	Have you ever had a skin rash or allergy caused by quinine?	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ260a	Do you now have any of the following problems with your nose?  Sneeze Frequently?	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ260d	"Do you now have any of the following problems with your nose? Green, Yellow  or Brown Mucus Discharge?"	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ260g	Do you now have any of the following problems with your nose? Completely blocked up nose	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ260i	Do you now have any of the following problems with your nose? Sinus Pain?	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ260m	Do you now have any of the following problems with your nose? None of the above?	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ260n	Do you now have any of the following problems with your nose? A Runny Nose?	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ270	"Was {your/SPs} nose blocked up on both sides, or on just one side?"	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ450	First practice light 85 candelas/ m2 (low intermediate light)	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ460	Second practice light 493 candelas/ m2 (high intermediate light)	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ470	First test light 193 candelas/ m2 (medium light level)	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ480	Second test light 4.3 candelas/ m2 (low light level)	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSQ490	Third  test light 1000 candelas/ m2 (high light level)	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXCHOOD	"Forced Choice Odor Selection, Chocolate Scent"	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXEXCMT	Comment Code for the MEC Taste & Smell Examination	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXEXSTS	Overall Status for the MEC Taste & Smell Examination	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXGRAOD	"Forced Choice Odor Selection, Grape Scent"	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXLEAOD	"Forced Choice Odor Selection, Leather Scent"	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXNAPG	gLMS rating when 1M NaCl solution is painted on the tongue tip.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXNAPT	Name of substance examinee tasted when 1M NaCl was painted on the tongue tip.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXNARG	Name of substance examinee tasted when replicate .32 M NaCl was sampled with the whole mouth.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXNART	gLMS rating for salty taste when replicate .32 M NaCl is sampled with the whole mouth.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXNASG	gLMS rating when  .32 M NaCl is sampled with the whole mouth.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXNAST	Name of substance examinee tasted when .32 M NaCl was sampled in the whole mouth.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXNGSOD	"Forced Choice Odor Selection, Natural Gas Scent"	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXONOD	"Forced Choice Odor Selection, Onion Scent"	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXQUIPG	gLMS rating for bitter when 1 mM quinine solution is painted on the tongue tip.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXQUIPT	Name of substance examinee tasted when 1mM quinine was painted on the tongue tip.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXQUISG	gLMS rating for bitter when 1 mM quinine solution is sampled with the whole mouth.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXQUIST	Name of substance examinee tasted when bitter taste 1 (1 mM quinine) was sampled in the whole mouth.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXSBOD	"Forced Choice Odor Selection, Strawberry Scent"	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXSLTRG	Name of substance examinee tasted when replicate 1M NaCl was sampled with the whole mouth.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXSLTRT	gLMS rating for salty taste when replicate 1M NaCl is sampled with the whole mouth.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXSLTSG	gLMS rating for salty taste when 1M NaCl is sampled with the whole mouth.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXSLTST	Name of substance examinee tasted when 1 M NaCl was sampled in the whole mouth.	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXSMKOD	"Forced Choice Odor Selection, Smoke Scent"	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXSOAOD	"Forced Choice Odor Selection, Soap Scent"	CSX_H	Taste & Smell	2013	2014	Examination	None
+CSXTSEQ	Sequence in which whole mouth taste tests were administered.	CSX_H	Taste & Smell	2013	2014	Examination	None
+SEQN	Respondent sequence number.	CSX_H	Taste & Smell	2013	2014	Examination	None
+MGAPHAND	The hand assigned for the practice trial	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGATHAND	Begin the test with this hand.	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGD050	Have you ever had surgery on your hands or wrists for arthritis or carpal tunnel syndrome?	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGD060	Which hand or wrist was the surgery on?	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGD130	"Are you right-handed, left-handed, or do you use both hands equally?"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGDCGSZ	Combined grip strength (kg): the sum of the largest reading from each hand.	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGDEXSTS	Grip test status	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGDSEAT	Testing position	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGQ070	"Have you had any pain, aching or stiffness in your right hand in the past 7 days?"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGQ080	"Is the pain, aching or stiffness in your right hand caused by arthritis, tendonitis, or carpal tunnel syndrome?"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGQ090	"Has the pain, aching or stiffness in your right hand gotten worse in the past 7 days?"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGQ100	"Have you had any pain, aching or stiffness in your left hand in the past 7 days?"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGQ110	"Is the pain, aching or stiffness in your left hand caused by arthritis, tendonitis, or carpal tunnel syndrome?"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGQ120	"Has the pain, aching or stiffness in your left hand gotten worse in the past 7 days?"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGQ90DG	Was the participant able to achieve a 90 degree angle with the index finger on the eligible hand(s)?	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH1T1	"Grip strength (kg), hand 1, test 1"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH1T1E	"Whether the participant exerted a maximal or questionable effort during the test 1 on hand 1, as assessed by the technician."	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH1T2	"Grip strength (kg), hand 1, test 2"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH1T2E	"Whether the participant exerted a maximal or questionable effort during the test 2 on hand 1, as assessed by the technician."	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH1T3	"Grip strength (kg), hand 1, test 3"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH1T3E	"Whether the participant exerted a maximal or questionable effort during the test 3 on hand 1, as assessed by the technician."	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH2T1	"Grip strength (kg), hand 2, test 1"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH2T1E	"Whether the participant exerted a maximal or questionable effort during the test 1 on hand 2, as assessed by the technician."	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH2T2	"Grip strength (kg), hand 2, test 2"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH2T2E	"Whether the participant exerted a maximal or questionable effort during the test 2 on hand 2, as assessed by the technician."	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH2T3	"Grip strength (kg), hand 2, test 3"	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+MGXH2T3E	"Whether the participant exerted a maximal or questionable effort during the test 3 on hand 2, as assessed by the technician."	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+SEQN	Respondent sequence number.	MGX_H	Muscle Strength - Grip Test	2013	2014	Examination	None
+OHDDESTS	Dentition Status Code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHDEXSTS	Overall Oral Health Exam Status	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX01TC	Tooth Count:  Upper right 3rd molar (3M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX02CSC	"Coronal Caries:  Upper right 2nd molar (2M) surface calls.
+These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX02CTC	Coronal Caries:  Upper right 2nd molar (2M) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX02SE	"Dental Sealants:  Upper right 2nd molar (2M) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX02TC	Tooth Count:  Upper right 2nd molar (2M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX03CSC	"Coronal Caries:  Upper right 1st molar (1M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX03CTC	Coronal Caries:  Upper right 1st molar (1M) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX03SE	"Dental Sealants:  Upper right 1st molar (1M) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX03TC	Tooth Count:  Upper right 1st molar (1M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX04CSC	"Coronal Caries:  Upper right 2nd bicuspid/2nd primary molar (2B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX04CTC	Coronal Caries:  Upper right 2nd bicuspid/2nd primary molar (2B) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX04SE	"Dental Sealants:  Upper right 2nd biscuspid/2nd primary molar (2B) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX04TC	Tooth Count:  Upper right 2nd bicuspid/2nd primary molar (2B)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX05CSC	"Coronal Caries:  Upper right 1st biscuspid/1st primary molar (1B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX05CTC	Coronal Caries:  Upper right 1st bicuspid/1st primary molar (1B) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX05SE	"Dental Sealants:  Upper right 1st biscuspid/1st primary molar (1B) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX05TC	Tooth Count:  Upper right 1st bicuspid/1st primary molar (1B)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX06CSC	"Coronal Caries:  Upper right cuspid (C) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX06CTC	Coronal Caries:  Upper right cuspid (C) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX06TC	Tooth Count:  Upper right cuspid (C)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX07CSC	"Coronal Caries:  Upper right lateral incisor (LI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX07CTC	Coronal Caries:  Upper right lateral incisor (LI) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX07SE	"Dental Sealants:  Upper right lateral incisor (LI) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX07TC	Tooth Count:  Upper right lateral incisor (LI)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX08CSC	"Coronal Caries:  Upper right central incisor (CI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX08CTC	Coronal Caries:  Upper right central incisor (CI) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX08TC	Tooth Count:  Upper right central incisor (CI)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX09CSC	"Coronal Caries:  Upper left central incisor (CI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX09CTC	Coronal Caries:  Upper left central incisor (CI) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX09TC	Tooth Count:  Upper left central incisor (CI)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX10CSC	"Coronal Caries:  Upper left lateral incisor (LI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX10CTC	Coronal Caries:  Upper left lateral incisor (LI) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX10SE	"Dental Sealants:  Upper left lateral incisor (LI) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX10TC	Tooth Count:  Upper left lateral incisor (LI)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX11CSC	"Coronal Caries:  Upper left cuspid (C) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX11CTC	Coronal Caries:  Upper left cuspid (C) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX11TC	Tooth Count:  Upper left cuspid (C)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX12CSC	"Coronal Caries:  Upper left 1st bicuspid/1st primary molar (1B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX12CTC	Coronal Caries:  Upper left 1st bicuspid/1st primary molar (1B) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX12SE	"Dental Sealants:  Upper left 1st biscuspid/1st primary molar (1B) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX12TC	Tooth Count:  Upper left 1st bicuspid/1st primary molar (1B)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX13CSC	"Coronal Caries:  Upper left 2nd bicuspid/2nd primary molar (2B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX13CTC	Coronal Caries: Upper left 2nd bicuspid/2nd primary molar (2B) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX13SE	"Dental Sealants:  Upper left 2nd bicuspid/2nd primary molar (2B) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX13TC	Tooth Count:  Upper left 2nd bicuspid/2nd primary molar (2B)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX14CSC	"Coronal Caries:  Upper left 1st molar (1M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX14CTC	Coronal Caries:  Upper left 1st molar (1M) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX14SE	"Dental Sealants:  Upper left 1st molar (1M) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX14TC	Tooth Count:  Upper left 1st molar (1M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX15CSC	"Coronal Caries:  Upper left 2nd molar (2M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX15CTC	Coronal Caries: Upper left 2nd molar (2M) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX15SE	"Dental Sealants:  Upper left 2nd molar (2M) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX15TC	Tooth Count:  Upper left 2nd molar (2M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX16TC	Tooth Count:  Upper left 3rd molar (3M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX17TC	Tooth Count:  Lower left 3rd molar (3M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX18CSC	"Coronal Caries:  Lower left 2nd molar (2M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX18CTC	Coronal Caries:  Lower left 2nd molar (2M) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX18SE	"Dental Sealants:  Lower left 2nd molar (2M) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX18TC	Tooth Count:  Lower left 2nd molar (2M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX19CSC	"Coronal Caries:  Lower left 1st molar (1M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX19CTC	Coronal Caries:  Lower left 1st molar (1M) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX19SE	"Dental Sealants:  Lower left 1st molar (1M) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX19TC	Tooth Count:  Lower left 1st molar (1M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX20CSC	"Coronal Caries:  Lower left 2nd bicuspid/2nd primary molar (2B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX20CTC	Coronal Caries:  Lower left 2nd bicuspid/2nd primary molar (2B) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX20SE	"Dental Sealants:  Lower left 2nd bicuspid/2nd primary molar (2B) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX20TC	Tooth Count:  Lower left 2nd bicuspid/2nd primary molar (2B)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX21CSC	"Coronal Caries:  Lower left 1st bicuspid/1st primary molar (1B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX21CTC	Coronal Caries:  Lower left 1st bicuspid/1st primary molar (1B) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX21SE	"Dental Sealants:  Lower left 1st bicuspid/1st primary molar (1B) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX21TC	Tooth Count:  Lower left 1st bicuspid/1st primary molar (1B)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX22CSC	"Coronal Caries:  Lower left cuspid (C) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX22CTC	Coronal Caries:  Lower left cuspid (C) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX22TC	Tooth Count:  Lower left cuspid (C)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX23CSC	"Coronal Caries:  Lower left lateral incisor (LI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX23CTC	Coronal Caries:  Lower left lateral incisor (LI) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX23TC	Tooth Count:  Lower left lateral incisor (LI)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX24CSC	"Coronal Caries:  Lower left central incisor (CI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX24CTC	Coronal Caries:  Lower left central incisor (CI) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX24TC	Tooth Count:  Lower left central incisor (CI)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX25CSC	"Coronal Caries:  Lower right central incisor (CI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX25CTC	Coronal Caries:  Lower right central incisor (CI) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX25TC	Tooth Count:  Lower right central incisor (CI)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX26CSC	"Coronal Caries:  Lower right lateral incisor (LI) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX26CTC	Coronal Caries:  Lower right lateral incisor (LI) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX26TC	Tooth Count:  Lower right lateral incisor (LI)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX27CSC	"Coronal Caries:  Lower right cuspid (C) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX27CTC	Coronal Caries:  Lower right cuspid (C) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX27TC	Tooth Count:  Lower right cuspid (C)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX28CSC	"Coronal Caries:  Lower right 1st bicuspid/1st primary molar (1B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX28CTC	Coronal Caries:  Lower right 1st bicuspid/1st primary molar (1B) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX28SE	"Dental Sealants:  Lower right 1st bicuspid/1st primary molar (1B) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX28TC	Tooth Count:  Lower right 1st bicuspid/1st primary molar (1B)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX29CSC	"Coronal Caries:  Lower right 2nd bicuspid/2nd primary molar (2B) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX29CTC	Coronal Caries:  Lower right 2nd bicuspid/2nd primary molar (2B) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX29SE	"Dental Sealants:  Lower right 2nd bicuspid/2nd primary molar (2B) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX29TC	Tooth Count:  Lower right 2nd bicuspid/2nd primary molar (2B)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX30CSC	"Coronal Caries:  Lower right 1st molar (1M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX30CTC	Coronal Caries:  Lower right 1st molar (1M) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX30SE	"Dental Sealants:  Lower right 1st molar (1M) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX30TC	Tooth Count:  Lower right 1st molar (1M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX31CSC	"Coronal Caries:  Lower right 2nd molar (2M) surface calls.These values can be recorded as a string variable, for example:""0"", ""13"", ""468""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX31CTC	Coronal Caries:  Lower right 2nd molar (2M) tooth code	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX31SE	"Dental Sealants:  Lower right 2nd molar (2M) sealant codes.
+These values can be recorded as a string variable, for example:""0"", ""12"", ""13""."	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX31TC	Tooth Count:  Lower right 2nd molar (2M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHX32TC	Tooth Count:  Lower right 3rd molar (3M)	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+OHXIMP	Tooth Count:  Ever had a tooth replaced with a surgical implant?	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+SEQN	Respondent sequence number.	OHXDEN_H	Oral Health - Dentition	2013	2014	Examination	None
+DXDLSPST	Instant Vertebral Assessment (IVA) Lateral spine scan status	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL1CG	Genant L1 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL1CO	Original L1 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL1FG	Genant L1 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL1FO	Original L1 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL1G1	Genant L1 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL1G2	Genant L1 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL1G3	Genant L1 comment 3	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL2CG	Genant L2 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL2CO	Original L2 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL2FG	Genant L2 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL2FO	Original L2 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL2G1	Genant L2 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL2G2	Genant L2 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL3CG	Genant L3 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL3CO	Original L3 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL3FG	Genant L3 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL3FO	Original L3 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL3G1	Genant L3 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL3G2	Genant L3 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL4CG	Genant L4 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL4CO	Original L4 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL4FG	Genant L4 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL4FO	Original L4 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL4G1	Genant L4 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL4G2	Genant L4 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXL4G3	Genant L4 comment 3	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT10CG	Genant T10 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT10CO	Original T10 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT10FG	Genant T10 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT10FO	Original T10 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT10G1	Genant T10 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT10G2	Genant T10 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT11CG	Genant T11 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT11CO	Original T11 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT11FG	Genant T11 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT11FO	Original T11 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT11G1	Genant T11 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT11G2	Genant T11 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT12CG	Genant T12 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT12CO	Original T12 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT12FG	Genant T12 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT12FO	Original T12 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT12G1	Genant T12 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT12G2	Genant T12 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT12G3	Genant T12 comment 3	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT4CG	Genant T4 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT4CO	Original T4 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT4FG	Genant T4 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT4FO	Original T4 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT4G1	Genant T4 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT4G2	Genant T4 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT4G3	Genant T4 comment 3	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT5CG	Genant T5 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT5CO	Original T5 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT5FG	Genant T5 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT5FO	Original T5 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT5G1	Genant T5 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT5G2	Genant T5 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT5G3	Genant T5 comment 3	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT6CG	Genant T6 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT6CO	Original T6 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT6FG	Genant T6 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT6FO	Original T6 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT6G1	Genant T6 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT6G2	Genant T6 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT7CG	Genant T7 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT7CO	Original T7 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT7FG	Genant T7 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT7FO	Original IVA T7 Fracture Score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT7G1	Genant T7 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT7G2	Genant T7 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT8CG	Genant T8 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT8CO	Original T8 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT8FG	Genant T8 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT8FO	Original T8 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT8G1	Genant T8 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT8G2	Genant T8 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT8G3	Genant T8 comment 3	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT9CG	Genant T9 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT9CO	Original T9 fracture invalidity code	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT9FG	Genant T9 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT9FO	Original T9 fracture score	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT9G1	Genant T9 comment 1	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT9G2	Genant T9 comment 2	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXT9G3	Genant T9 comment 3	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXVFASG	Genant Vertebral fracture status summary	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+DXXVFASO	Original vertebral fracture status summary	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+SEQN	Respondent sequence number.	DXXV_H_R	Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study	2013	2014	Examination	RDC Only
+OHDEXCLU	Excluded from perio exam for med reasons	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHDEXSTS	Overall Oral Health Exam Status	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHDPDSTS	Periodontal Status Code	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02CJA	Loss of Attachment: Upper right 2nd molar (2M) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02CJD	Loss of Attachment: Upper right 2nd molar (2M) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02CJL	Loss of Attachment: Upper right 2nd molar (2M) mid - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02CJM	Loss of Attachment:  Upper right 2nd molar (2M) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02CJP	Loss of Attachment: Upper right 2nd molar (2M) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02CJS	Loss of Attachment:  Upper right 2nd molar (2M) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02LAA	Loss of Attachment:  Upper right 2nd molar (2M) mesio- lingual - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement)(mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02LAD	Loss of Attachment:  Upper right 2nd molar (2M) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02LAL	Loss of Attachment:  Upper right 2nd molar (2M) mid- lingual - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement)(mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02LAM	Loss of Attachment:  Upper right 2nd molar (2M) mid-facial - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement)(mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02LAP	Loss of Attachment:  Upper right 2nd molar (2M) distal lingual - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement)(mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02LAS	Loss of Attachment:  Upper right 2nd molar (2M) mesio-facial - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement)(mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02PCA	Loss of Attachment: Upper right 2nd molar (2M) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02PCD	Loss of Attachment: Upper right 2nd molar (2M) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02PCL	Loss of Attachment: Upper right 2nd molar (2M) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02PCM	Loss of Attachment:  Upper right 2nd molar (2M) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02PCP	Loss of Attachment: Upper right 2nd molar (2M) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX02PCS	Loss of Attachment:  Upper right 2nd molar (2M) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03CJA	Loss of Attachment: Upper right 1st molar (1M) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03CJD	Loss of Attachment: Upper right 1st molar (1M) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03CJL	Loss of Attachment: Upper right 1st molar (1M) mid - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03CJM	Loss of Attachment:  Upper right 1st molar (1M) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03CJP	Loss of Attachment: Upper right 1st molar (1M) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03CJS	Loss of Attachment:  Upper right 1st molar (1M) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03LAA	Loss of Attachment:  Upper right 1st molar (1M) mesio- lingual - Calculation of :   (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03LAD	Loss of Attachment:  Upper right 1st molar (1M) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03LAL	Loss of Attachment:  Upper right 1st molar (1M) mid- lingual - Calculation of :   (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03LAM	Loss of Attachment:  Upper right 1st molar (1M) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03LAP	Loss of Attachment:  Upper right 1st molar (1M) distal lingual - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement)(mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03LAS	Loss of Attachment:  Upper right 1st molar (1M) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03PCA	Loss of Attachment: Upper right 1st molar (1M) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03PCD	Loss of Attachment: Upper right 1st molar (1M) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03PCL	Loss of Attachment: Upper right 1st molar (1M) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03PCM	Loss of Attachment:  Upper right 1st molar (1M) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03PCP	Loss of Attachment: Upper right 1st molar (1M) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX03PCS	Loss of Attachment:  Upper right 1st molar (1M) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04CJA	Loss of Attachment: Upper right 2nd bicuspid/2nd primary molar (2B) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04CJD	Loss of Attachment: Upper right 2nd bicuspid/2nd primary molar (2B) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04CJL	Loss of Attachment: Upper right 2nd bicuspid/2nd primary molar (2B) mid - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04CJM	Loss of Attachment:  Upper right 2nd bicuspid/2nd primary molar (2B) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04CJP	Loss of Attachment: Upper right 2nd bicuspid/2nd primary molar (2B) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04CJS	Loss of Attachment:  Upper right 2nd bicuspid/2nd primary molar (2B) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04LAA	Loss of Attachment:  Upper right 2nd bicuspid/2nd primary molar (2B) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04LAD	Loss of Attachment:  Upper right 2nd bicuspid/2nd primary molar (2B) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04LAL	Loss of Attachment:  Upper right 2nd bicuspid/2nd primary molar (2B) mid- lingual - Calculation of :   (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04LAM	Loss of Attachment:  Upper right 2nd bicuspid/2nd primary molar (2B) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04LAP	Loss of Attachment:  Upper right 2nd bicuspid/2nd primary molar (2B) distal lingual - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement)(mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04LAS	Loss of Attachment:  Upper right 2nd bicuspid/2nd primary molar (2B) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04PCA	Loss of Attachment: Upper right 2nd bicuspid/2nd primary molar (2B) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04PCD	Loss of Attachment: Upper right 2nd bicuspid/2nd primary molar (2B) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04PCL	Loss of Attachment: Upper right 2nd bicuspid/2nd primary molar (2B) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04PCM	Loss of Attachment:  Upper right 2nd bicuspid/2nd primary molar (2B) mid-facial mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04PCP	Loss of Attachment: Upper right 2nd bicuspid/2nd primary molar (2B) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX04PCS	Loss of Attachment:  Upper right 2nd bicuspid/2nd primary molar (2B) mesio-facial mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05CJA	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05CJD	Loss of Attachment: Upper right 1st bicuspid/1st primary molar (1B) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05CJL	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05CJM	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05CJP	Loss of Attachment: Upper right 1st bicuspid/1st primary molar (1B) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05CJS	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05LAA	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05LAD	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05LAL	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05LAM	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05LAP	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05LAS	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05PCA	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05PCD	Loss of Attachment: Upper right 1st bicuspid/1st primary molar (1B) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05PCL	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05PCM	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mid-facial - FGM to sulcus base (pocket depth)(mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05PCP	Loss of Attachment: Upper right 1st bicuspid/1st primary molar (1B) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX05PCS	Loss of Attachment:  Upper right 1st bicuspid/1st primary molar (1B) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06CJA	Loss of Attachment:  Upper right cuspid (C) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06CJD	Loss of Attachment: Upper right cuspid (C) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06CJL	Loss of Attachment:  Upper right cuspid (C) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06CJM	Loss of Attachment:  Upper right cuspid (C) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06CJP	Loss of Attachment: Upper right cuspid (C) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06CJS	Loss of Attachment:  Upper right cuspid (C) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06LAA	Loss of Attachment:  Upper right cuspid (C) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06LAD	Loss of Attachment:  Upper right cuspid (C) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06LAL	Loss of Attachment:  Upper right cuspid (C) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06LAM	Loss of Attachment:  Upper right cuspid (C) mid-facial - Level of attachment calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06LAP	Loss of Attachment:  Upper right cuspid (C) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06LAS	Loss of Attachment:  Upper right cuspid (C) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06PCA	Loss of Attachment:  Upper right cuspid (C) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06PCD	Loss of Attachment: Upper right cuspid (C) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06PCL	Loss of Attachment:  Upper right cuspid (C) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06PCM	Loss of Attachment:  Upper right cuspid (C) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06PCP	Loss of Attachment: Upper right cuspid (C) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX06PCS	Loss of Attachment:  Upper right cuspid (C) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07CJA	Loss of Attachment:  Upper right lateral incisor (LI) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07CJD	Loss of Attachment: Upper right lateral incisor (LI) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07CJL	Loss of Attachment:  Upper right lateral incisor (LI) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07CJM	Loss of Attachment:  Upper right lateral incisor (LI) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07CJP	Loss of Attachment: Upper right lateral incisor (LI) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07CJS	Loss of Attachment:  Upper right lateral incisor (LI) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07LAA	Loss of Attachment:  Upper right lateral incisor (LI) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07LAD	Loss of Attachment:  Upper right lateral incisor (LI) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07LAL	Loss of Attachment:  Upper right lateral incisor (LI) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07LAM	Loss of Attachment:  Upper right lateral incisor (LI) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07LAP	Loss of Attachment:  Upper right lateral incisor (LI) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07LAS	Loss of Attachment:  Upper right lateral incisor (LI) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07PCA	Loss of Attachment:  Upper right lateral incisor (LI) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07PCD	Loss of Attachment: Upper right lateral incisor (LI) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07PCL	Loss of Attachment:  Upper right lateral incisor (LI) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07PCM	Loss of Attachment:  Upper right lateral incisor (LI) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07PCP	Loss of Attachment: Upper right lateral incisor (LI) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX07PCS	Loss of Attachment:  Upper right lateral incisor (LI) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08CJA	Loss of Attachment:  Upper right central incisor (CI) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08CJD	Loss of Attachment: Upper right central incisor (CI) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08CJL	Loss of Attachment:  Upper right central incisor (CI) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08CJM	Loss of Attachment:  Upper right central incisor (CI) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08CJP	Loss of Attachment: Upper right central incisor (CI) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08CJS	Loss of Attachment:  Upper right central incisor (CI) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08LAA	Loss of Attachment:  Upper right central incisor (CI) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08LAD	Loss of Attachment:  Upper right central incisor (CI) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08LAL	Loss of Attachment:  Upper right central incisor (CI) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08LAM	Loss of Attachment:  Upper right central incisor (CI) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08LAP	Loss of Attachment:  Upper right central incisor (CI) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08LAS	Loss of Attachment:  Upper right central incisor (CI) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08PCA	Loss of Attachment:  Upper right central incisor (CI) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08PCD	Loss of Attachment: Upper right central incisor (CI) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08PCL	Loss of Attachment:  Upper right central incisor (CI) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08PCM	Loss of Attachment:  Upper right central incisor (CI) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08PCP	Loss of Attachment: Upper right central incisor (CI) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX08PCS	Loss of Attachment:  Upper right central incisor (CI) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09CJA	Loss of Attachment:  Upper left central incisor (CI) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09CJD	Loss of Attachment: Upper left central incisor (CI) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09CJL	Loss of Attachment:  Upper left central incisor (CI) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09CJM	Loss of Attachment:  Upper left central incisor (CI) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09CJP	Loss of Attachment: Upper left central incisor (CI) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09CJS	Loss of Attachment:  Upper left central incisor (CI) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09LAA	Loss of Attachment:  Upper left central incisor (CI) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09LAD	Loss of Attachment:  Upper left central incisor (CI) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09LAL	Loss of Attachment:  Upper left central incisor (CI) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09LAM	Loss of Attachment:  Upper left central incisor (CI) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09LAP	Loss of Attachment:  Upper left central incisor (CI) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09LAS	Loss of Attachment:  Upper left central incisor (CI) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09PCA	Loss of Attachment:  Upper left central incisor (CI) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09PCD	Loss of Attachment: Upper left central incisor (CI) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09PCL	Loss of Attachment:  Upper left central incisor (CI) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09PCM	Loss of Attachment:  Upper left central incisor (CI) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09PCP	Loss of Attachment: Upper left central incisor (CI) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX09PCS	Loss of Attachment:  Upper left central incisor (CI) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10CJA	Loss of Attachment:  Upper left lateral incisor (LI) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10CJD	Loss of Attachment: Upper left lateral incisor (LI) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10CJL	Loss of Attachment:  Upper left lateral incisor (LI) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10CJM	Loss of Attachment:  Upper left lateral incisor (LI) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10CJP	Loss of Attachment: Upper left lateral incisor (LI) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10CJS	Loss of Attachment:  Upper left lateral incisor (LI) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10LAA	Loss of Attachment:  Upper left lateral incisor (LI) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10LAD	Loss of Attachment:  Upper left lateral incisor (LI) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10LAL	Loss of Attachment:  Upper left lateral incisor (LI) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10LAM	Loss of Attachment:  Upper left lateral incisor (LI) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10LAP	Loss of Attachment:  Upper left lateral incisor (LI) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10LAS	Loss of Attachment:  Upper left lateral incisor (LI) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10PCA	Loss of Attachment:  Upper left lateral incisor (LI) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10PCD	Loss of Attachment: Upper left lateral incisor (LI) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10PCL	Loss of Attachment:  Upper left lateral incisor (LI) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10PCM	Loss of Attachment:  Upper left lateral incisor (LI) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10PCP	Loss of Attachment: Upper left lateral incisor (LI) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX10PCS	Loss of Attachment:  Upper left lateral incisor (LI) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11CJA	Loss of Attachment:  Upper left cuspid (C) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11CJD	Loss of Attachment: Upper left cuspid (C) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11CJL	Loss of Attachment:  Upper left cuspid (C) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11CJM	Loss of Attachment:  Upper left cuspid (C) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11CJP	Loss of Attachment: Upper left cuspid (C) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11CJS	Loss of Attachment:  Upper left cuspid (C) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11LAA	Loss of Attachment:  Upper left cuspid (C) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11LAD	Loss of Attachment:  Upper left cuspid (C) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11LAL	Loss of Attachment:  Upper left cuspid (C) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11LAM	Loss of Attachment:  Upper left cuspid (C) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11LAP	Loss of Attachment:  Upper left cuspid (C) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11LAS	Loss of Attachment:  Upper left cuspid (C) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11PCA	Loss of Attachment:  Upper left cuspid (C) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11PCD	Loss of Attachment: Upper left cuspid (C) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11PCL	Loss of Attachment:  Upper left cuspid (C) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11PCM	Loss of Attachment:  Upper left cuspid (C) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11PCP	Loss of Attachment: Upper left cuspid (C) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX11PCS	Loss of Attachment:  Upper left cuspid (C) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12CJA	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12CJD	Loss of Attachment: Upper left 1st bicuspid/1st primary molar (1B) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12CJL	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12CJM	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12CJP	Loss of Attachment: Upper left 1st bicuspid/1st primary molar (1B) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12CJS	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12LAA	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12LAD	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12LAL	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12LAM	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12LAP	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12LAS	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12PCA	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12PCD	Loss of Attachment: Upper left 1st bicuspid/1st primary molar (1B) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12PCL	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12PCM	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12PCP	Loss of Attachment: Upper left 1st bicuspid/1st primary molar (1B) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX12PCS	Loss of Attachment:  Upper left 1st bicuspid/1st primary molar (1B) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13CJA	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13CJD	Loss of Attachment: Upper left 2nd bicuspid/2nd primary molar (2B) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13CJL	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13CJM	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13CJP	Loss of Attachment: Upper left 2nd bicuspid/2nd primary molar (2B) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13CJS	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13LAA	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13LAD	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13LAL	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13LAM	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13LAP	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13LAS	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13PCA	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13PCD	Loss of Attachment: Upper left 2nd bicuspid/2nd primary molar (2B) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13PCL	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13PCM	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13PCP	Loss of Attachment: Upper left 2nd bicuspid/2nd primary molar (2B) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX13PCS	Loss of Attachment:  Upper left 2nd bicuspid/2nd primary molar (2B) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14CJA	Loss of Attachment:  Upper left 1st molar (1M) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14CJD	Loss of Attachment: Upper left 1st molar (1M) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14CJL	Loss of Attachment:  Upper left 1st molar (1M) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14CJM	Loss of Attachment:  Upper left 1st molar (1M) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14CJP	Loss of Attachment: Upper left 1st molar (1M) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14CJS	Loss of Attachment:  Upper left 1st molar (1M) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14LAA	Loss of Attachment:  Upper left 1st molar (1M) mesio- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14LAD	Loss of Attachment:  Upper left 1st molar (1M) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14LAL	Loss of Attachment:  Upper left 1st molar (1M) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14LAM	Loss of Attachment:  Upper left 1st molar (1M) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14LAP	Loss of Attachment:  Upper left 1st molar (1M) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14LAS	Loss of Attachment:  Upper left 1st molar (1M) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14PCA	Loss of Attachment:  Upper left 1st molar (1M) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14PCD	Loss of Attachment: Upper left 1st molar (1M) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14PCL	Loss of Attachment:  Upper left 1st molar (1M) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14PCM	Loss of Attachment:  Upper left 1st molar (1M) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14PCP	Loss of Attachment: Upper left 1st molar (1M) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX14PCS	Loss of Attachment:  Upper left 1st molar (1M) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15CJA	Loss of Attachment:  Upper left 2nd molar (2M) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15CJD	Loss of Attachment: Upper left 2nd molar (2M) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15CJL	Loss of Attachment:  Upper left 2nd molar (2M) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15CJM	Loss of Attachment:  Upper left 2nd molar (2M) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15CJP	Loss of Attachment: Upper left 2nd molar (2M) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15CJS	Loss of Attachment:  Upper left 2nd molar (2M) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15LAA	Loss of Attachment:  Upper left 2nd molar (2M) mesio- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15LAD	Loss of Attachment:  Upper left 2nd molar (2M) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15LAL	Loss of Attachment:  Upper left 2nd molar (2M) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15LAM	Loss of Attachment:  Upper left 2nd molar (2M) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15LAP	Loss of Attachment:  Upper left 2nd molar (2M) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15LAS	Loss of Attachment:  Upper left 2nd molar (2M) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15PCA	Loss of Attachment:  Upper left 2nd molar (2M) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15PCD	Loss of Attachment: Upper left 2nd molar (2M) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15PCL	Loss of Attachment:  Upper left 2nd molar (2M) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15PCM	Loss of Attachment:  Upper left 2nd molar (2M) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15PCP	Loss of Attachment: Upper left 2nd molar (2M) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX15PCS	Loss of Attachment:  Upper left 2nd molar (2M) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18CJA	Loss of Attachment:  Lower left 2nd molar (2M) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18CJD	Loss of Attachment: Lower left 2nd molar (2M) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18CJL	Loss of Attachment:  Lower left 2nd molar (2M) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18CJM	Loss of Attachment:  Lower left 2nd molar (2M) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18CJP	Loss of Attachment: Lower left 2nd molar (2M) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18CJS	Loss of Attachment:  Lower left 2nd molar (2M) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18LAA	Loss of Attachment:  Lower left 2nd molar (2M) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18LAD	Loss of Attachment:  Lower left 2nd molar (2M) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18LAL	Loss of Attachment:  Lower left 2nd molar (2M) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18LAM	Loss of Attachment:  Lower left 2nd molar (2M) mid-facial - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18LAP	Loss of Attachment:  Lower left 2nd molar (2M) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18LAS	Loss of Attachment:  Lower left 2nd molar (2M) mesio-facial - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18PCA	Loss of Attachment:  Lower left 2nd molar (2M) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18PCD	Loss of Attachment: Lower left 2nd molar (2M) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18PCL	Loss of Attachment:  Lower left 2nd molar (2M) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18PCM	Loss of Attachment:  Lower left 2nd molar (2M) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18PCP	Loss of Attachment: Lower left 2nd molar (2M) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX18PCS	Loss of Attachment:  Lower left 2nd molar (2M) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19CJA	Loss of Attachment:  Lower left 1st molar (1M) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19CJD	Loss of Attachment: Lower left 1st molar (1M) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19CJL	Loss of Attachment:  Lower left 1st molar (1M) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19CJM	Loss of Attachment:  Lower left 1st molar (1M) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19CJP	Loss of Attachment: Lower left 1st molar (1M) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19CJS	Loss of Attachment:  Lower left 1st molar (1M) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19LAA	Loss of Attachment:  Lower left 1st molar (1M) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19LAD	Loss of Attachment:  Lower left 1st molar (1M) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19LAL	Loss of Attachment:  Lower left 1st molar (1M) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19LAM	Loss of Attachment:  Lower left 1st molar (1M) mid-facial - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19LAP	Loss of Attachment:  Lower left 1st molar (1M) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19LAS	Loss of Attachment:  Lower left 1st molar (1M) mesio-facial - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19PCA	Loss of Attachment:  Lower left 1st molar (1M) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19PCD	Loss of Attachment: Lower left 1st molar (1M) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19PCL	Loss of Attachment:  Lower left 1st molar (1M) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19PCM	Loss of Attachment:  Lower left 1st molar (1M) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19PCP	Loss of Attachment: Lower left 1st molar (1M) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX19PCS	Loss of Attachment:  Lower left 1st molar (1M) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20CJA	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20CJD	Loss of Attachment: Lower left 2nd bicuspid/2nd primary molar (2B) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20CJL	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20CJM	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20CJP	Loss of Attachment: Lower left 2nd bicuspid/2nd primary molar (2B) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20CJS	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20LAA	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20LAD	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20LAL	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20LAM	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20LAP	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20LAS	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mesio-facial - Level of attachment calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20PCA	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20PCD	Loss of Attachment: Lower left 2nd bicuspid/2nd primary molar (2B) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20PCL	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20PCM	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20PCP	Loss of Attachment: Lower left 2nd bicuspid/2nd primary molar (2B) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX20PCS	Loss of Attachment:  Lower left 2nd bicuspid/2nd primary molar (2B) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21CJA	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21CJD	Loss of Attachment: Lower left 1st bicuspid/1st primary molar (1B) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21CJL	Loss of Attachment: Lower left 1st bicuspid/1st primary molar (1B) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21CJM	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21CJP	Loss of Attachment: Lower left 1st bicuspid/1st primary molar (1B) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21CJS	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21LAA	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21LAD	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21LAL	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21LAM	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21LAP	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21LAS	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21PCA	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21PCD	Loss of Attachment: Lower left 1st bicuspid/1st primary molar (1B) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21PCL	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21PCM	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21PCP	Loss of Attachment: Lower left 1st bicuspid/1st primary molar (1B) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX21PCS	Loss of Attachment:  Lower left 1st bicuspid/1st primary molar (1B) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22CJA	Loss of Attachment:  Lower left cuspid (C) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22CJD	Loss of Attachment: Lower left cuspid (C) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22CJL	Loss of Attachment:  Lower left cuspid (C) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22CJM	Loss of Attachment:  Lower left cuspid (C) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22CJP	Loss of Attachment: Lower left cuspid (C) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22CJS	Loss of Attachment:  Lower left cuspid (C) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22LAA	Loss of Attachment:  Lower left cuspid (C) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22LAD	Loss of Attachment:  Lower left cuspid (C) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22LAL	Loss of Attachment:  Lower left cuspid (C) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22LAM	Loss of Attachment: Lower left cuspid (C) mid-facial - Level of attachment calculation of : (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22LAP	Loss of Attachment:  Lower left cuspid (C) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22LAS	Loss of Attachment:  Lower left cuspid (C) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22PCA	Loss of Attachment:  Lower left cuspid (C) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22PCD	Loss of Attachment: Lower left cuspid (C) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22PCL	Loss of Attachment:  Lower left cuspid (C) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22PCM	Loss of Attachment:  Lower left cuspid (C) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22PCP	Loss of Attachment: Lower left cuspid (C) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX22PCS	Loss of Attachment:  Lower left cuspid (C) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23CJA	Loss of Attachment:  Lower left lateral incisor (LI) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23CJD	Loss of Attachment: Lower left lateral incisor (LI) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23CJL	Loss of Attachment:  Lower left lateral incisor (LI) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23CJM	Loss of Attachment:  Lower left lateral incisor (LI) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23CJP	Loss of Attachment: Lower left lateral incisor (LI) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23CJS	Loss of Attachment:  Lower left lateral incisor (LI) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23LAA	Loss of Attachment:  Lower left lateral incisor (LI) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23LAD	Loss of Attachment:  Lower left lateral incisor (LI) distal - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23LAL	Loss of Attachment:  Lower left lateral incisor (LI) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23LAM	Loss of Attachment:  Lower left lateral incisor (LI) mid-facial - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23LAP	Loss of Attachment:  Lower left lateral incisor (LI) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23LAS	Loss of Attachment:  Lower left lateral incisor (LI) mesio-facial - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23PCA	Loss of Attachment:  Lower left lateral incisor (LI) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23PCD	Loss of Attachment: Lower left lateral incisor (LI) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23PCL	Loss of Attachment:  Lower left lateral incisor (LI) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23PCM	Loss of Attachment:  Lower left lateral incisor (LI) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23PCP	Loss of Attachment: Lower left lateral incisor (LI) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX23PCS	Loss of Attachment:  Lower left lateral incisor (LI) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24CJA	Loss of Attachment:  Lower left central incisor (CI) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24CJD	Loss of Attachment: Lower left central incisor (CI) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24CJL	Loss of Attachment:  Lower left central incisor (CI) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24CJM	Loss of Attachment:  Lower left central incisor (CI) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24CJP	Loss of Attachment: Lower left central incisor (CI) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24CJS	Loss of Attachment:  Lower left central incisor (CI) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24LAA	Loss of Attachment:  Lower left central incisor (CI) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24LAD	Loss of Attachment:  Lower left central incisor (CI) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24LAL	Loss of Attachment:  Lower left central incisor (CI) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24LAM	Loss of Attachment:  Lower left central incisor (CI) mid-facial - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24LAP	Loss of Attachment:  Lower left central incisor (CI) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24LAS	Loss of Attachment:  Lower left central incisor (CI) mesio-facial - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24PCA	Loss of Attachment:  Lower left central incisor (CI) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24PCD	Loss of Attachment: Lower left central incisor (CI) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24PCL	Loss of Attachment:  Lower left central incisor (CI) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24PCM	Loss of Attachment:  Lower left central incisor (CI) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24PCP	Loss of Attachment: Lower left central incisor (CI) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX24PCS	Loss of Attachment:  Lower left central incisor (CI) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25CJA	Loss of Attachment:  Lower right central incisor (CI) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25CJD	Loss of Attachment: Lower right central incisor (CI) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25CJL	Loss of Attachment:  Lower right central incisor (CI) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25CJM	Loss of Attachment:  Lower right central incisor (CI) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25CJP	Loss of Attachment: Lower right central incisor (CI) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25CJS	Loss of Attachment:  Lower right central incisor (CI) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25LAA	Loss of Attachment:  Lower right central incisor (CI) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25LAD	Loss of Attachment:  Lower right central incisor (CI) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25LAL	Loss of Attachment:  Lower right central incisor (CI) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25LAM	Loss of Attachment:  Lower right central incisor (CI) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25LAP	Loss of Attachment:  Lower right central incisor (CI) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25LAS	Loss of Attachment:  Lower right central incisor (CI) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25PCA	Loss of Attachment:  Lower right central incisor (CI) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25PCD	Loss of Attachment: Lower right central incisor (CI) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25PCL	Loss of Attachment:  Lower right central incisor (CI) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25PCM	Loss of Attachment:  Lower right central incisor (CI) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25PCP	Loss of Attachment: Lower right central incisor (CI) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX25PCS	Loss of Attachment:  Lower right central incisor (CI) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26CJA	Loss of Attachment:  Lower right lateral incisor (LI) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26CJD	Loss of Attachment: Lower right lateral incisor (LI) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26CJL	Loss of Attachment:  Lower right lateral incisor (LI) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26CJM	Loss of Attachment:  Lower right lateral incisor (LI) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26CJP	Loss of Attachment: Lower right lateral incisor (LI) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26CJS	Loss of Attachment:  Lower right lateral incisor (LI) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26LAA	Loss of Attachment:  Lower right lateral incisor (LI) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26LAD	Loss of Attachment:  Lower right lateral incisor (LI) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26LAL	Loss of Attachment:  Lower right lateral incisor (LI) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26LAM	Loss of Attachment:  Lower right lateral incisor (LI) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26LAP	Loss of Attachment:  Lower right lateral incisor (LI) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26LAS	Loss of Attachment:  Lower right lateral incisor (LI) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26PCA	Loss of Attachment:  Lower right lateral incisor (LI) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26PCD	Loss of Attachment: Lower right lateral incisor (LI) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26PCL	Loss of Attachment:  Lower right lateral incisor (LI) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26PCM	Loss of Attachment:  Lower right lateral incisor (LI) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26PCP	Loss of Attachment: Lower right lateral incisor (LI) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX26PCS	Loss of Attachment:  Lower right lateral incisor (LI) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27CJA	Loss of Attachment:  Lower right cuspid (C) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27CJD	Loss of Attachment: Lower right cuspid (C) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27CJL	Loss of Attachment:  Lower right cuspid (C) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27CJM	Loss of Attachment:  Lower right cuspid (C) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27CJP	Loss of Attachment: Lower right cuspid (C) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27CJS	Loss of Attachment:  Lower right cuspid (C) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27LAA	Loss of Attachment:  Lower right cuspid (C) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27LAD	Loss of Attachment:  Lower right cuspid (C) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27LAL	Loss of Attachment:  Lower right cuspid (C) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27LAM	Loss of Attachment:  Lower right cuspid (C) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27LAP	Loss of Attachment:  Lower right cuspid (C) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27LAS	Loss of Attachment:  Lower right cuspid (C) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27PCA	Loss of Attachment:  Lower right cuspid (C) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27PCD	Loss of Attachment: Lower right cuspid (C) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27PCL	Loss of Attachment:  Lower right lateral incisor (LI) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27PCM	Loss of Attachment:  Lower right cuspid (C) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27PCP	Loss of Attachment: Lower right cuspid (C) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX27PCS	Loss of Attachment:  Lower right cuspid (C) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28CJA	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28CJD	Loss of Attachment: Lower right 1st bicuspid/1st primary molar (1B) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28CJL	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28CJM	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28CJP	Loss of Attachment: Lower right 1st bicuspid/1st primary molar (1B) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28CJS	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28LAA	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28LAD	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28LAL	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28LAM	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28LAP	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28LAS	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28PCA	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28PCD	Loss of Attachment: Lower right 1st bicuspid/1st primary molar (1B) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28PCL	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28PCM	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28PCP	Loss of Attachment: Lower right 1st bicuspid/1st primary molar (1B) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX28PCS	Loss of Attachment:  Lower right 1st bicuspid/1st primary molar (1B) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29CJA	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29CJD	Loss of Attachment: Lower right 2nd bicuspid/2nd primary molar (2B) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29CJL	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29CJM	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29CJP	Loss of Attachment: Lower right 2nd bicuspid/2nd primary molar (2B) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29CJS	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29LAA	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29LAD	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29LAL	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29LAM	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29LAP	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29LAS	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29PCA	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29PCD	Loss of Attachment: Lower right 2nd bicuspid/2nd primary molar (2B) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29PCL	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29PCM	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29PCP	Loss of Attachment: Lower right 2nd bicuspid/2nd primary molar (2B) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX29PCS	Loss of Attachment:  Lower right 2nd bicuspid/2nd primary molar (2B) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30CJA	Loss of Attachment:  Lower right 1st molar (1M) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30CJD	Loss of Attachment: Lower right 1st molar (1M) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30CJL	Loss of Attachment:  Lower right 1st molar (1M) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30CJM	Loss of Attachment:  Lower right 1st molar (1M) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30CJP	Loss of Attachment: Lower right 1st molar (1M) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30CJS	Loss of Attachment:  Lower right 1st molar (1M) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30LAA	Loss of Attachment:  Lower right 1st molar (1M) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30LAD	Loss of Attachment:  Lower right 1st molar (1M) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30LAL	Loss of Attachment:  Lower right 1st molar (1M) mid- lingual - LCalculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30LAM	Loss of Attachment:  Lower right 1st molar (1M) mid-facial - LCalculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30LAP	Loss of Attachment:  Lower right 1st molar (1M) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30LAS	Loss of Attachment:  Lower right 1st molar (1M) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30PCA	Loss of Attachment:  Lower right 1st molar (1M) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30PCD	Loss of Attachment: Lower right 1st molar (1M) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30PCL	Loss of Attachment:  Lower right 1st molar (1M) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30PCM	Loss of Attachment:  Lower right 1st molar (1M) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30PCP	Loss of Attachment: Lower right 1st molar (1M) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX30PCS	Loss of Attachment:  Lower right 1st molar (1M) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31CJA	Loss of Attachment:  Lower right 2nd molar (2M) mesio- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31CJD	Loss of Attachment: Lower right 2nd molar (2M) distal - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31CJL	Loss of Attachment:  Lower right 2nd molar (2M) mid- lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31CJM	Loss of Attachment:  Lower right 2nd molar (2M) mid-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31CJP	Loss of Attachment: Lower right 2nd molar (2M) distal - lingual - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31CJS	Loss of Attachment:  Lower right 2nd molar (2M) mesio-facial - FGM to CEJ measurement (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31LAA	Loss of Attachment:  Lower right 2nd molar (2M) mesio-lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31LAD	Loss of Attachment:  Lower right 2nd molar (2M) distal - Calculation of :  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31LAL	Loss of Attachment:  Lower right 2nd molar (2M) mid- lingual - Calculation of:  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31LAM	Loss of Attachment:  Lower right 2nd molar (2M) mid-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31LAP	Loss of Attachment:  Lower right 2nd molar (2M) distal - lingual - Calculation of:  (FGM to CEJ measurement) - (FGM to sulcus base measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31LAS	Loss of Attachment:  Lower right 2nd molar (2M) mesio-facial - Calculation of :  (FGM to sulcus base measurement) - (FGM to CEJ measurement) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31PCA	Loss of Attachment:  Lower right 2nd molar (2M) mesio- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31PCD	Loss of Attachment: Lower right 2nd molar (2M) distal - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31PCL	Loss of Attachment:  Lower right 2nd molar (2M) mid- lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31PCM	Loss of Attachment:  Lower right 2nd molar (2M) mid-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31PCP	Loss of Attachment: Lower right 2nd molar (2M) distal - lingual - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHX31PCS	Loss of Attachment:  Lower right 2nd molar (2M) mesio-facial - FGM to sulcus base (pocket depth) (mm)	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+SEQN	Respondent sequence number.	OHXPER_H	Oral Health - Periodontal	2013	2014	Examination	None
+OHAPOS	Was the SP in a recumbent (laying down) position for all eligible assessments of the oral health exam?	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None
+OHAREC	Overall recommendation for care	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None
+OHARNF	No significant findings	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None
+OHAROCCI	Clinical impression of soft tissue condition	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None
+OHAROCDE	Denture/Partial Denture/Plates	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None
+OHAROCDT	Decayed teeth	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None
+OHAROCGP	Gum disease/problem	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None
+OHAROCOH	Oral hygiene	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None
+OHAROTH	Some other finding (specify w/referral letter)	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None
+OHDEXSTS	Overall Oral Health Exam Status	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None
+OHDRCSTS	Recommendation Care Status Code	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None
+SEQN	Respondent sequence number.	OHXREF_H	Oral Health - Recommendation of Care	2013	2014	Examination	None

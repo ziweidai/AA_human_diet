@@ -1,0 +1,15 @@
+Data File Name	Doc File	Data File	Date Published
+Audiometry	AUX_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/AUX_E.htm)	AUX_E Data [XPT - 681.6 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/AUX_E.XPT)	September 2010
+Audiometry - Acoustic Reflex	AUXAR_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/AUXAR_E.htm)	AUXAR_E Data [XPT - 3.2 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/AUXAR_E.XPT)	January 2013
+Audiometry - Tympanometry	AUXTYM_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/AUXTYM_E.htm)	AUXTYM_E Data [XPT - 1.6 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/AUXTYM_E.XPT)	September 2010
+Blood Pressure	BPX_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/BPX_E.htm)	BPX_E Data [XPT - 2 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/BPX_E.XPT)	September 2009
+Body Measures	BMX_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/BMX_E.htm)	BMX_E Data [XPT - 1.7 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/BMX_E.XPT)	Updated April 2011
+Dual Energy X-ray Absorptiometry - Femur	DXXFEM_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DXXFEM_E.htm)	DXXFEM_E Data [XPT - 1.2 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DXXFEM_E.XPT)	December 2009
+Dual Energy X-ray Absorptiometry - Spine	DXXSPN_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DXXSPN_E.htm)	DXXSPN_E Data [XPT - 2.1 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/DXXSPN_E.XPT)	Updated May 2015
+Exhaled Nitric Oxide	ENX_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/ENX_E.htm)	ENX_E Data [XPT - 1.3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/ENX_E.XPT)	September 2011
+Ophthalmology - Frequency Doubling Technology	OPXFDT_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OPXFDT_E.htm)	OPXFDT_E Data [XPT - 2.8 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OPXFDT_E.XPT)	January 2010
+Ophthalmology - Retinal Imaging	OPXRET_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OPXRET_E.htm)	OPXRET_E Data [XPT - 6.6 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OPXRET_E.XPT)	Updated June 2015
+Oral Health	OHX_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OHX_E.htm)	OHX_E Data [XPT - 3.7 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/OHX_E.XPT)	September 2009
+Spirometry - Pre and Post-Bronchodilator	SPX_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SPX_E.htm)	SPX_E Data [XPT - 2.7 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SPX_E.XPT)	December 2011
+Spirometry - Raw Curve Data	SPXRAW_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SPXRAW_E.htm)	SPXRAW_E Data [ZIP - 12.1 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/SPXRAW_E.ZIP)	December 2011
+Vision	VIX_E Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/VIX_E.htm)	VIX_E Data [XPT - 3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/VIX_E.XPT)	September 2009

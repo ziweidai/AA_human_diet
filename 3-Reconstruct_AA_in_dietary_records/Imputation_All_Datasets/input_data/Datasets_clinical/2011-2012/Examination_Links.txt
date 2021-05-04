@@ -1,0 +1,14 @@
+Data File Name	Doc File	Data File	Date Published
+Audiometry	AUX_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/AUX_G.htm)	AUX_G Data [XPT - 2.4 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/AUX_G.XPT)	April 2016
+Audiometry - Acoustic Reflex	AUXAR_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/AUXAR_G.htm)	AUXAR_G Data [XPT - 11.6 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/AUXAR_G.XPT)	April 2016
+Audiometry - Tympanometry	AUXTYM_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/AUXTYM_G.htm)	AUXTYM_G Data [XPT - 5.8 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/AUXTYM_G.XPT)	April 2016
+Blood Pressure	BPX_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BPX_G.htm)	BPX_G Data [XPT - 1.9 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BPX_G.XPT)	September 2013
+Body Measures	BMX_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BMX_G.htm)	BMX_G Data [XPT - 1.9 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BMX_G.XPT)	Updated September 2015
+Exhaled Nitric Oxide	ENX_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/ENX_G.htm)	ENX_G Data [XPT - 1.3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/ENX_G.XPT)	February 2014
+Muscle Strength - Grip Test	MGX_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/MGX_G.htm)	MGX_G Data [XPT - 1.7 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/MGX_G.XPT)	December 2014
+Oral Health - Dentition	OHXDEN_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/OHXDEN_G.htm)	OHXDEN_G Data [XPT - 6.6 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/OHXDEN_G.XPT)	March 2014
+Oral Health - Periodontal	OHXPER_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/OHXPER_G.htm)	OHXPER_G Data [XPT - 17 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/OHXPER_G.XPT)	March 2014
+Oral Health - Recommendation of Care	OHXREF_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/OHXREF_G.htm)	OHXREF_G Data [XPT - 842 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/OHXREF_G.XPT)	March 2014
+Spirometry - Pre and Post-Bronchodilator	SPX_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/SPX_G.htm)	SPX_G Data [XPT - 2.6 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/SPX_G.XPT)	December 2014
+Spirometry - Raw Curve Data	SPXRAW_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/SPXRAW_G.htm)	SPXRAW_G Data [ZIP - 12.3 MB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/SPXRAW_G.ZIP)	December 2014
+Tuberculosis	TBX_G Doc(https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/TBX_G.htm)	TBX_G Data [XPT - 307 KB](https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/TBX_G.XPT)	Updated January 2015

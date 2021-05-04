@@ -1,0 +1,1273 @@
+Variable Name	Variable Description	Data File Name	Data File Description	Begin Year	EndYear	Component	Use Constraints
+LBDBANO	Basophils number (1000 cells/uL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBDEONO	Eosinophils number (1000 cells/uL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBDLYMNO	Lymphocyte number (1000 cells/uL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBDMONO	Monocyte number (1000 cells/uL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBDNENO	Segmented neutrophils num (1000 cell/uL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXBAPCT	Basophils percent (%)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXEOPCT	Eosinophils percent (%)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXHCT	Hematocrit (%)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXHGB	Hemoglobin (g/dL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXLYPCT	Lymphocyte percent (%)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXMC	Mean cell hemoglobin concentration (g/dL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXMCHSI	Mean cell hemoglobin (pg)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXMCVSI	Mean cell volume (fL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXMOPCT	Monocyte percent (%)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXMPSI	Mean platelet volume (fL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXNEPCT	Segmented neutrophils percent (%)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXPLTSI	Platelet count (1000 cells/uL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXRBCSI	Red blood cell count (million cells/uL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXRDW	Red cell distribution width (%)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBXWBCSI	White blood cell count (1000 cells/uL)	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	CBC_H	Complete Blood Count with 5-part Differential - Whole Blood	2013	2014	Laboratory	None
+LBDHDD	Direct HDL-Cholesterol (mg/dL)	HDL_H	Cholesterol - HDL	2013	2014	Laboratory	None
+LBDHDDSI	Direct HDL-Cholesterol (mmol/L)	HDL_H	Cholesterol - HDL	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	HDL_H	Cholesterol - HDL	2013	2014	Laboratory	None
+LBDTCSI	Total Cholesterol( mmol/L)	TCHOL_H	Cholesterol - Total	2013	2014	Laboratory	None
+LBXTC	Total Cholesterol( mg/dL)	TCHOL_H	Cholesterol - Total	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	TCHOL_H	Cholesterol - Total	2013	2014	Laboratory	None
+LBXGH	Glycohemoglobin (%)	GHB_H	Glycohemoglobin	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	GHB_H	Glycohemoglobin	2013	2014	Laboratory	None
+LBDSALSI	Albumin (g/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSBUSI	Blood urea nitrogen (mmol/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSCASI	Total calcium (mmol/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSCHSI	Cholesterol (mmol/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSCRSI	Creatinine (umol/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSGBSI	Globulin (g/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSGLSI	"Glucose, refrigerated serum (mmol/L)"	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSIRSI	"Iron, refrigerated serum (umol/L)"	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSPHSI	Phosphorus (mmol/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSTBSI	Total bilirubin (umol/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSTPSI	Total protein (g/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSTRSI	"Triglycerides, refrigerated (mmol/L)"	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSUASI	Uric acid (umol/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSAL	Albumin (g/dL)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSAPSI	Alkaline phosphatase (IU/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSASSI	Aspartate aminotransferase AST (IU/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSATSI	Alanine aminotransferase ALT (IU/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSBU	Blood urea nitrogen (mg/dL)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSC3SI	Bicarbonate (mmol/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSCA	Total calcium (mg/dL)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSCH	Cholesterol (mg/dL)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSCK	Creatine Phosphokinase(CPK) (IU/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSCLSI	Chloride (mmol/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSCR	Creatinine (mg/dL)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSGB	Globulin (g/dL)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSGL	"Glucose, refrigerated serum (mg/dL)"	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSGTSI	Gamma glutamyl transferase (U/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSIR	"Iron, refrigerated serum (ug/dL)"	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSKSI	Potassium (mmol/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSLDSI	Lactate dehydrogenase (U/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSNASI	Sodium (mmol/L)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSOSSI	Osmolality (mmol/Kg)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSPH	Phosphorus (mg/dL)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSTB	Total bilirubin (mg/dL)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSTP	Total protein (g/dL)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSTR	"Triglycerides, refrigerated (mg/dL)"	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBXSUA	Uric acid (mg/dL)	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	BIOPRO_H	Standard Biochemistry Profile	2013	2014	Laboratory	None
+LBDSCUSI	Serum Copper (umol/L)	CUSEZN_H	"Copper, Selenium & Zinc - Serum"	2013	2014	Laboratory	None
+LBDSSESI	Serum Selenium (umol/L)	CUSEZN_H	"Copper, Selenium & Zinc - Serum"	2013	2014	Laboratory	None
+LBDSZNSI	Serum Zinc (umol/L)	CUSEZN_H	"Copper, Selenium & Zinc - Serum"	2013	2014	Laboratory	None
+LBXSCU	Serum Copper (ug/dL)	CUSEZN_H	"Copper, Selenium & Zinc - Serum"	2013	2014	Laboratory	None
+LBXSSE	Serum Selenium (ug/L)	CUSEZN_H	"Copper, Selenium & Zinc - Serum"	2013	2014	Laboratory	None
+LBXSZN	Serum Zinc (ug/dL)	CUSEZN_H	"Copper, Selenium & Zinc - Serum"	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	CUSEZN_H	"Copper, Selenium & Zinc - Serum"	2013	2014	Laboratory	None
+URXUCR	Urinary creatinine (mg/dL)	CUSEZN_H	"Copper, Selenium & Zinc - Serum"	2013	2014	Laboratory	None
+WTSA2YR	Subsample A weights	CUSEZN_H	"Copper, Selenium & Zinc - Serum"	2013	2014	Laboratory	None
+LBXHA	Hepatitis A antibody	HEPA_H	Hepatitis A	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	HEPA_H	Hepatitis A	2013	2014	Laboratory	None
+LBXHBS	Hepatitis B Surface Antibody	HEPB_S_H	Hepatitis B: Surface Antibody	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	HEPB_S_H	Hepatitis B: Surface Antibody	2013	2014	Laboratory	None
+LBDHBG	Hepatitis B surface antigen	HEPBD_H	"Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody"	2013	2014	Laboratory	None
+LBDHD	Hepatitis D (anti-HDV)	HEPBD_H	"Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody"	2013	2014	Laboratory	None
+LBXHBC	Hepatitis B core antibody	HEPBD_H	"Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody"	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	HEPBD_H	"Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody"	2013	2014	Laboratory	None
+LBDHI	HIV antibody test result	HIV_H	HIV Antibody Test	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	HIV_H	HIV Antibody Test	2013	2014	Laboratory	None
+LBXHE1	Herpes Simplex Virus Type 1	HSV_H	Herpes Simplex Virus Type-1 & Type-2	2013	2014	Laboratory	None
+LBXHE2	Herpes Simplex Virus Type 2	HSV_H	Herpes Simplex Virus Type-1 & Type-2	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	HSV_H	Herpes Simplex Virus Type-1 & Type-2	2013	2014	Laboratory	None
+GTDBL2MN	Time from fasting glucose & OGTT (min)	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+GTDCODE	Incomplete OGTT Comment Code	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+GTDDR1MN	Time from fast glucose & challenge(min)	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+GTDDR2MN	Time from glucose challenge & OGTT(min)	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+GTDSCMMN	Glucose challenge Administer Time in minutes	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+GTXDRANK	Amount of glucose challenge drank	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+LBDGLTSI	Two Hour Glucose(OGTT) (mmol/L)	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+LBXGLT	Two Hour Glucose(OGTT) (mg/dL)	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+PHAFSTHR	"Total length of 'food fast', hours"	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+PHAFSTMN	"Total length of 'food fast', minutes"	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+WTSOG2YR	OGTT Subsample 2 Year MEC Weight	OGTT_H	Oral Glucose Tolerance Test	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	PERNT_H	"Perchlorate, Nitrate & Thiocyanate - Urine"	2013	2014	Laboratory	None
+URDNO3LC	Urinary nitrate comment code	PERNT_H	"Perchlorate, Nitrate & Thiocyanate - Urine"	2013	2014	Laboratory	None
+URDSCNLC	Urinary thiocyanate comment code	PERNT_H	"Perchlorate, Nitrate & Thiocyanate - Urine"	2013	2014	Laboratory	None
+URDUP8LC	Urinary Perchlorate comment code	PERNT_H	"Perchlorate, Nitrate & Thiocyanate - Urine"	2013	2014	Laboratory	None
+URXNO3	Urinary nitrate (ng/mL)	PERNT_H	"Perchlorate, Nitrate & Thiocyanate - Urine"	2013	2014	Laboratory	None
+URXSCN	Urinary thiocyanate (ng/mL)	PERNT_H	"Perchlorate, Nitrate & Thiocyanate - Urine"	2013	2014	Laboratory	None
+URXUCR	Urinary creatinine (mg/dL)	PERNT_H	"Perchlorate, Nitrate & Thiocyanate - Urine"	2013	2014	Laboratory	None
+URXUP8	Urinary perchlorate (ng/mL)	PERNT_H	"Perchlorate, Nitrate & Thiocyanate - Urine"	2013	2014	Laboratory	None
+WTSA2YR	Subsample A weights	PERNT_H	"Perchlorate, Nitrate & Thiocyanate - Urine"	2013	2014	Laboratory	None
+LBDMPAHL	2-(N-Methyl-perfluorooctane sulfonamido) acetic acid comment code	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBDPFBSL	Perfluorobutane sulfonic acid comment code	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBDPFDEL	Pefluorodecanoic acid comment code	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBDPFDOL	Perflurododecanoic acid comment code	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBDPFHPL	Perfluoroheptanoic acid comment code	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBDPFHSL	Perfluorohexane sulfonic acid comment	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBDPFNAL	Perfluorononanoic acid comment code	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBDPFUAL	Perfluoroundecanoic acid comment code	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBXMPAH	2-(N-Methyl-perfluorooctane sulfonamido) acetic acid (ug/L)	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBXPFBS	Perfluorobutane sulfonic acid (ug/L)	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBXPFDE	Pefluorodecanoic acid (ug/L)	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBXPFDO	Perflurododecanoic acid (ug/L)	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBXPFHP	Perfluoroheptanoic acid (ug/L)	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBXPFHS	Perfluorohexane sulfonic acid (ug/L)	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBXPFNA	Perfluorononanoic acid (ug/L)	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBXPFUA	Perfluoroundecanoic acid (ug/L)	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+WTSB2YR	Subsample B weights	PFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)	2013	2014	Laboratory	None
+LBXEMA	Endomyseal antibody (IgA EMA)	TGEMA_H	Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)	2013	2014	Laboratory	None
+LBXTTG	Tissue transglutaminase(IgA-TTG)	TGEMA_H	Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	TGEMA_H	Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)	2013	2014	Laboratory	None
+LBDLDL	LDL-cholesterol (mg/dL)	TRIGLY_H	Cholesterol - LDL & Triglycerides	2013	2014	Laboratory	None
+LBDLDLSI	LDL-cholesterol (mmol/L)	TRIGLY_H	Cholesterol - LDL & Triglycerides	2013	2014	Laboratory	None
+LBDTRSI	Triglyceride (mmol/L)	TRIGLY_H	Cholesterol - LDL & Triglycerides	2013	2014	Laboratory	None
+LBXTR	Triglyceride (mg/dL)	TRIGLY_H	Cholesterol - LDL & Triglycerides	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	TRIGLY_H	Cholesterol - LDL & Triglycerides	2013	2014	Laboratory	None
+WTSAF2YR	Fasting Subsample 2 Year MEC Weight	TRIGLY_H	Cholesterol - LDL & Triglycerides	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	UCFLOW_H	Urine Flow Rate	2013	2014	Laboratory	None
+URDFLOW1	Urine #1 Flow Rate (mL/min)	UCFLOW_H	Urine Flow Rate	2013	2014	Laboratory	None
+URDFLOW2	Urine #2 Flow Rate (mL/min)	UCFLOW_H	Urine Flow Rate	2013	2014	Laboratory	None
+URDFLOW3	Urine #3 Flow Rate (mL/min)	UCFLOW_H	Urine Flow Rate	2013	2014	Laboratory	None
+URDTIME1	The time between last urination and the first urine sample collection in minutes	UCFLOW_H	Urine Flow Rate	2013	2014	Laboratory	None
+URDTIME2	The time between the first and second urine sample collections in minutes	UCFLOW_H	Urine Flow Rate	2013	2014	Laboratory	None
+URDTIME3	The time between the second and third urine sample collections in minutes	UCFLOW_H	Urine Flow Rate	2013	2014	Laboratory	None
+URXVOL1	The volume of urine collection #1 (mL)	UCFLOW_H	Urine Flow Rate	2013	2014	Laboratory	None
+URXVOL2	The volume of urine collection #2 (mL)	UCFLOW_H	Urine Flow Rate	2013	2014	Laboratory	None
+URXVOL3	The volume of urine collection #3 (mL)	UCFLOW_H	Urine Flow Rate	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	UCPREG_H	Pregnancy Test - Urine	2013	2014	Laboratory	None
+URXPREG	Pregnancy test result	UCPREG_H	Pregnancy Test - Urine	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	UHG_H	Mercury - Urine	2013	2014	Laboratory	None
+URDUHGLC	"Mercury, urine comment code"	UHG_H	Mercury - Urine	2013	2014	Laboratory	None
+URXUCR	"Creatinine, urine (mg/dL)"	UHG_H	Mercury - Urine	2013	2014	Laboratory	None
+URXUHG	"Mercury, urine (ug/L)"	UHG_H	Mercury - Urine	2013	2014	Laboratory	None
+WTSA2YR	Subsample A weights	UHG_H	Mercury - Urine	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUBALC	Urinary Barium comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUCDLC	Urinary Cadmium comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUCOLC	Urinary Cobalt (ug/L) comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUCSLC	Urinary Cesium comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUMNLC	Urinary Mn comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUMOLC	Urinary Molybdenum comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUPBLC	Urinary Lead comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUSBLC	Urinary Antimony comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUSNLC	Tin comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUSRLC	Strontium comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUTLLC	Urinary Thallium comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUTULC	Urinary Tungsten comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URDUURLC	Urinary Uranium comment code	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUBA	"Barium, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUCD	"Cadmium, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUCO	"Cobalt, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUCR	"Creatinine, urine (mg/dL)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUCS	"Cesium, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUMN	"Manganese, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUMO	"Molybdenum, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUPB	"Lead, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUSB	"Antimony, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUSN	"Tin, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUSR	"Strontium, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUTL	"Thallium, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUTU	"Tungsten, urine (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+URXUUR	"Uranium, urinary (ug/L)"	UM_H	Metals - Urine	2013	2014	Laboratory	None
+WTSA2YR	Subsample A weights	UM_H	Metals - Urine	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	UIO_H	Iodine - Urine	2013	2014	Laboratory	None
+URXUCR	"Creatinine, urine (mg/dL)"	UIO_H	Iodine - Urine	2013	2014	Laboratory	None
+URXUIO	"Iodine, urine (ug/L)"	UIO_H	Iodine - Urine	2013	2014	Laboratory	None
+WTSA2YR	Subsample A weights	UIO_H	Iodine - Urine	2013	2014	Laboratory	None
+LBDGLUSI	Fasting Glucose (mmol/L)	GLU_H	Plasma Fasting Glucose	2013	2014	Laboratory	None
+LBXGLU	Fasting Glucose (mg/dL)	GLU_H	Plasma Fasting Glucose	2013	2014	Laboratory	None
+PHAFSTHR	"Total length of 'food fast', hours"	GLU_H	Plasma Fasting Glucose	2013	2014	Laboratory	None
+PHAFSTMN	"Total length of 'food fast', minutes"	GLU_H	Plasma Fasting Glucose	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	GLU_H	Plasma Fasting Glucose	2013	2014	Laboratory	None
+WTSAF2YR	Fasting Subsample 2 Year MEC Weight	GLU_H	Plasma Fasting Glucose	2013	2014	Laboratory	None
+LBDPFL	"Fluoride, plasma (umol/L) average 2 values"	FLDEP_H	Fluoride - Plasma	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	FLDEP_H	Fluoride - Plasma	2013	2014	Laboratory	None
+LBDWFL	"Fluoride, water (mg/L) average 2 values"	FLDEW_H	Fluoride - Water	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	FLDEW_H	Fluoride - Water	2013	2014	Laboratory	None
+LBXHCG	Hepatitis C genotype	HEPC_H	Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype	2013	2014	Laboratory	None
+LBXHCR	Hepatitis C RNA (HCV-RNA)	HEPC_H	Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	HEPC_H	Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype	2013	2014	Laboratory	None
+LBDHEG	Hepatitis E IgG (anti-HEV)	HEPE_H	Hepatitis E: IgG & IgM Antibodies	2013	2014	Laboratory	None
+LBDHEM	Hepatitis E IgM (anti-HEV)	HEPE_H	Hepatitis E: IgG & IgM Antibodies	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	HEPE_H	Hepatitis E: IgG & IgM Antibodies	2013	2014	Laboratory	None
+LBDBGELC	"Mercury, ethyl comment code"	IHGEM_H	"Blood mercury: inorganic, ethyl and methyl"	2013	2014	Laboratory	None
+LBDBGMLC	"Mercury, methyl comment code"	IHGEM_H	"Blood mercury: inorganic, ethyl and methyl"	2013	2014	Laboratory	None
+LBDIHGLC	"Mercury, inorganic comment code"	IHGEM_H	"Blood mercury: inorganic, ethyl and methyl"	2013	2014	Laboratory	None
+LBDIHGSI	"Mercury, inorganic (umol/L )"	IHGEM_H	"Blood mercury: inorganic, ethyl and methyl"	2013	2014	Laboratory	None
+LBXBGE	"Mercury, ethyl (ug/L)"	IHGEM_H	"Blood mercury: inorganic, ethyl and methyl"	2013	2014	Laboratory	None
+LBXBGM	"Mercury, methyl (ug/L)"	IHGEM_H	"Blood mercury: inorganic, ethyl and methyl"	2013	2014	Laboratory	None
+LBXIHG	"Inorganic mercury, blood (ug/L)"	IHGEM_H	"Blood mercury: inorganic, ethyl and methyl"	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	IHGEM_H	"Blood mercury: inorganic, ethyl and methyl"	2013	2014	Laboratory	None
+WTSH2YR	Blood metal weights	IHGEM_H	"Blood mercury: inorganic, ethyl and methyl"	2013	2014	Laboratory	None
+ORXGH	HPV High Globulin Band result	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXGL	HPV Low Globulin Band result	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH06	HPV Type 6	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH11	HPV Type 11	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH16	HPV Type 16	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH18	HPV Type 18	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH26	HPV Type 26	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH31	HPV Type 31	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH33	HPV Type 33	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH35	HPV Type 35	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH39	HPV Type 39	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH40	HPV Type 40	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH42	HPV Type 42	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH45	HPV Type 45	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH51	HPV Type 51	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH52	HPV Type 52	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH53	HPV Type 53	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH54	HPV Type 54	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH55	HPV Type 55	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH56	HPV Type 56	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH58	HPV Type 58	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH59	HPV Type 59	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH61	HPV Type 61	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH62	HPV Type 62	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH64	HPV Type 64	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH66	HPV Type 66	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH67	HPV Type 67	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH68	HPV Type 68	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH69	HPV Type 69	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH70	HPV Type 70	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH71	HPV Type 71	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH72	HPV Type 72	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH73	HPV Type 73	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH81	HPV Type 81	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH82	HPV Type 82	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH83	HPV Type 83	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXH84	HPV Type 84	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXHPC	HPV CP 6108	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXHPI	HPV Type IS39	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+ORXHPV	Oral HPV Result	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	ORHPV_H	Human Papillomavirus (HPV) - Oral Rinse	2013	2014	Laboratory	None
+LBDBCDLC	Blood cadmium comment code	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBDBCDSI	Blood cadmium (umol/L)	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBDBMNLC	Blood manganese comment code	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBDBMNSI	Blood manganese (umol/L)	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBDBPBLC	Blood lead comment code	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBDBPBSI	Blood lead (umol/L)	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBDBSELC	Blood selenium comment code	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBDBSESI	Blood selenium (umol/L)	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBDTHGLC	"Blood mercury, total comment code"	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBDTHGSI	"Blood mercury, total (umol/L)"	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBXBCD	Blood cadmium (ug/L)	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBXBMN	Blood manganese (ug/L)	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBXBPB	Blood lead (ug/dL)	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBXBSE	Blood selenium(ug/L)	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+LBXTHG	"Blood mercury, total (ug/L)"	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+WTSH2YR	Blood metal weights	PBCD_H	"Blood Lead, Cadmium, Total Mercury, Selenium, and Manganese"	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	TRICH_H	Trichomonas - Urine	2013	2014	Laboratory	None
+URXUTRI	"Trichomonas, urine"	TRICH_H	Trichomonas - Urine	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URDUA3LC	Urinary Arsenous acid comment code	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URDUA5LC	Urinary Arsenic acid comment code	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URDUABLC	Urinary Arsenobetaine comment code	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URDUACLC	Urinary Arsenocholine comment code	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URDUDALC	Urinary Dimethylarsinic acid comment code	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URDUMMAL	Urinary Monomethylacrsonic acid comment code	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URXUAB	Urinary Arsenobetaine (ug/L)	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URXUAC	Urinary Arsenocholine (ug/L)	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URXUAS3	Urinary Arsenous acid (ug/L)	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URXUAS5	Urinary Arsenic acid (ug/L)	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URXUCR	Urinary creatinine (mg/dL)	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URXUDMA	Urinary Dimethylarsinic acid (ug/L)	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+URXUMMA	Urinary Monomethylacrsonic acid (ug/L)	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+WTFSM	Two year smoking weights	UASS_H	Arsenics - Speciated - Urine - Special Sample	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	UTAS_H	Arsenic - Total - Urine	2013	2014	Laboratory	None
+URXUAS	"Urinary arsenic, total (ug/L)"	UTAS_H	Arsenic - Total - Urine	2013	2014	Laboratory	None
+URXUCR	Urinary creatinine	UTAS_H	Arsenic - Total - Urine	2013	2014	Laboratory	None
+WTSA2YR	Subsample A Weights	UTAS_H	Arsenic - Total - Urine	2013	2014	Laboratory	None
+LBDB12	Vitamin B12(pg/mL)	VITB12_H	Vitamin B12	2013	2014	Laboratory	None
+LBDB12SI	Vitamin B12 (pmol/L)	VITB12_H	Vitamin B12	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	VITB12_H	Vitamin B12	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	CHLMDA_H	Chlamydia - Urine	2013	2014	Laboratory	None
+URXUCL	"Chlamydia, urine"	CHLMDA_H	Chlamydia - Urine	2013	2014	Laboratory	None
+SEQN	Respondent sequence number	CHLM_H_R	Chlamydia - Urine - Youth	2013	2014	Laboratory	RDC Only
+URXUCL	Urinary Chlamydia	CHLM_H_R	Chlamydia - Urine - Youth	2013	2014	Laboratory	RDC Only
+LBXHE2	Herpes Simplex Virus Type 2	HSV_H_R	Herpes Simplex Virus Type-2 - Youth	2013	2014	Laboratory	RDC Only
+SEQN	Respondent sequence number	HSV_H_R	Herpes Simplex Virus Type-2 - Youth	2013	2014	Laboratory	RDC Only
+SEQN	Respondent sequence number.	TRIC_H_R	Trichomonas - Urine -Youth	2013	2014	Laboratory	RDC Only
+URXUTRI	"Trichomonas, urine"	TRIC_H_R	Trichomonas - Urine -Youth	2013	2014	Laboratory	RDC Only
+ORXGH	HPV High Globulin Band result	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXGL	HPV Low Globulin Band result	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH06	HPV Type 6	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH11	HPV Type 11	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH16	HPV Type 16	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH18	HPV Type 18	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH26	HPV Type 26	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH31	HPV Type 31	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH33	HPV Type 33	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH35	HPV Type 35	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH39	HPV Type 39	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH40	HPV Type 40	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH42	HPV Type 42	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH45	HPV Type 45	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH51	HPV Type 51	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH52	HPV Type 52	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH53	HPV Type 53	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH54	HPV Type 54	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH55	HPV Type 55	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH56	HPV Type 56	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH58	HPV Type 58	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH59	HPV Type 59	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH61	HPV Type 61	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH62	HPV Type 62	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH64	HPV Type 64	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH66	HPV Type 66	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH67	HPV Type 67	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH68	HPV Type 68	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH69	HPV Type 69	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH70	HPV Type 70	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH71	HPV Type 71	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH72	HPV Type 72	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH73	HPV Type 73	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH81	HPV Type 81	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH82	HPV Type 82	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH83	HPV Type 83	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXH84	HPV Type 84	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXHPC	HPV CP 6108	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXHPI	HPV Type IS39	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+ORXHPV	Oral HPV Result	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+SEQN	Respondent sequence number.	OHPV_H_R	Human Papillomavirus (HPV) - Oral Rinse - Youth	2013	2014	Laboratory	RDC Only
+SEQN	Respondent sequence number.	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URDUA3LC	Urinary Arsenous acid comment code	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URDUA5LC	Urinary Arsenic acid comment code	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URDUABLC	Urinary Arsenobetaine comment code	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URDUACLC	Urinary Arsenocholine comment code	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URDUDALC	Urinary Dimethylarsinic acid comment code	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URDUMMAL	Urinary Monomethylacrsonic acid comment code	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URXUAB	Urinary Arsenobetaine (ug/L)	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URXUAC	Urinary Arsenocholine (ug/L)	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URXUAS3	Urinary Arsenous acid (ug/L)	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URXUAS5	Urinary Arsenic acid (ug/L)	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URXUCR	"Creatinine, urine (mg/dL)"	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URXUDMA	Urinary Dimethylarsinic acid (ug/L)	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+URXUMMA	Urinary Monomethylacrsonic acid (ug/L)	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+WTSA2YR	Subsample A weights	UAS_H	Arsenics - Speciated - Urine	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	UTASS_H	Arsenic - Total - Urine - Special Sample	2013	2014	Laboratory	None
+URXUAS	"Urinary arsenic, total (ug/L)"	UTASS_H	Arsenic - Total - Urine - Special Sample	2013	2014	Laboratory	None
+URXUCR	Urinary creatinine	UTASS_H	Arsenic - Total - Urine - Special Sample	2013	2014	Laboratory	None
+WTFSM	Smoking weights	UTASS_H	Arsenic - Total - Urine - Special Sample	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUBALC	Urinary Barium comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUCDLC	Urinary Cadmium comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUCOLC	Urinary Cobalt (ug/L) comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUCSLC	Urinary Cesium comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUMNLC	Urinary Mn comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUMOLC	Urinary Molybdenum comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUPBLC	Urinary Lead comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUSBLC	Urinary Antimony comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUSNLC	USN comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUSRLC	USR comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUTLLC	Urinary Thallium comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUTULC	Urinary Tungsten comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URDUURLC	Urinary Uranium comment code	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUBA	"Barium, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUCD	"Cadmium, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUCO	"Cobalt, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUCR	"Creatinine, urine (mg/dL)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUCS	"Cesium, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUMN	"Manganese, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUMO	"Molybdenum, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUPB	"Lead, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUSB	"Antimony, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUSN	"Tin, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUSR	"Strontium, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUTL	"Thallium, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUTU	"Tungsten, urine (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+URXUUR	"Uranium, urinary (ug/L)"	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+WTFSM	Two year smoking weights	UMS_H	Metals - Urine - Special Sample	2013	2014	Laboratory	None
+PHAALCHR	"The time (in hours) the examinee last drank alcohol such as beer, wine, or liquor."	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHAALCMN	"The time (in minutes) the examinee last drank alcohol such as beer, wine, or liquor."	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHAANTHR	"The time (in hours) the examinee last had antacids, laxatives or anti-diarrheals."	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHAANTMN	"The time (in minutes) the examinee last had antacids, laxatives or anti-diarrheals."	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHACOFHR	The time (in hours) since the examinee last drank coffee or tea with cream or sugar.	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHACOFMN	The time (in minutes) since the examinee last drank coffee or tea with cream or sugar.	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHAFSTHR	The time (in hours) between when the examinee last ate or drank anything other than water and the time of the venipuncture.	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHAFSTMN	The time (in minutes) between when the examinee last ate or drank anything other than water and the time of the venipuncture.	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHAGUMHR	"The time (in hours) the examinee last had gum, breath mints, lozenges or cough drops, or other cough or cold remedies."	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHAGUMMN	"The time (in minutes) the examinee last had gum, breath mints, lozenges or cough drops, or other cough or cold remedies."	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHASUPHR	The time (in hours) the examinee last had dietary supplements such as vitamins and minerals.	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHASUPMN	The time (in minutes) the examinee last had dietary supplements such as vitamins and minerals.	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHDSESN	Session in which SP was examined	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHQ020	Coffee or tea with cream or sugar?  [Include milk or non-dairy creamers.]	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHQ030	"Alcohol, such as beer, wine, or liquor?"	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHQ040	"Gum, breath mints, lozenges or cough drops, or other cough or cold remedies?"	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHQ050	"Antacids, laxatives, or anti-diarrheals?"	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+PHQ060	Dietary supplements such as vitamins and minerals? [Include multivitamins and single nutrient supplements.]	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	FASTQX_H	Fasting Questionnaire	2013	2014	Laboratory	None
+LBDINSI	Insulin (pmol/L)	INS_H	Insulin	2013	2014	Laboratory	None
+LBXIN	Insulin (uU/mL)	INS_H	Insulin	2013	2014	Laboratory	None
+PHAFSTHR	"Total length of 'food fast', hours"	INS_H	Insulin	2013	2014	Laboratory	None
+PHAFSTMN	"Total length of 'food fast', minutes"	INS_H	Insulin	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	INS_H	Insulin	2013	2014	Laboratory	None
+WTSAF2YR	Fasting Subsample MEC Weight	INS_H	Insulin	2013	2014	Laboratory	None
+LBDR06	HPV type 6	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR11	HPV type 11	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR16	HPV type 16	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR18	HPV type 18	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR26	HPV type 26	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR31	HPV type 31	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR33	HPV type 33	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR35	HPV type 35	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR39	HPV type 39	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR40	HPV type 40	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR42	HPV type 42	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR45	HPV type 45	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR51	HPV type 51	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR52	HPV type 51	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR53	HPV type 53	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR54	HPV type 54	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR55	HPV type 55	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR56	HPV type 56	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR58	HPV type 58	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR59	HPV type 59	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR61	HPV type 61	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR62	HPV type 62	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR64	HPV type 64	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR66	HPV type 66	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR67	HPV type 67	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR68	HPV type 68	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR69	HPV type 69	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR70	HPV type 70	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR71	HPV type 71	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR72	HPV type 72	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR73	HPV type 73	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR81	HPV type 81	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR82	HPV type 82	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR83	HPV type 83	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR84	HPV type 84	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDR89	HPV type 89	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDRHP	Roche LA high positive globin control	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDRLP	Roche LA low positive globin control	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDRPCR	Roche HPV linear array (LA) summary result	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+LBDRPI	HPV type IS39	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	HPVP_H	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	PERNTS_H	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	2013	2014	Laboratory	None
+URDNO3LC	Urinary nitrate comment code	PERNTS_H	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	2013	2014	Laboratory	None
+URDSCNLC	Urinary thiocyanate comment code	PERNTS_H	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	2013	2014	Laboratory	None
+URDUP8LC	Urinary Perchlorate comment code	PERNTS_H	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	2013	2014	Laboratory	None
+URXNO3	Urinary nitrate (ng/mL)	PERNTS_H	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	2013	2014	Laboratory	None
+URXSCN	Urinary thiocyanate (ng/mL)	PERNTS_H	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	2013	2014	Laboratory	None
+URXUCR	Urinary creatinine (mg/dL)	PERNTS_H	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	2013	2014	Laboratory	None
+URXUP8	Urinary perchlorate (ng/mL)	PERNTS_H	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	2013	2014	Laboratory	None
+WTFSM	Two year smoking weights	PERNTS_H	"Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample"	2013	2014	Laboratory	None
+LBDR06	HPV type 6	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR11	HPV type 11	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR16	HPV type 16	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR18	HPV type 18	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR26	HPV type 26	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR31	HPV type 31	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR33	HPV type 33	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR35	HPV type 35	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR39	HPV type 39	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR40	HPV type 40	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR42	HPV type 42	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR45	HPV type 45	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR51	HPV type 51	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR52	HPV type 51	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR53	HPV type 53	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR54	HPV type 54	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR55	HPV type 55	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR56	HPV type 56	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR58	HPV type 58	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR59	HPV type 59	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR61	HPV type 61	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR62	HPV type 62	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR64	HPV type 64	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR66	HPV type 66	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR67	HPV type 67	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR68	HPV type 68	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR69	HPV type 69	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR70	HPV type 70	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR71	HPV type 71	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR72	HPV type 72	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR73	HPV type 73	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR81	HPV type 81	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR82	HPV type 82	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR83	HPV type 83	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR84	HPV type 84	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDR89	HPV type 89	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDRHP	Roche LA high positive globin control	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDRLP	Roche LA low positive globin control	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDRPCR	Roche HPV linear array (LA) summary result	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBDRPI	HPV type IS39	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+LBXHP2C	Cobas HPV Swab High Risk	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	HPVSWR_H	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	None
+SDBPFOAL	Br. iso perfluorooctanoate Comment Code	SSPFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)	2013	2014	Laboratory	None
+SDMPFOSL	Monomethyl br. iso of PFOS Comment Code	SSPFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)	2013	2014	Laboratory	None
+SDNPFOAL	Linear perfluorooctanoate Comment Code	SSPFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)	2013	2014	Laboratory	None
+SDNPFOSL	Lin. perfluorooctane sulfonate Cmt. Code	SSPFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	SSPFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)	2013	2014	Laboratory	None
+SSBPFOA	Br. iso of perfluorooctanoate (ug/L)	SSPFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)	2013	2014	Laboratory	None
+SSMPFOS	Monomethyl branched iso of PFOS (ug/L)	SSPFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)	2013	2014	Laboratory	None
+SSNPFOA	Linear perfluorooctanoate (ug/L)	SSPFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)	2013	2014	Laboratory	None
+SSNPFOS	Linear perfluorooctane sulfonate (ug/L)	SSPFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)	2013	2014	Laboratory	None
+WTSB2YR	Subsample B Weights	SSPFAS_H	Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)	2013	2014	Laboratory	None
+LBDR06	HPV type 6	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR11	HPV type 11	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR16	HPV type 16	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR18	HPV type 18	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR26	HPV type 26	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR31	HPV type 31	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR33	HPV type 33	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR35	HPV type 35	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR39	HPV type 39	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR40	HPV type 40	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR42	HPV type 42	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR45	HPV type 45	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR51	HPV type 51	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR52	HPV type 51	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR53	HPV type 53	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR54	HPV type 54	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR55	HPV type 55	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR56	HPV type 56	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR58	HPV type 58	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR59	HPV type 59	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR61	HPV type 61	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR62	HPV type 62	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR64	HPV type 64	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR66	HPV type 66	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR67	HPV type 67	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR68	HPV type 68	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR69	HPV type 69	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR70	HPV type 70	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR71	HPV type 71	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR72	HPV type 72	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR73	HPV type 73	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR81	HPV type 81	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR82	HPV type 82	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR83	HPV type 83	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR84	HPV type 84	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDR89	HPV type 89	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDRHP	Roche LA high positive globin control	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDRLP	Roche LA low positive globin control	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDRPCR	Roche HPV linear array (LA) summary result	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+LBDRPI	HPV type IS39	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+SEQN	Respondent sequence number.	HPVP_H_R	Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)	2013	2014	Laboratory	RDC Only
+SEQN	Respondent sequence number.	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URD14DLC	"2,5-dichlorophenol comment"	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URDBP3LC	Urinary 2-Hydroxy-4-metoxybenzophenone (Benzophenone-3) comment code	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URDBPFLC	"Urinary 4,4' dihydroxydiphenylmethane comment code"	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URDBPHLC	Urinary Bisphenol A comment	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URDBPSLC	"Urinary 4,4' sulfonyldiphenol comment code"	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URDBUPLC	Butyl paraben comment	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URDDCBLC	"2,4-dichlorophenol comment"	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URDEPBLC	Ethyl paraben comment	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URDMPBLC	Methyl paraben comment	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URDPPBLC	Propyl paraben comment	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URDTLCLC	Urinary Triclocarban comment	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URDTRSLC	"Urinary  2,4,4'-Trichloro-2'-hydroxyphenyl ether (Triclosan) comment code"	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URX14D	"2,5-dichlorophenol (ug/L)"	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXBP3	Urinary 2-Hydroxy-4-metoxybenzophenone (Benzophenone-3)	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXBPF	"Urinary 4,4' dihydroxydiphenylmethane"	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXBPH	Urinary Bisphenol A (ng/mL)	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXBPS	"Urinary 4,4'sulfonyldiphenol"	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXBUP	Butyl paraben (ng/ml)	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXDCB	"2,4-dichlorophenol (ug/L)"	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXEPB	Ethyl paraben (ng/ml)	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXMPB	Methyl paraben (ng/ml)	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXPPB	Propyl paraben (ng/ml)	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXTLC	Urinary Triclocarban (ng/mL)	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXTRS	"Urinary  2,4,4'-Trichloro-2'-hydroxyphenyl ether (Triclosan)"	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+URXUCR	Urinary creatinine	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+WTSB2YR	Subsample B weights	EPHPP_H	Personal Care and Consumer Product Chemicals and Metabolites	2013	2014	Laboratory	None
+LBDCOTLC	"Cotinine, Serum Comment Code"	COT_H	Cotinine and Hydroxycotinine - Serum	2013	2014	Laboratory	None
+LBDHCTLC	"Hydroxycotinine, Serum Comment Code"	COT_H	Cotinine and Hydroxycotinine - Serum	2013	2014	Laboratory	None
+LBXCOT	"Cotinine, Serum (ng/mL)"	COT_H	Cotinine and Hydroxycotinine - Serum	2013	2014	Laboratory	None
+LBXHCT	"Hydroxycotinine, Serum (ng/mL)"	COT_H	Cotinine and Hydroxycotinine - Serum	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	COT_H	Cotinine and Hydroxycotinine - Serum	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	SSTOXO_H	Toxoplasma gondii Antibody - Serum (Surplus)	2013	2014	Laboratory	None
+SSTOXAV	Toxoplasmosis IgG Avidity (IU/ml)	SSTOXO_H	Toxoplasma gondii Antibody - Serum (Surplus)	2013	2014	Laboratory	None
+SSTOXG	Toxoplasmosis IgG antibodies (IU/ml)	SSTOXO_H	Toxoplasma gondii Antibody - Serum (Surplus)	2013	2014	Laboratory	None
+SSTOXM	Toxoplasmosis IgM antibodies	SSTOXO_H	Toxoplasma gondii Antibody - Serum (Surplus)	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	SSTOCA_H	Antibody to Toxocara spp. (Surplus)	2013	2014	Laboratory	None
+SSTCAMFI	Toxocara mean florescent intensity	SSTOCA_H	Antibody to Toxocara spp. (Surplus)	2013	2014	Laboratory	None
+SSTCAR	Toxocara antibody result	SSTOCA_H	Antibody to Toxocara spp. (Surplus)	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDCNPLC	Mono(carboxynonyl) phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDCOPLC	Mono(carboxyoctyl) phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDECPLC	Mono-2-ethyl-5-carboxypentyl phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDMBPLC	Mono-n-butyl phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDMC1LC	Mono-(3-carboxypropyl) phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDMCHLC	"Cyclohexane 1,2-dicarboxylic acid monohydroxy isononyl ester comment code"	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDMEPLC	Mono-ethyl phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDMHHLC	Mono-(2-ethyl-5-hydroxyhexyl) phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDMHPLC	Mono-(2-ethyl)-hexyl phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDMIBLC	Mono-isobutyl phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDMNPLC	Mono-isononyl phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDMOHLC	Mono-(2-ethyl-5-oxohexyl) phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URDMZPLC	Mono-benzyl phthalate comment code	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXCNP	Mono(carboxynonyl) Phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXCOP	Mono(carboxyoctyl) Phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXECP	Mono-2-ethyl-5-carboxypentyl phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXMBP	Mono-n-butyl phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXMC1	Mono-(3-carboxypropyl) phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXMEP	Mono-ethyl phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXMHH	Mono-(2-ethyl-5-hydroxyhexyl) phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXMHNC	"Cyclohexane 1,2-dicarboxylic acid monohydroxy isononyl ester  (ng/mL)"	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXMHP	Mono-(2-ethyl)-hexyl phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXMIB	Mono-isobutyl phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXMNP	Mono-isononyl phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXMOH	Mono-(2-ethyl-5-oxohexyl) phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXMZP	Mono-benzyl phthalate (ng/mL)	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+URXUCR	"Creatinine, urine (mg/dL)"	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+WTSB2YR	Environmental B 2-year weights	PHTHTE_H	Phthalates and Plasticizers Metabolites - Urine	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	ALB_CR_H	Albumin & Creatinine - Urine	2013	2014	Laboratory	None
+URDACT	Albumin creatinine ratio (mg/g)	ALB_CR_H	Albumin & Creatinine - Urine	2013	2014	Laboratory	None
+URXCRS	"Creatinine, urine (umol/L)"	ALB_CR_H	Albumin & Creatinine - Urine	2013	2014	Laboratory	None
+URXUCR	"Creatinine, urine (mg/dL)"	ALB_CR_H	Albumin & Creatinine - Urine	2013	2014	Laboratory	None
+URXUMA	"Albumin, urine (ug/mL)"	ALB_CR_H	Albumin & Creatinine - Urine	2013	2014	Laboratory	None
+URXUMS	"Albumin, urine (mg/L)"	ALB_CR_H	Albumin & Creatinine - Urine	2013	2014	Laboratory	None
+LBD2DFLC	"Blood 2,5-Dimethylfuran Comment Code"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBD4CELC	"Blood 1,1,1,2-Tetrachloroethane Comment Code"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDV06LC	Blood Hexane Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDV07LC	Blood Heptane Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDV08LC	Blood Octane Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDV1DLC	"Blood 1,2-Dichlorobenzene Comment Code"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDV2ALC	"Blood 1,2-Dichloroethane Comment Code"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDV3BLC	"Blood 1,3-Dichlorobenzene Comment Code"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDV4CLC	Blood Tetrachloroethene Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVBFLC	Blood Bromoform Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVBMLC	Blood Bromodichloromethane Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVBZLC	Blood Benzene Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVC6LC	Blood Cyclohexane Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVCBLC	Blood Chlorobenzene Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVCFLC	Blood Chloroform Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVCMLC	Blood Dibromochloromethane Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVCTLC	Blood Carbon Tetrachloride Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVDBLC	"Blood 1,4-Dichlorobenzene Comment Code"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVDELC	"Blood 1,2-Dibromoethane Comment Code"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVDXLC	"Blood 1,4-Dioxane Comment Code"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVEALC	Blood Ethyl Acetate Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVEBLC	Blood Ethylbenzene Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVECLC	Blood Chloroethane Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVEELC	Blood Diethyl Ether Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVFNLC	Blood Furan Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVFTLC	Blood aaa-Trifluorotoluene Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVHTLC	Blood Tetrahydrofuran Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVIPLC	Blood Isopropylbenzene Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVMCLC	Blood Methylene Chloride Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVMELC	Blood Methyl-tert-butyl ether (MTBE) Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVMPLC	Blood Methylcyclopentane Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVNBLC	Blood Nitrobenzene Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVOXLC	Blood o-Xylene Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVTCLC	Blood Trichloroethene Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVTELC	"Blood 1,1,1-Trichloroethane Comment Code"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVTOLC	Blood Toluene Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVTPLC	"Blood 1,2,3-Trichloropropane Comment Code"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVVBLC	Blood Vinyl Bromide Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBDVXYLC	Blood m-/p-Xylene Comment Code	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBX2DF	"Blood 2,5-Dimethylfuran (ng/mL)"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBX4CE	"Blood 1,1,1,2-Tetrachloroethane (ng/mL)"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXV06	Blood Hexane (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXV07N	Blood Heptane (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXV08N	Blood Octane (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXV1D	"Blood 1,2-Dichlorobenzene (ng/mL)"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXV2A	"Blood 1,2-Dichloroethane (ng/mL)"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXV3B	"Blood 1,3-Dichlorobenzene (ng/mL)"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXV4C	Blood Tetrachloroethene (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVBF	Blood Bromoform (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVBM	Blood Bromodichloromethane (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVBZ	Blood Benzene (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVC6	Blood Cyclohexane (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVCB	Blood Chlorobenzene (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVCF	Blood Chloroform (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVCM	Blood Dibromochloromethane (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVCT	Blood Carbon Tetrachloride (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVDB	"Blood 1,4-Dichlorobenzene (ng/mL)"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVDE	"Blood 1,2-Dibromoethane (ng/mL)"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVDEE	Blood Diethyl Ether (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVDX	"Blood 1,4-Dioxane (ng/mL)"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVEA	Blood Ethyl Acetate (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVEB	Blood Ethylbenzene (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVEC	Blood Chloroethane (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVFN	Blood Furan (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVIPB	Blood Isopropylbenzene (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVMC	Blood Methylene Chloride (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVMCP	Blood Methylcyclopentane (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVME	Blood Methyl-tert-butyl ether (MTBE) (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVNB	Blood Nitrobenzene (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVOX	Blood o-Xylene (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVTC	Blood Trichloroethene (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVTE	"Blood 1,1,1-Trichloroethane (ng/mL)"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVTFT	Blood aaa-Trifluorotoluene (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVTHF	Blood Tetrahydrofuran (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVTO	Blood Toluene (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVTP	"Blood 1,2,3-Trichloropropane (ng/mL)"	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVVB	Blood Vinyl Bromide (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+LBXVXY	Blood m-/p-Xylene (ng/mL)	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+WTSVOC2Y	VOC Subsample Weight	VOCWB_H	Volatile Organic Compounds and Trihalomethanes/MTBE - Blood	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URDP01LC	1-Hydroxynaphthalene Comment Code	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URDP02LC	2-Hydroxynaphthalene Comment Code	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URDP03LC	3-Hydroxyfluorene Comment Code	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URDP04LC	2-Hydroxyfluorene Comment Code	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URDP06LC	1-Hydroxyphenanthrene Comment Code	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URDP10LC	1-Hydroxypyrene Comment Code	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URDP25LC	2-Hydroxyphenanthrene (ng/L) & 3-Hydroxyphenanthrene Comment Code	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URXP01	1-Hydroxynaphthalene (ng/L)	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URXP02	2-Hydroxynaphthalene (ng/L)	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URXP03	3-Hydroxyfluorene (ng/L)	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URXP04	2-Hydroxyfluorene (ng/L)	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URXP06	1-Hydroxyphenanthrene (ng/L)	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URXP10	1-Hydroxypyrene (ng/L)	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URXP25	2-Hydroxyphenanthrene (ng/L) & 3-Hydroxyphenanthrene (ng/L)	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+URXUCR	Urinary Creatinine	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+WTSA2YR	Subsample A weights	PAH_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	DEET_H	DEET and Metabolites	2013	2014	Laboratory	None
+URDDEALC	DEET acid comment code	DEET_H	DEET and Metabolites	2013	2014	Laboratory	None
+URDDEELC	DEET comment code	DEET_H	DEET and Metabolites	2013	2014	Laboratory	None
+URDDHDLC	Desethyl hydroxy DEET Comment Code	DEET_H	DEET and Metabolites	2013	2014	Laboratory	None
+URXDEA	3-(Ethlycarbamoyl) benzoic acid (ug/L)	DEET_H	DEET and Metabolites	2013	2014	Laboratory	None
+URXDEE	"N, N-Diethy-meta-toluamide (DEET) (ug/L)"	DEET_H	DEET and Metabolites	2013	2014	Laboratory	None
+URXDHD	"N, N-Diethyl-3-(hydroxymethyl) benzamide (DHMB) (ug/L)"	DEET_H	DEET and Metabolites	2013	2014	Laboratory	None
+URXUCR	"Creatinine, urine (mg/dL)"	DEET_H	DEET and Metabolites	2013	2014	Laboratory	None
+WTSC2YR	Environmental Subsample C Weights	DEET_H	DEET and Metabolites	2013	2014	Laboratory	None
+SDUHIBPL	Mono-2-hydroxy-iso-butyl phthalate comment code	SSPHTE_H	Phthalates and Plasticizers Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SDUMHBPL	Mono-3-hydroxy-n-butyl phthalate comment code	SSPHTE_H	Phthalates and Plasticizers Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	SSPHTE_H	Phthalates and Plasticizers Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSURHIBP	Mono-2-hydroxy-iso-butyl phthalate (ng/mL)	SSPHTE_H	Phthalates and Plasticizers Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSURMHBP	Mono-3-hydroxy-n-butyl phthalate (ng/mL)	SSPHTE_H	Phthalates and Plasticizers Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+URXUCR	"Creatinine, urine (mg/dL)"	SSPHTE_H	Phthalates and Plasticizers Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+WTSB2YR	Environmental B 2-year weights	SSPHTE_H	Phthalates and Plasticizers Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+LBD2DFLC	"Blood 2,5-Dimethylfuran Comment Code"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBD4CELC	"Blood 1,1,1,2-Tetrachloroethane Comment Code"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDV06LC	Blood Hexane Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDV07LC	Blood Heptane Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDV08LC	Blood Octane Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDV1DLC	"Blood 1,2-Dichlorobenzene Comment Code"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDV2ALC	"Blood 1,2-Dichloroethane Comment Code"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDV3BLC	"Blood 1,3-Dichlorobenzene Comment Code"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDV4CLC	Blood Tetrachloroethene Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVBFLC	Blood Bromoform Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVBMLC	Blood Bromodichloromethane Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVBZLC	Blood Benzene Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVC6LC	Blood Cyclohexane Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVCBLC	Blood Chlorobenzene Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVCFLC	Blood Chloroform Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVCMLC	Blood Dibromochloromethane Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVCTLC	Blood Carbon Tetrachloride Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVDBLC	"Blood 1,4-Dichlorobenzene Comment Code"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVDELC	"Blood 1,2-Dibromoethane Comment Code"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVDXLC	"Blood 1,4-Dioxane Comment Code"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVEALC	Blood Ethyl Acetate Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVEBLC	Blood Ethylbenzene Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVECLC	Blood Chloroethane Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVEELC	Blood Diethyl Ether Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVFNLC	Blood Furan Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVFTLC	Blood aaa -Trifluorotoluene Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVHTLC	Blood Tetrahydrofuran Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVIPLC	Blood Isopropylbenzene Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVMCLC	Blood Methylene Chloride Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVMELC	Blood Methyl-tert-butyl ether (MTBE) Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVMPLC	Blood Methylcyclopentane Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVNBLC	Blood Nitrobenzene Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVOXLC	Blood o-Xylene Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVTCLC	Blood Trichloroethene Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVTELC	"Blood 1,1,1-Trichloroethane Comment Code"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVTOLC	Blood Toluene Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVTPLC	"Blood 1,2,3-Trichloropropane Comment Code"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVVBLC	Blood Vinyl Bromide Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBDVXYLC	Blood m-/p-Xylene Comment Code	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBX2DF	"Blood 2,5-Dimethylfuran (ng/mL)"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBX4CE	"Blood 1,1,1,2-Tetrachloroethane (ng/mL)"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXV06	Blood Hexane (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXV07N	Blood Heptane (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXV08N	Blood Octane (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXV1D	"Blood 1,2-Dichlorobenzene (ng/mL)"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXV2A	"Blood 1,2-Dichloroethane (ng/mL)"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXV3B	"Blood 1,3-Dichlorobenzene (ng/mL)"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXV4C	Blood Tetrachloroethene (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVBF	Blood Bromoform (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVBM	Blood Bromodichloromethane (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVBZ	Blood Benzene (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVC6	Blood Cyclohexane (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVCB	Blood Chlorobenzene (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVCF	Blood Chloroform (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVCM	Blood Dibromochloromethane (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVCT	Blood Carbon Tetrachloride (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVDB	"Blood 1,4-Dichlorobenzene (ng/mL)"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVDE	"Blood 1,2-Dibromoethane (ng/mL)"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVDEE	Blood Diethyl Ether (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVDX	"Blood 1,4-Dioxane (ng/mL)"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVEA	Blood Ethyl Acetate (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVEB	Blood Ethylbenzene (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVEC	Blood Chloroethane (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVFN	Blood Furan (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVIPB	Blood Isopropylbenzene (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVMC	Blood Methylene Chloride (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVMCP	Blood Methylcyclopentane (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVME	Blood Methyl-tert-butyl ether (MTBE) (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVNB	Blood Nitrobenzene (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVOX	Blood o-Xylene (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVTC	Blood Trichloroethene (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVTE	"Blood 1,1,1-Trichloroethane (ng/mL)"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVTFT	Blood aaa - Trifluorotoluene (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVTHF	Blood Tetrahydrofuran (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVTO	Blood Toluene (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVTP	"Blood 1,2,3-Trichloropropane (ng/mL)"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVVB	Blood Vinyl Bromide (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+LBXVXY	Blood m-/p-Xylene (ng/mL)	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ200A	Do you currently store paints or fuels inside your home? Include your basement and attached garage.	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ210	Does your home have an attached garage?	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ220	Is the source of water for your home from a private well?	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ231A	"Do you currently use moth balls, moth crystals or toilet bowl deodorizers inside your home?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ241A	"In the last 48 hours, did you cook or bake with natural gas?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ241B	"How long ago, in hours, did you cook or bake with natural gas?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ244A	"In the last 48 hours, did you pump gas into a car or other motor vehicle yourself?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ244B	"How long ago, in hours, did you pump gas into a car or other motor vehicle yourself?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ265A	"In the last 48 hours, did you smoke or spend 10 minutes near a person who was smoking a cigarette, cigar, or pipe?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ265B	"How long ago, in hours, has it been since you smoked or spent 10 or more minutes near a person who was smoking a cigarette, cigar, or pipe?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ271A	"In the last 48 hours, did you take a hot shower or bath for five minutes or longer?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ271B	"How long ago, in hours, has it been since your last shower or hot bath?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ281A	"In the last 48 hours, did you breathe fumes from freshly painted indoor surfaces, paints, paint thinner, or varnish?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ281B	"How long ago, in hours, has it been since you breathed fumes from freshly painted indoor surfaces, paints, paint thinner, or varnish?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ281C	"In the last 48 hours, did you breathe fumes from diesel fuel or kerosene?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ281D	"How long ago, in hours, has it been since you breathed fumes from diesel fuel or kerosene?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ281E	"In the last 48 hours, did you breathe fumes from fingernail polish?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+VTQ281F	"How long ago, in hours, has it been since you breathed fumes from fingernail polish?"	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+WTSVS2YR	Two year smoking weights	VOCWBS_H	Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URDP01LC	1-Hydroxynaphthalene Comment Code	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URDP02LC	2-Hydroxynaphthalene Comment Code	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URDP03LC	3-Hydroxyfluorene Comment Code	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URDP04LC	2-Hydroxyfluorene Comment Code	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URDP06LC	1-Hydroxyphenanthrene Comment Code	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URDP10LC	1-Hydroxypyrene Comment Code	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URDP25LC	2-Hydroxyphenanthrene (ng/L) & 3-Hydroxyphenanthrene Comment Code	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URXP01	1-Hydroxynaphthalene (ng/L)	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URXP02	2-Hydroxynaphthalene (ng/L)	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URXP03	3-Hydroxyfluorene (ng/L)	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URXP04	2-Hydroxyfluorene (ng/L)	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URXP06	1-Hydroxyphenanthrene (ng/L)	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URXP10	1-Hydroxypyrene (ng/L)	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URXP25	2-Hydroxyphenanthrene (ng/L) & 3-Hydroxyphenanthrene (ng/L)	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+URXUCR	Urinary Creatinine	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+WTFSM	Two Year Smoking Weights	PAHS_H	Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample	2013	2014	Laboratory	None
+LBDR06	HPV type 6	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR11	HPV type 11	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR16	HPV type 16	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR18	HPV type 18	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR26	HPV type 26	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR31	HPV type 31	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR33	HPV type 33	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR35	HPV type 35	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR39	HPV type 39	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR40	HPV type 40	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR42	HPV type 42	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR45	HPV type 45	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR51	HPV type 51	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR52	HPV type 51	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR53	HPV type 53	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR54	HPV type 54	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR55	HPV type 55	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR56	HPV type 56	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR58	HPV type 58	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR59	HPV type 59	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR61	HPV type 61	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR62	HPV type 62	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR64	HPV type 64	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR66	HPV type 66	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR67	HPV type 67	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR68	HPV type 68	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR69	HPV type 69	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR70	HPV type 70	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR71	HPV type 71	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR72	HPV type 72	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR73	HPV type 73	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR81	HPV type 81	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR82	HPV type 82	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR83	HPV type 83	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR84	HPV type 84	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDR89	HPV type 89	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDRHP	Roche LA high positive globin control	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDRLP	Roche LA low positive globin control	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDRPCR	Roche HPV linear array (LA) summary result	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBDRPI	HPV type IS39	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+LBXHP2C	Cobas HPV Swab High Risk	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+SEQN	Respondent sequence number.	HPVS_H_R	Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array	2013	2014	Laboratory	RDC Only
+SEQN	Respondent sequence number.	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSBCEP	Bis(2-chloroethyl) phosphate (ug/L)	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSBCEPL	Bis(2-chloroethyl) phosphate comment code	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSBCPP	Bis(1-chloro-2-propyl) phosphate (ug/L)	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSBCPPL	Bis(1-chloro-2-propyl) phosphate comment code	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSBDCPP	"Bis(1,3-dichloro-2-propyl) phosphate (ug/L)"	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSBDCPPL	"Bis(1,3-dichloro-2-propyl) phosphate comment code"	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSDBUP	Dibutyl phosphate (ug/L)	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSDBUPL	Dibutyl phosphate comment code	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSDBZP	Dibenzyl phosphate (ug/L)	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSDBZPL	Dibenzyl phosphate comment code	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSDOCP	Di-o-cresyl phosphate (ug/L)	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSDOCPL	Di-o-cresyl phosphate comment code	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSDPCP	Di-p-cresyl phosphate (ug/L)	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSDPCPL	Di-p-cresyl phosphate comment code	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSDPHP	Diphenyl phosphate (ug/L)	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSDPHPL	Diphenyl phosphate comment code	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSTBBA	"2,3,4,5-tetrabromobenzoic acid (ug/L)"	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SSTBBAL	"2,3,4,5-tetrabromobenzoic acid comment code"	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+WTSC2YR	Environmental Subsample C Weights	SSFLRT_H	Flame Retardant Metabolites - Urine (Surplus)	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSBPFOA	Branch isomers-perfluorooctanoate (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSBPFOAL	Branch isomers-perfluorooctanoate Cmt cd	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSEPAH	2(N-ethyl-perfluor sulfon)ac.acid(ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSEPAHL	2(N ethyl-perfluor sulfon)ac.acid Cmt cd	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSMPAH	2(N-methyl-perfluor sulfon)acid (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSMPAHL	2(N-methyl-perfluor sulfon)ac.acid Cmt cd	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSMPFOS	Monomethyl br. isomers of PFOS (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSMPFOSL	Monomethyl br. isomers of PFOS cmt cd	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSNPFOA	Linear perfluorooctanoate (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSNPFOAL	Linear perfluorooctanoate Cmt Code	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSNPFOS	Linear perfluorooctane sulfonate( ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSNPFOSL	Linear perfluorooctane sulfonate cmt cd	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFBS	Perfluorobutane sulfonic acid (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFBSL	Perfluorobutane sulfonic acid Cmt code	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFDE	Pefluorodecanoic acid (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFDEL	Pefluorodecanoic acid (ng/mL) Cmt code	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFDO	Perflurododecanoic acid (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFDOL	Perflurododecanoic acid Cmt code	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFHP	Perfluoroheptanoic acid (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFHPL	Perfluoroheptanoic acid Cmt code	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFHS	Perfluorohexane sulfonic acid (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFHSL	Perfluorohexane sulfonic acid Cmt code	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFNA	Perfluorononanoic acid (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFNAL	Perfluorononanoic acid Cmt code	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFSA	Perfluorooctane sulfonamide (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFSAL	Perfluorooctane sulfonam Cmt code	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFUA	Perfluoroundecanoic acid (ng/mL)	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SSPFUAL	Perfluoroundecanoic acid Cmt cd	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+WTSS2YR	Surplus specimen 3-11 years old subsample weight	SSPFAC_H	Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URDAACLC	"2-Amino-9H-pyrido[2,3-b]indole (A-a-C) Comment Code"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URDGP1LC	"2-Amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole (Glu-P-1) Comment Code"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URDGP2LC	"2-Aminodipyrido[1,2-a:3',2'-d] imidazole (GLU-P-2) Comment Code"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URDHMLC	Harman (pg/mL) Comment Code	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URDIQLC	"2-Amino-3-methylimidazo[4,5-f]quinoline (IQ) (pg/mL)"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URDMACLC	"2-Amino-3-methyl-9H-pyriodo[2,3-b]indole (MeA-a-C) Comment Code"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URDNHMLC	Norharman (pg/mL) Comment Code	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URDPHPLC	"2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine  (PhlP) Comment Code"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URDTP1LC	"3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole (Trp-P-1) Comment Code"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URDTP2LC	"1-Methyl-3-amino-5H-pyrido[4,3-b]indole (Trp-P-2) Comment Code"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URXAAC	"2-Amino-9H-pyrido[2,3-b]indole (A-a-C) (pg/mL)"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URXGLP1	"2-Amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole (Glu-P-1) (pg/mL)"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URXGLP2	"2-Aminodipyrido[1,2-a:3',2'-d] imidazole (GLU-P-2) (pg/mL)"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URXHM	Harman (pg/mL)	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URXIQ	"2-amino-3-methyl-3H-imidazo[4,5-f]quinolone  (IQ) (pg/mL)"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URXMAAC	"2-Amino-3-methyl-9H-pyriodo[2,3-b]indole (MeA-a-C) (pg/mL)"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URXNHM	Norharman (pg/mL)	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URXPHIP	"2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine  (PhlP) (pg/mL)"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URXTRP1	"3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole (Trp-P-1) (pg/mL)"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+URXTRP2	"1-Methyl-3-amino-5H-pyrido[4,3-b]indole (Trp-P-2) (pg/mL)"	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+WTSA2YR	Subsample A Weights	HCAA_H	Heterocyclic Aromatic Amines - Urine	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URDAACLC	"2-Amino-9H-pyrido[2,3-b]indole (A-a-C) Comment Code"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URDGP1LC	"2-Amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole (Glu-P1) Comment Code"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URDGP2LC	"2-Aminodipyrido[1,2-a:3',2'-d] imidazole (GLU-P2) Comment Code"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URDHMLC	Harman (pg/mL) Comment Code	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URDIQLC	"2-Amino-3-methylimidazo[4,5-f]quinoline (IQ) (pg/mL)"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URDMACLC	"2-Amino-3-methyl-9H-pyriodo[2,3-b]indole (MeA-a-C) Comment Code"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URDNHMLC	Norharman (pg/mL) Comment Code	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URDPHPLC	"2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine  (PhIP) Comment Code"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URDTP1LC	"3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole (Trp-P-1) Comment Code"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URDTP2LC	"1-Methyl-3-amino-5H-pyrido[4,3-b]indole (Trp-P-2) Comment Code"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URXAAC	"2-Amino-9H-pyrido[2,3-b]indole (A-a-C) (pg/mL)"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URXGLP1	"2-Amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole (Glu-P1) (pg/mL)"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URXGLP2	"2-Aminodipyrido[1,2-a:3',2'-d] imidazole (GLU-P2) (pg/mL)"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URXHM	Harman (pg/mL)	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URXIQ	"2-amino-3-methyl-3H-imidazo[4,5-f]quinolone (IQ) (pg/mL)"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URXMAAC	"2-Amino-3-methyl-9H-pyriodo[2,3-b]indole (MeA-a-C) (pg/mL)"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URXNHM	Norharman (pg/mL)	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URXPHIP	"2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine  (PhIP) (pg/mL)"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URXTRP1	"3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole (Trp-P-1) (pg/mL)"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+URXTRP2	"1-Methyl-3-amino-5H-pyrido[4,3-b]indole (Trp-P-2) (pg/mL)"	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+WTFSM	Two-year smoking weights	HCAAS_H	Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample	2013	2014	Laboratory	None
+LBDHCI	Hepatitis C Antibody (confirmed)	SSHEPC_H	Hepatitis C: Confirmed Antibody (INNO-LIA)	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	SSHEPC_H	Hepatitis C: Confirmed Antibody (INNO-LIA)	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URD1DCLC	"N-acetyl-S-(1,2-dichlorovinyl)-L-cysteine comment code"	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URD2DCLC	"N-acetyl-S-(2,2-dichlorovinyl)-L-cysteine comment code"	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URD2MHLC	2-methylhippuric acid comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URD34MLC	3-methylhippuric acid & 4-methylhippuric acid comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDAAMLC	N-acetyl-S-(2-carbamoylethyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDAMCLC	N-acetyl-S-(N-methylcarbamoyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDATCLC	2-amnothiazolne-4-carbxylic acid comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDBMALC	N-acetyl-S-(benzyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDBPMLC	N-acetyl-S-(n-propyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDCEMLC	N-acetyl-S- (2-carboxyethyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDCYMLC	N-acetyl-S-(2-cyanoethyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDDHBLC	"N-acetyl-S- (3,4-dihidroxybutyl)-L-cysteine comment code"	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDDPMLC	N-acetyl-S-(dimethylphenyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDGAMLC	N-acetyl-S-(2-carbamoyl-2-hydroxyethyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDHEMLC	N-acetyl-S-(2-hydroxyethyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDHP2LC	N-acetyl-S- (2-hydroxypropyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDHPMLC	N-acetyl-S- (3-hydroxypropyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDMADLC	Mandelic acid comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDMB1LC	N-acetyl-S-(1-hydroxymethyl)-2-Propenyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDMB2LC	N-acetyl-S- (2-hydroxy-3-butenyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDMB3LC	N-acetyl-S- (4-hydroxy-2-butenyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDPHELC	N-acetyl-S-(phenyl-2-hydroxyethyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDPHGLC	Phenylglyoxylic acid comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDPMALC	N-acetyl-S-(phenyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDPMMLC	N-acetyl-S-(3-hydroxypropyl-1-methyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDTCVLC	N-acetyl-S-(trichlorovinyl)-L-cysteine comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDTTCLC	2-thioxothiazolidine-4-carboxylic acid comment code	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URX1DC	"N-acetyl-S-(1,2-dichlorovinyl)-L-cysteine (ng/mL)"	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URX2DC	"N-acetyl-S-(2,2-dichlorovinyl)-L-cysteine (ng/mL)"	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URX2MH	2-methylhippuric acid (ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URX34M	3-methylhippuric acid & 4-methylhippuric acid(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXAAM	N-acetyl-S-(2-carbamoylethyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXAMC	N-acetyl-S-(N-methylcarbamoyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXATC	2-aminothiazoline-4-carboxylic acid(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXBMA	N-acetyl-S-(benzyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXBPM	N-acetyl-S-(n-propyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXCEM	N-acetyl-S- (2-carboxyethyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXCYM	N-acetyl-S-(2-cyanoethyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXDHB	"N-acetyl-S- (3,4-dihidroxybutyl)-L-cysteine(ng/mL)"	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXDPM	N-acetyl-S-(dimethylphenyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXGAM	N-acetyl-S-(2-carbamoyl-2-hydroxyethyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXHEM	N-acetyl-S-(2-hydroxyethyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXHP2	N-acetyl-S- (2-hydroxypropyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXHPM	N-acetyl-S- (3-hydroxypropyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXMAD	Mandelic acid(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXMB1	N-acetyl-S-(1-hydroxyMethyl)-2-Propenyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXMB2	N-acetyl-S- (2-hydroxy-3-butenyl)-L-cysteine (ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXMB3	N-acetyl-S- (4-hydroxy-2-butenyl)-L-cysteine (ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXPHE	N-acetyl-S-(phenyl-2-hydroxyethyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXPHG	Phenylglyoxylic acid(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXPMA	N-acetyl-S-(phenyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXPMM	N-acetyl-S-(3-hydroxypropyl-1-methyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXTCV	N-acetyl-S-(trichlorovinyl)-L-cysteine(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXTTC	2-thioxothiazolidine-4-carboxylic acid(ng/mL)	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXUCR	"Creatinine, urine (mg/dL)"	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+WTSA2YR	Subsample A weights	UVOC_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URD1DCLC	"N-acetyl-S-(1,2-dichlorovinyl)-L-cysteine comment code"	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URD2DCLC	"N-acetyl-S-(2,2-dichlorovinyl)-L-cysteine comment code"	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URD2MHLC	2-methylhippuric acid comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URD34MLC	3-methylhippuric acid & 4-methylhippuric acid comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDAAMLC	N-acetyl-S-(2-carbamoylethyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDAMCLC	N-acetyl-S-(N-methylcarbamoyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDATCLC	2-amnothiazolne-4-carbxylic acid comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDBMALC	N-acetyl-S-(benzyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDBPMLC	N-acetyl-S-(n-propyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDCEMLC	N-acetyl-S- (2-carboxyethyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDCYMLC	N-acetyl-S-(2-cyanoethyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDDHBLC	"N-acetyl-S- (3,4-dihidroxybutyl)-L-cysteine comment code"	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDDPMLC	N-acetyl-S-(dimethylphenyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDGAMLC	N-acetyl-S-(2-carbamoyl-2-hydroxyethyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDHEMLC	N-acetyl-S-(2-hydroxyethyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDHP2LC	N-acetyl-S- (2-hydroxypropyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDHPMLC	N-acetyl-S- (3-hydroxypropyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDMADLC	Mandelic acid comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDMB1LC	N-acetyl-S-(1-hydroxymethyl)-2-Propenyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDMB2LC	N-acetyl-S- (2-hydroxy-3-butenyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDMB3LC	N-acetyl-S- (4-hydroxy-2-butenyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDPHELC	N-acetyl-S-(phenyl-2-hydroxyethyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDPHGLC	Phenylglyoxylic acid comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDPMALC	N-acetyl-S-(phenyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDPMMLC	N-acetyl-S-(3-hydroxypropyl-1-methyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDTCVLC	N-acetyl-S-(trichlorovinyl)-L-cysteine comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URDTTCLC	2-thioxothiazolidine-4-carboxylic acid comment code	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URX1DC	"N-acetyl-S-(1,2-dichlorovinyl)-L-cysteine (ng/mL)"	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URX2DC	"N-acetyl-S-(2,2-dichlorovinyl)-L-cysteine (ng/mL)"	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URX2MH	2-methylhippuric acid (ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URX34M	3-methylhippuric acid & 4-methylhippuric acid(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXAAM	N-acetyl-S-(2-carbamoylethyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXAMC	N-acetyl-S-(N-methylcarbamoyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXATC	2-aminothiazoline-4-carboxylic acid(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXBMA	N-acetyl-S-(benzyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXBPM	N-acetyl-S-(n-propyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXCEM	N-acetyl-S- (2-carboxyethyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXCYM	N-acetyl-S-(2-cyanoethyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXDHB	"N-acetyl-S- (3,4-dihidroxybutyl)-L-cysteine(ng/mL)"	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXDPM	N-acetyl-S-(dimethylphenyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXGAM	N-acetyl-S-(2-carbamoyl-2-hydroxyethyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXHEM	N-acetyl-S-(2-hydroxyethyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXHP2	N-acetyl-S- (2-hydroxypropyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXHPM	N-acetyl-S- (3-hydroxypropyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXMAD	Mandelic acid(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXMB1	N-acetyl-S-(1-hydroxyMethyl)-2-Propenyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXMB2	N-acetyl-S- (2-hydroxy-3-butenyl)-L-cysteine (ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXMB3	N-acetyl-S- (4-hydroxy-2-butenyl)-L-cysteine (ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXPHE	N-acetyl-S-(phenyl-2-hydroxyethyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXPHG	Phenylglyoxylic acid(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXPMA	N-acetyl-S-(phenyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXPMM	N-acetyl-S-(3-hydroxypropyl-1-methyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXTCV	N-acetyl-S-(trichlorovinyl)-L-cysteine(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXTTC	2-thioxothiazolidine-4-carboxylic acid(ng/mL)	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+URXUCR	"Creatinine, urine (mg/dL)"	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+WTFSM	Two Year Smoking Weights	UVOCS_H	Volatile Organic Compounds & Metabolites - Urine	2013	2014	Laboratory	None
+LBDVD2LC	25-hydroxyvitamin D2 comment code	VID_H	Vitamin D	2013	2014	Laboratory	None
+LBDVD3LC	25-hydroxyvitamin D3 comment code	VID_H	Vitamin D	2013	2014	Laboratory	None
+LBDVE3LC	epi-25-hydroxyvitamin D3 comment code	VID_H	Vitamin D	2013	2014	Laboratory	None
+LBDVIDLC	25-hydroxyvitamin D2 + D3 comment code	VID_H	Vitamin D	2013	2014	Laboratory	None
+LBXVD2MS	25-hydroxyvitamin D2 (nmol/L)	VID_H	Vitamin D	2013	2014	Laboratory	None
+LBXVD3MS	25-hydroxyvitamin D3 (nmol/L)	VID_H	Vitamin D	2013	2014	Laboratory	None
+LBXVE3MS	epi-25-hydroxyvitamin D3 (nmol/L)	VID_H	Vitamin D	2013	2014	Laboratory	None
+LBXVIDMS	25-hydroxyvitamin D2 + D3	VID_H	Vitamin D	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	VID_H	Vitamin D	2013	2014	Laboratory	None
+LBC028	"2,4,4'-Trichlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC028LA	"2,4,4'-Trichlorobiphenyl Lipid Adjusted"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC066	"2,3',4,4'-Tetrachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC066LA	"2,3',4,4'-Tetrachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC074	"2,4,4',5-Tetrachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC074LA	"2,4,4',5-Tetrachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC099	"2,2',4,4',5-Pentachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC099LA	"2,2',4,4',5-Pentachlorobiphenyl Lipid Adjusted(ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC105	"2,3,3',4,4'-Pentachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC105LA	"2,3,3',4,4'-Pentachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC114	"2,3,4,4',5-Pentachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC114LA	"2,3,4,4',5-Pentachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC118	"2,3',4,4',5-Pentachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC118LA	"2,3',4,4',5-Pentachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC138	"2,2',3,4,4',5'- and 2,3,3',4,4',6-Hexachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC138LA	"2,2',3,4,4',5'- and 2,3,3',4,4',6-Hexachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC146	"2,2',3,4',5,5'-Hexachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC146LA	"2,2',3,4',5,5'-Hexachlorobiphenyl Lipid Adjusted(ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC153	"2,2',4,4',5,5'-Hexachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC153LA	"2,2',4,4',5,5'-Hexachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC156	"2,3,3',4,4',5-Hexachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC156LA	"2,3,3',4,4',5-Hexachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC157	"2,3,3',4,4',5'-Hexachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC157LA	"2,3,3',4,4',5'-Hexachlorobiphenyl Lipid Adjusted(ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC167	"2,3',4,4',5,5'-Hexachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC167LA	"2,3',4,4',5,5'-Hexachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC170	"2,2',3,3',4,4',5-Heptachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC170LA	"2,2',3,3',4,4',5-Heptachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC178	"2,2',3,3',5,5',6-Heptachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC178LA	"2,2',3,3',5,5',6-Heptachlorobiphenyl Lipid Adjusted(ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC180	"2,2',3,4,4',5,5'-Heptachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC180LA	"2,2',3,4,4',5,5'-Heptachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC183	"2,2',3,4,4',5',6-Heptachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC183LA	"2,2',3,4,4',5',6-Heptachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC187	"2,2',3,4',5,5',6-Heptachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC187LA	"2,2',3,4',5,5',6-Heptachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC189	"2,3,3',4,4',5,5'-Heptachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC189LA	"2,3,3',4,4',5,5'-Heptachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC194	"2,2',3,3',4,4',5,5'-Octachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC194LA	"2,2',3,3',4,4',5,5'-Octachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC196	"2,2',3,3',4,4',5',6- and 2,2',3,4,4',5,5',6-Octachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC196LA	"2,2',3,3',4,4',5',6- and 2,2',3,4,4',5,5',6-Octachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC199	"2,2',3,3',4,5,6,6'-Octachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC199LA	"2,2',3,3',4,5,6,6'-Octachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC206	"2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl (pg/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC206LA	"2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl Lipid Adjusted (ng/g)"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC209	Decachlorobiphenyl (pg/g)	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBC209LA	Decachlorobiphenyl Lipid Adjusted (ng/g)	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD028LC	"2,4,4'-Trichlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD066LC	"2,3',4,4'-Tetrachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD074LC	"2,4,4',5-Tetrachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD099LC	"2,2',4,4',5-Pentachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD105LC	"2,3,3',4,4'-Pentachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD114LC	"2,3,4,4',5-Pentachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD118LC	"2,3',4,4',5-Pentachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD138LC	"2,2',3,4,4',5'- and 2,3,3',4,4',6-Hexachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD146LC	"2,2',3,4',5,5'-Hexachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD153LC	"2,2',4,4',5,5'-Hexachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD156LC	"2,3,3',4,4',5-Hexachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD157LC	"2,3,3',4,4',5'-Hexachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD167LC	"2,3',4,4',5,5'-Hexachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD170LC	"2,2',3,3',4,4',5-Heptachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD178LC	"2,2',3,3',5,5',6-Heptachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD180LC	"2,2',3,4,4',5,5'-Heptachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD183LC	"2,2',3,4,4',5',6-Heptachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD187LC	"2,2',3,4',5,5',6-Heptachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD189LC	"2,3,3',4,4',5,5'-Heptachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD194LC	"2,2',3,3',4,4',5,5'-Octachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD196LC	"2,2',3,3',4,4',5',6- and 2,2',3,4,4',5,5',6-Octachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD199LC	"2,2',3,3',4,5,6,6'-Octachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD206LC	"2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl Comment Code"	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBD209LC	Decachlorobiphenyl Comment Code	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIAGENDR	Gender	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIANSMP	Number of samples in a pool	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIDAGGRP	Age group	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIDRETH3	Recode of reported race and Hispanic origin information	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+SAMPLEID	Pool identification number	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+WTBSMSMA	Sum of adjusted subsample weights in same pool	PCBPOL_H	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBB1	"2,2',4,4',5,5'-Hexabromobiphenyl (pg/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBB1LA	"2,2',4,4',5,5'-Hexabromobiphenyl Lipid Adjusted (ng/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR1	"2,2',4-Tribromodiphenyl ether (pg/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR11	Decabromodiphenyl ether (pg/g)	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR11L	Decabromodiphenyl ether Lipid Adjusted (ng/g)	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR1LA	"2,2',4-Tribromodiphenyl ether Lipid Adjusted (ng/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR2	"2,4,4'-Tribromodiphenyl ether (pg/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR2LA	"2,4,4'-Tribromodiphenyl ether Lipid Adjusted (ng/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR3	"2,2',4,4'-Tetrabromodiphenyl ether (pg/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR3LA	"2,2',4,4'-Tetrabromodiphenyl ether Lipid Adjusted (ng/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR4	"2,2',3,4,4'-Pentabromodiphenyl ether (pg/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR4LA	"2,2',3,4,4'-Pentabromodiphenyl ether Lipid Adjusted (ng/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR5	"2,2',4,4',5-Pentabromodiphnyl ether (pg/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR5LA	"2,2',4,4',5-Pentabromodiphenyl ether Lipid Adjusted (ng/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR6	"2,2',4,4',6-Pentabromodiphyl ether (pg/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR66	"2,3',4,4'-Tetrabromodiphenyl ether (pg/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR66L	"2,3',4,4'-Tetrabromodiphenyl ether Lipid Adjusted (ng/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR6LA	"2,2',4,4',6-Pentabromodiphenyl ether Lipid Adjusted (ng/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR7	"2,2',4,4',5,5'-Hxbromodiphnyl ether (pg/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR7LA	"2,2',4,4',5,5'-Hexabromodiphenyl ether Lipid Adjusted (ng/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR8	"2,2',4,4',5,6'-Hexabromodiphenyl ether (pg/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR8LA	"2,2',4,4',5,6'-Hexabromodiphenyl ether Lipid Adjusted (ng/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR9	"2,2',3,4,4',5',6-Heptabromodiphenyl ether (pg/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBR9LA	"2,2',3,4,4',5',6-Heptabromodiphenyl ether Lipid Adjusted (ng/g)"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBB1LC	"2,2',4,4',5,5'-Hexabromobiphenyl Comment Code"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBR11C	Decabromodiphenyl ether Comment Code	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBR1LC	"2,2',4-Tribromodiphenyl ether Comment Code"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBR2LC	"2,4,4'-Tribromodiphenyl ether Comment Code"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBR3LC	"2,2',4,4'-Tetrabromphenyl ether Comment Code"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBR4LC	"2,2',3,4,4'-Pentabromphenyl ether Comment Code"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBR5LC	"2,2',4,4',5-Pentabromodiphenyl ether Comment Code"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBR66C	"2,3',4,4'-Tetrabromodiphenyl ether Comment Code"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBR6LC	"2,2',4,4',6-Pentabromodiphenyl ether Comment Code"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBR7LC	"2,2',4,4',5,5'-Hexabromodiphenyl ether Comment Code"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBR8LC	"2,2',4,4',5,6'-Hexabromodiphenyl ether Comment Code"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBR9LC	"2,2',3,4,4',5',6-Heptabromodiphenyl ether Comment Code"	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIAGENDR	Gender	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIANSMP	Number of samples in a pool	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIDAGGRP	Age group	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIDRETH3	Recode of reported race and Hispanic origin information	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+SAMPLEID	Pool identification number	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+WTBSMSMA	Adjust sum sampling weights in same pool	BFRPOL_H	Brominated Flame Retardants (BFRs) - Serum - Pooled Samples	2013	2014	Laboratory	None
+SAMPLEID	Pool identification number	POOLTF_H	Pooled-Sample Technical Support File	2013	2014	Laboratory	None
+SEQN	Respondent sequence number.	POOLTF_H	Pooled-Sample Technical Support File	2013	2014	Laboratory	None
+WTSB2YRA	Adjusted subsample weight for the individual participant in pooled sample	POOLTF_H	Pooled-Sample Technical Support File	2013	2014	Laboratory	None
+LBCBHC	Beta-hexachlorocyclohexane (pg/g)	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCBHCLA	Beta-hexachlorocyclohexane Lipid Adjusted (ng/g)	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCHCB	Hexachlorobenzene (pg/g)	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCHCBLA	Hexachlorobenzene Lipid Adjusted (ng/g)	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCMIR	Mirex (pg/g)	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCMIRLA	Mirex Lipid Adjusted (ng/g)	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCOXY	Oxychlordane (pg/g)	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCOXYLA	Oxychlordane Lipid Adjusted (ng/g)	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCPDE	"p,p'-dichlorodiphenyltrichloroethene (pg/g)"	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCPDELA	"p,p'-dichlorodiphenyltrichloroethene Lipid Adjusted (ng/g)"	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCPDT	"p,p'-dichlorodiphenyltrichlorethane (pg/g)"	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCPDTLA	"p,p'-dichlorodiphenyltrichlorethane Lipid Adjusted (ng/g)"	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCTNA	trans-Nonachlor (pg/g)	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBCTNALA	trans-Nonachlor Lipid Adjusted (ng/g)	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDBHCLC	Beta-hexachlorocyclohexane comment code	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDHCBLC	Hexachlorobenzene comment code	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDMIRLC	Mirex comment code	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDOXYLC	Oxychlordane comment code	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDPDELC	"p,p'-dichlorodiphenyltrichloroethene comment code"	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDPDTLC	"p,p'-dichlorodiphenyltrichlorethane comment code"	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+LBDTNALC	trans-Nonachlor comment code	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIAGENDR	Gender	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIANSMP	Number of samples in a pool	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIDAGGRP	Age group	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+RIDRETH3	Recode of reported race and Hispanic origin information	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+SAMPLEID	Pool identification number	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
+WTBSMSMA	Adjust sum sampling weights in same pool	PSTPOL_H	Pesticides - Organochlorine Pesticides - Serum - Pooled Samples	2013	2014	Laboratory	None
