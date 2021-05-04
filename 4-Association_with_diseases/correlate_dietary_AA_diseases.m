@@ -206,17 +206,6 @@ for ni=1:10
             for k=1:5
                 test_pos=find(CV_Tag==k);
                 train_pos=find(CV_Tag~=k);
-                
-                %{
-                % Use Lasso generalized linear model (with regularization)
-                [B,FitInfo]=lassoglm(X(train_pos,:),y(train_pos),'binomial','CV',3);%,'constant','off');
-                idxLambdaMinDeviance = FitInfo.IndexMinDeviance;
-                B0 = FitInfo.Intercept(idxLambdaMinDeviance);
-                b = [B0; B(:,idxLambdaMinDeviance)];
-                %}
-                
-                % Use standard generalized linear model without
-                % regularization
                 b = glmfit(X(train_pos,:),y(train_pos),'binomial');
                 
                 ypred(test_pos)=glmval(b,X(test_pos,:),'logit');%,'constant','off');                

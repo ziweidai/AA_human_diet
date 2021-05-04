@@ -34,16 +34,6 @@ for i=1:18
     end
     [~,~,p_Chi2_AA_Obesity(i)]=crosstab(label_obesity,label_quantile);
 end
-figure;
-count=0;
-for i=1:18
-    if p_Chi2_AA_Obesity(i)<0.05
-        count=count+1;
-        subplot(3,6,count);
-        bar(ratios(i,:));
-        title(AANames_NHANES(i));
-    end
-end
 
 figure;
 subplot(3,1,1);
@@ -60,9 +50,7 @@ heatmap(ratios(UAAPos_NHANES,:),1:5,UshapeAANames,[],'MinColorValue',0.34,...
 title('U-shaped relationship');
 xlabel('Dietary intake quantile');
 map=brewermap(64,'RdBu');map=map(64:-1:1,:);colormap(map);colorbar;
-figure;
-heatmap_cluster(ratios(p_Chi2_AA_Obesity<0.05,:),...
-    AANames_NHANES(p_Chi2_AA_Obesity<0.05),1:5,[0.34 0.44]);
+
 
 %% Plot combinational features consisting of AAs with positive or negative
 %association with obesity
@@ -218,27 +206,7 @@ xlabel(sprintf('Quantile of deviation\n from Pareto surface'));
 title(sprintf('Association between\n obesity incidence and\n deviation from Pareto\n surface for diet'));
 xtickangle(0);
 
-% Collapse distance to Pareto surface for the 10 diets to a single Pareto
-% optimality score
-pareto_score = mean(Dis2Pareto,2);
-label_quantile = label_obesity;
-f = polyfit(energy_in, pareto_score, 6);
-pareto_score_adjusted = pareto_score - polyval(f, energy_in);
-pareto_score_adjusted = pareto_score_adjusted(goodpos);
-q4 = quantile(pareto_score_adjusted, 0:0.2:1);
-obesity_incidence_in_pareto_score_quantile = zeros(1,5);
-for i = 1:5
-    label_quantile(pareto_score_adjusted>=q4(i) & pareto_score_adjusted<=q4(i+1)) = i;
-end
-for i = 1:5
-    obesity_incidence_in_pareto_score_quantile(i) = sum(label_obesity(label_quantile == i))/sum(label_quantile == i);
-end
-[~,~,p_chi2_obesity_pareto_score] = crosstab(label_obesity, label_quantile);
-figure;
-bar(obesity_incidence_in_pareto_score_quantile);
-xlabel('Quantile of Pareto score');
-
-% Analyze foods appearing in different Pareto-diets
+%% Analyze foods appearing in different Pareto-diets
 label_foods_in_Pareto_diets = zeros(2335,10);
 for i=1:10
     x = list_Pareto_diets{i};
