@@ -223,17 +223,21 @@ clear AUCs_All y ypred Nut_Group_AUCs ni i j k n_left b X CV_Tag AvalPos ...
 %% Compute correlation between dietary variables and health
 [c,p]=partialcorr(DiseaseScores,Var_Diet(:,40:57),[Var_Demo Var_LifeStyle],...
     'type','Spearman','rows','pairwise');
-c(p>0.05)=NaN;
-cmap_now = brewermap(100,'RdYlGn');
+q_vec = mafdr(p(:), 'BHFDR', true);
+q = reshape(q_vec,4,18);
+c(q>0.05)=0;
+cmap_now = brewermap(100,'RdBu');
 
-figure;heatmap_cluster(c,DiseaseNames,AANames_NHANES,[-0.1 0.1],cmap_now(75:-1:26,:));
+figure;heatmap_cluster(c,DiseaseNames,AANames_NHANES,[-0.1 0.1],cmap_now(end:-1:1,:));
 colorbar;
 title('Correlation between dietary AA composition and human diseases');
 
 [c,p]=partialcorr(DiseaseScores,Carb_Fat_Frac,[Var_Demo Var_LifeStyle],...
     'type','Spearman','rows','pairwise');
-c(p>0.05)=NaN;
-figure;heatmap_cluster(c,DiseaseNames,Carb_Fat_Names,[-0.1 0.1],cmap_now(75:-1:26,:));
+q_vec = mafdr(p(:), 'BHFDR', true);
+q = reshape(q_vec,4,10);
+c(q>0.05)=0;
+figure;heatmap_cluster(c,DiseaseNames,Carb_Fat_Names,[-0.1 0.1],cmap_now(end:-1:1,:));
 colorbar;
 title('Correlation between dietary carbohydrate and fat composition and human diseases');
 
