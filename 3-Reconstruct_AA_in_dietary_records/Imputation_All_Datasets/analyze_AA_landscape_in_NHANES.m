@@ -6,6 +6,9 @@
 % generate the necessary input files before running this script
 %--------------------------------------------------------------------------
 
+% Add necessary functions
+addpath(genpath('../functions'));
+
 %% Load existing variables from workspace saved in ../../data
 load ../../data/AA_variables.mat
 

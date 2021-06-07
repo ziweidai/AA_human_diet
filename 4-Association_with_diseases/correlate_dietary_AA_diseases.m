@@ -3,6 +3,9 @@
 % composition of amino acids and other dietary variables
 %--------------------------------------------------------------------------
 
+% Add necessary functions
+addpath(genpath('../functions'));
+
 %% Load existing variables from workspace saved in ../data
 load ../data/AA_variables.mat;
 

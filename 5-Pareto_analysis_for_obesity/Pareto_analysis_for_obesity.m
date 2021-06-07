@@ -3,6 +3,9 @@
 % composition in detail
 %--------------------------------------------------------------------------
 
+% Add necessary functions
+addpath(genpath('../functions'));
+
 %% Load existing variables from workspace saved in ../data
 load ../data/AA_variables.mat;
 

@@ -14,7 +14,7 @@
 %   ../data/AA_variables.mat
 %------------------------------------------------------------------------%
 
-addpath(genpath('functions'));
+addpath(genpath('../functions'));
 load ../data/AA_variables.mat;
 define_diets; %Generate the mathematical forms of 10 human dietary patterns
 

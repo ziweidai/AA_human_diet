@@ -11,6 +11,7 @@
 
 
 %% Load food nutrient composition data from the USDA SR database
+addpath(genpath('../functions'));
 x=readtable('input_data/FoodMatrix.csv','PreserveVariableNames',true);
 FoodNames=table2array(x(:,1)); %Name of foods
 FoodTypes=table2array(x(:,2)); %Type of foods
