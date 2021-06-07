@@ -72,13 +72,13 @@ clear map0 map1
 
 %% tSNE analysis of AA profiles in foods
 x=tsne(gAA_gProt(Foods_wProt,:));
-figure;gscatter(x(:,1),x(:,2),CATs,map,[],10);xlabel('tSNE 1');ylabel('tSNE 2');
+figure;gscatter(x(:,1),x(:,2),CATs,map,[],20);xlabel('tSNE 1');ylabel('tSNE 2');
 title('t-SNE analysis of amino acid profiles in foods');
 clear x
 
 %% PCA of amino acid profiles in foods
 [~,score,~,~,explained,~]=pca(gAA_gProt(Foods_wProt,:));
-figure;gscatter(score(:,1),score(:,2),CATs,map,[],10);
+figure;gscatter(score(:,1),score(:,2),CATs,map,[],20);
 title('PCA of amino acid profiles in foods');
 
 %% Coefficient of variation
