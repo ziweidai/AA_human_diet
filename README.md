@@ -76,7 +76,7 @@ matlab -r Pareto_analysis_for_obesity
 
 ## 6-Database
 
-This part includes Microsoft Excel and Microsoft Access database files that contain the amino acid levels in human foods, dietary patterns, and dietary records reconstructed in this study.
+This folder includes Microsoft Excel and Microsoft Access database files that contain the amino acid levels in human foods, dietary patterns, and dietary records reconstructed in this study.
 
 * `AA_absolute_NHANES.xlsx`: Absolute intake (g/day) of amino acids in human subjects included in the NHANES datasets
 * `AA_ratio_NHANES.xlsx`: Relative intake (g AA/g protein) of amino acids in human subjects included in the NHANES datasets
@@ -86,7 +86,7 @@ This part includes Microsoft Excel and Microsoft Access database files that cont
 * `AA_foods.xlsx`: Content of amino acids in foods included in the USDA SR database
 * `Amino_acids.accdb`: Microsoft Access database file containing all information in the .xlsx files listed above
 
-# Contributors
+# Contact
 ### Ziwei Dai
 * GitHub: [https://github.com/ziweidai](https://github.com/ziweidai)
 * Email: [daizw@sustech.edu.cn](mailto:daizw@sustech.edu.cn)
