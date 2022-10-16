@@ -10,13 +10,10 @@ addpath(genpath('../functions'));
 load ../data/AA_variables.mat;
 
 %% Plot heatmap for association between dietary amino acid composition and obesity
-NegAANames={'Phenylalanine','Aspartate+Asparagine','Tryptophan','Valine',...
-    'Glutamate+Glutamine'};
-PosAANames={'Glycine','Alanine','Methionine','Lysine','Histidine'};
-UshapeAANames={'Threonine','Proline','Arginine','Leucine','Cystine'};
+NegAANames={'Phenylalanine','Tryptophan','Valine'};
+PosAANames={'Glycine','Methionine'};
 [~,NegAAPos_NHANES]=ismember(NegAANames,AANames_NHANES);
 [~,PosAAPos_NHANES]=ismember(PosAANames,AANames_NHANES);
-[~,UAAPos_NHANES]=ismember(UshapeAANames,AANames_NHANES);
 nq=5;
 ratios=zeros(18,nq);
 label_obesity=DiseaseScores(:,3);
@@ -39,20 +36,18 @@ for i=1:18
 end
 
 figure;
-subplot(3,1,1);
+subplot(2,1,1);
 heatmap(ratios(NegAAPos_NHANES,:),1:5,NegAANames,[],'MinColorValue',0.34,...
     'MaxColorValue',0.44,'ShowAllTicks',true,'GridLine',':');
 title('Negative association');
-subplot(3,1,2);
+subplot(2,1,2);
 heatmap(ratios(PosAAPos_NHANES,:),1:5,PosAANames,[],'MinColorValue',0.34,...
     'MaxColorValue',0.44,'ShowAllTicks',true,'GridLine',':');
 title('Positive association');
-subplot(3,1,3);
-heatmap(ratios(UAAPos_NHANES,:),1:5,UshapeAANames,[],'MinColorValue',0.34,...
-    'MaxColorValue',0.44,'ShowAllTicks',true,'GridLine',':');
-title('U-shaped relationship');
 xlabel('Dietary intake quantile');
-map=brewermap(64,'RdBu');map=map(64:-1:1,:);colormap(map);colorbar;
+cmap_now = brewermap(100,'RdYlGn');
+colormap(cmap_now(75:-1:26,:));
+colorbar;
 
 
 %% Plot combinational features consisting of AAs with positive or negative
@@ -165,9 +160,21 @@ for i_diet=1:10 % Perform the calculation for the i-th diet
     Dis2Pareto(:,i_diet)=min(pdist2([xarray(:) yarray_min(:)],PosNegAA_NHANES))';
     xlabel('AAs-to-maximize [g]');
     ylabel('AAs-to-minimize [g]');
-    xlim([0 400]);ylim([0 300]);
+    xlim([0 100]);ylim([0 150]);
     title(DietNames(i_diet));
 end
+
+figure;
+fill([xarray xarray(end:-1:1)],[yarray_min yarray_max(end:-1:1)],[0.9 0.9 0.9]);
+hold on;
+plot(xarray,yarray_min,'LineWidth',2,'Color',colors(6,:));
+hold on;
+scatter(PosNegAA_NHANES(:,1),PosNegAA_NHANES(:,2),[],colors(5,:),'Marker','.');%[143 170 220]/255);
+Dis2Pareto(:,i_diet)=min(pdist2([xarray(:) yarray_min(:)],PosNegAA_NHANES))';
+xlabel('AAs-to-maximize [g]');
+ylabel('AAs-to-minimize [g]');
+xlim([0 100]);ylim([0 150]);
+title(DietNames(i_diet));
 
 clear xarray yarray_min yarray_max i_diet colors res prob_aa_diet prob_pareto ...
     c_NegAA c_PosAA n
@@ -188,7 +195,7 @@ for i=1:10
     hold on;
     plot(xx,polyval(f,xx));
     xlabel('Protein intake [g/day]');ylabel('Distance (D(x,PS))');title(DietNames(i));
-    xlim([0 400]);ylim([0 40]);colormap(map);
+    xlim([0 200]);ylim([0 20]);colormap(map);
     
     label_quantile=label_obesity;
     dr=dr(goodpos);
@@ -206,7 +213,7 @@ cmap_now = brewermap(100,'RdYlGn');
 colormap(cmap_now(75:-1:26,:));
 heatmap_cluster(ratios,DietNames,1:5,[0.3 0.44]);
 xlabel(sprintf('Quantile of deviation\n from Pareto surface'));
-title(sprintf('Association between\n obesity incidence and\n deviation from Pareto\n surface for diet'));
+title(sprintf('Obesity prevalence vs deviation from Pareto surface'));
 xtickangle(0);
 
 %% Analyze foods appearing in different Pareto-diets
