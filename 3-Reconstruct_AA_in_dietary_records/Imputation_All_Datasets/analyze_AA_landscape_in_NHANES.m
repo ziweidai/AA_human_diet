@@ -202,6 +202,16 @@ Energy=Mat_NutTotal_NHANES(:,34);
 % BMI
 BMI=table2array(ClinVars(:,'bmxbmi'));
 
+% Access to healthcare
+% Insurance coverage (1 for covered, 0 for not covered)
+Insurance = ClinVars{:,'hiq011'};
+Insurance(Insurance == 2) = 0;
+Insurance(Insurance > 2) = NaN;
+% Have routine place for healthcare
+Healthcare = ClinVars{:, 'huq030'};
+Healthcare(Healthcare == 3) = 1;
+Healthcare(Healthcare > 3) = NaN;
+
 %--------------------------------------------------------------------------
 % Analyze human dietary AA intake values obtained by imputation of NHANES
 % data
