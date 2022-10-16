@@ -145,6 +145,10 @@ LipidRatio_Combine = [LipidRatio_1 LipidRatio_2];
 
 % One-way ANOVA comparing AA/carb/fat composition across foods
 FoodTypes_Reduced=FoodTypes(CompletePos);
+FoodTypes_Reduced(strcmp(FoodTypes_Reduced,'Nut and Seed Products'))={'Nuts'};
+FoodTypes_Reduced(strcmp(FoodTypes_Reduced,'Breakfast Cereals')...
+    | strcmp(FoodTypes_Reduced,'Cereal Grains and Pasta'))={'Cereals'};
+
 idx_keep = find(ismember(FoodTypes_Reduced,CATs_keep));
 
 F_ANOVA_AA=zeros(18,1);
@@ -165,9 +169,14 @@ end
 
 % Show violin plots comparing 18:0, polyunsaturated, dietary fiber, lysine,
 % methionine, histidine across food groups
-data_violin = [LipidRatio_Combine(CompletePos(idx_keep),[2 8 1]) CarbRatio(CompletePos(idx_keep),1) gAA_gProt(idx_keep,[14 15 7 5])]; 
-title_violin = {'Polyunsaturated fat','Saturated fat 18:0','Saturated fat',...
-    'Dietary fiber','Methionine','Histidine','Lysine','Proline'};
+[~,order_lipid_F_statistic] = sort(F_ANOVA_Fat,'descend');
+[~,order_AA_F_statistic] = sort(F_ANOVA_AA,'descend');
+[~,order_carb_F_statistic] = sort(F_ANOVA_Carb,'descend');
+data_violin = [LipidRatio_Combine(CompletePos(idx_keep),...
+    order_lipid_F_statistic(1:3)) CarbRatio(CompletePos(idx_keep),...
+    order_carb_F_statistic(1)) gAA_gProt(idx_keep,order_AA_F_statistic(1:4))]; 
+title_violin = [LipidNames_Combine(order_lipid_F_statistic(1:3)) ...
+    CarbNames(order_carb_F_statistic(1)) AANames(order_AA_F_statistic(1:4))];
 ylabel_violin = {'g/g total fat','g/g total fat','g/g total fat','g/g total carbohydrate',...
     'g/g total amino acids','g/g total amino acids','g/g total amino acids','g/g total amino acids'};
 data_violin(isnan(data_violin)) = 0;
@@ -183,3 +192,15 @@ end
 
 clear data_violin title_violin ylabel_violin
 save ../data/AA_variables.mat
+
+%% Additional calculations on lipids required by the reviwers
+lipid_levels_in_foods_all = FoodMatrix(CompletePos,contains(Nutrients,':'));
+lipid_names_all = Nutrients(contains(Nutrients,':'));
+lipid_missing_value_rate = sum(lipid_levels_in_foods_all == -1)/length(CompletePos);
+%lipid_levels_in_foods_filtered = lipid_levels_in_foods_all
+
+%% Additional calculations on carbohydrates required by the reviewers
+sugar_levels_in_foods_all = FoodMatrix(CompletePos,contains(Nutrients,'ose'));
+sugar_names_all = Nutrients(contains(Nutrients,'ose'));
+sugar_missing_value_rate = sum(sugar_levels_in_foods_all == -1)/length(CompletePos);
+
