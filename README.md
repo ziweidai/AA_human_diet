@@ -1,5 +1,5 @@
 # Reconstruction of amino acid landscape in human foods and diets
-This project includes computer code for reconstruction of amino acid profiles in human foods, dietary patterns, and dietary records. Scripts were implemented and tested under `MATLAB R2020a` and `R version 4.0.4`. `Mosek Optimization Tools Version 9.2` is required for solving the linear programming problems.
+This project includes computer code for reconstruction of amino acid profiles in human foods, dietary patterns, and dietary records. Scripts were implemented and tested under `MATLAB R2020a`, `MATLAB R2021a`, `MATLAB R2022a`, and `R version 4.0.4`. `Mosek Optimization Tools Version 9.2` is required for solving the linear programming problems.
 
 ## 1-Analyze_AA_in_foods
 In this part, nutritional profiles of 8,788 human foods obtained from the [USDA SR](https://fdc.nal.usda.gov/download-datasets.html) database are used to analyze the landscape of amino acid content in human foods. 
